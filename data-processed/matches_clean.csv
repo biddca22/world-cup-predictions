@@ -1,0 +1,385 @@
+tournament_id,match_id,stage_name,group_stage,knockout_stage,match_date,match_time,match_datetime,city_name,country_name,home_team_id,home_team_name,home_team_code,away_team_id,away_team_name,away_team_code,home_team_score,away_team_score,home_team_score_margin,away_team_score_margin,extra_time,penalty_shootout
+WC-2002,M-2002-01,group stage,1,0,2002-05-31,20:30,2002-05-31 20:30:00,Seoul,South Korea,T-30,France,FRA,T-65,Senegal,SEN,0,1,-1,1,0,0
+WC-2002,M-2002-02,group stage,1,0,2002-06-01,15:30,2002-06-01 15:30:00,Niigata,Japan,T-60,Republic of Ireland,IRL,T-11,Cameroon,CMR,1,1,0,0,0,0
+WC-2002,M-2002-03,group stage,1,0,2002-06-01,18:00,2002-06-01 18:00:00,Ulsan,South Korea,T-84,Uruguay,URY,T-22,Denmark,DNK,1,2,-1,1,0,0
+WC-2002,M-2002-04,group stage,1,0,2002-06-01,20:30,2002-06-01 20:30:00,Sapporo,Japan,T-31,Germany,DEU,T-63,Saudi Arabia,SAU,8,0,8,-8,0,0
+WC-2002,M-2002-05,group stage,1,0,2002-06-02,14:30,2002-06-02 14:30:00,Ibaraki,Japan,T-03,Argentina,ARG,T-50,Nigeria,NGA,1,0,1,-1,0,0
+WC-2002,M-2002-06,group stage,1,0,2002-06-02,16:30,2002-06-02 16:30:00,Busan,South Korea,T-55,Paraguay,PRY,T-70,South Africa,ZAF,2,2,0,0,0,0
+WC-2002,M-2002-07,group stage,1,0,2002-06-02,18:30,2002-06-02 18:30:00,Saitama,Japan,T-28,England,ENG,T-74,Sweden,SWE,1,1,0,0,0,0
+WC-2002,M-2002-08,group stage,1,0,2002-06-02,20:30,2002-06-02 20:30:00,Gwangju,South Korea,T-73,Spain,ESP,T-69,Slovenia,SVN,3,1,2,-2,0,0
+WC-2002,M-2002-11,group stage,1,0,2002-06-03,20:30,2002-06-03 20:30:00,Sapporo,Japan,T-41,Italy,ITA,T-25,Ecuador,ECU,2,0,2,-2,0,0
+WC-2002,M-2002-09,group stage,1,0,2002-06-03,15:30,2002-06-03 15:30:00,Niigata,Japan,T-18,Croatia,HRV,T-46,Mexico,MEX,0,1,-1,1,0,0
+WC-2002,M-2002-10,group stage,1,0,2002-06-03,18:00,2002-06-03 18:00:00,Ulsan,South Korea,T-09,Brazil,BRA,T-80,Turkey,TUR,2,1,1,-1,0,0
+WC-2002,M-2002-12,group stage,1,0,2002-06-04,15:30,2002-06-04 15:30:00,Gwangju,South Korea,T-14,China,CHN,T-17,Costa Rica,CRI,0,2,-2,2,0,0
+WC-2002,M-2002-13,group stage,1,0,2002-06-04,18:00,2002-06-04 18:00:00,Saitama,Japan,T-44,Japan,JPN,T-06,Belgium,BEL,2,2,0,0,0,0
+WC-2002,M-2002-14,group stage,1,0,2002-06-04,20:30,2002-06-04 20:30:00,Busan,South Korea,T-71,South Korea,KOR,T-57,Poland,POL,2,0,2,-2,0,0
+WC-2002,M-2002-17,group stage,1,0,2002-06-05,20:30,2002-06-05 20:30:00,Ibaraki,Japan,T-31,Germany,DEU,T-60,Republic of Ireland,IRL,1,1,0,0,0,0
+WC-2002,M-2002-15,group stage,1,0,2002-06-05,15:30,2002-06-05 15:30:00,Kobe,Japan,T-62,Russia,RUS,T-79,Tunisia,TUN,2,0,2,-2,0,0
+WC-2002,M-2002-16,group stage,1,0,2002-06-05,18:00,2002-06-05 18:00:00,Suwon,South Korea,T-83,United States,USA,T-58,Portugal,PRT,3,2,1,-1,0,0
+WC-2002,M-2002-20,group stage,1,0,2002-06-06,20:30,2002-06-06 20:30:00,Busan,South Korea,T-30,France,FRA,T-84,Uruguay,URY,0,0,0,0,0,0
+WC-2002,M-2002-19,group stage,1,0,2002-06-06,18:00,2002-06-06 18:00:00,Saitama,Japan,T-11,Cameroon,CMR,T-63,Saudi Arabia,SAU,1,0,1,-1,0,0
+WC-2002,M-2002-18,group stage,1,0,2002-06-06,15:30,2002-06-06 15:30:00,Daegu,South Korea,T-22,Denmark,DNK,T-65,Senegal,SEN,1,1,0,0,0,0
+WC-2002,M-2002-21,group stage,1,0,2002-06-07,15:30,2002-06-07 15:30:00,Kobe,Japan,T-74,Sweden,SWE,T-50,Nigeria,NGA,2,1,1,-1,0,0
+WC-2002,M-2002-22,group stage,1,0,2002-06-07,18:00,2002-06-07 18:00:00,Jeonju,South Korea,T-73,Spain,ESP,T-55,Paraguay,PRY,3,1,2,-2,0,0
+WC-2002,M-2002-23,group stage,1,0,2002-06-07,20:30,2002-06-07 20:30:00,Sapporo,Japan,T-03,Argentina,ARG,T-28,England,ENG,0,1,-1,1,0,0
+WC-2002,M-2002-24,group stage,1,0,2002-06-08,15:30,2002-06-08 15:30:00,Daegu,South Korea,T-70,South Africa,ZAF,T-69,Slovenia,SVN,1,0,1,-1,0,0
+WC-2002,M-2002-25,group stage,1,0,2002-06-08,18:00,2002-06-08 18:00:00,Ibaraki,Japan,T-41,Italy,ITA,T-18,Croatia,HRV,1,2,-1,1,0,0
+WC-2002,M-2002-26,group stage,1,0,2002-06-08,20:30,2002-06-08 20:30:00,Seogwipo,South Korea,T-09,Brazil,BRA,T-14,China,CHN,4,0,4,-4,0,0
+WC-2002,M-2002-28,group stage,1,0,2002-06-09,18:00,2002-06-09 18:00:00,Incheon,South Korea,T-17,Costa Rica,CRI,T-80,Turkey,TUR,1,1,0,0,0,0
+WC-2002,M-2002-29,group stage,1,0,2002-06-09,20:30,2002-06-09 20:30:00,Yokohama,Japan,T-44,Japan,JPN,T-62,Russia,RUS,1,0,1,-1,0,0
+WC-2002,M-2002-27,group stage,1,0,2002-06-09,15:30,2002-06-09 15:30:00,Miyagi,Japan,T-46,Mexico,MEX,T-25,Ecuador,ECU,2,1,1,-1,0,0
+WC-2002,M-2002-30,group stage,1,0,2002-06-10,15:30,2002-06-10 15:30:00,Daegu,South Korea,T-71,South Korea,KOR,T-83,United States,USA,1,1,0,0,0,0
+WC-2002,M-2002-31,group stage,1,0,2002-06-10,18:00,2002-06-10 18:00:00,Ōita,Japan,T-79,Tunisia,TUN,T-06,Belgium,BEL,1,1,0,0,0,0
+WC-2002,M-2002-32,group stage,1,0,2002-06-10,20:30,2002-06-10 20:30:00,Jeonju,South Korea,T-58,Portugal,PRT,T-57,Poland,POL,4,0,4,-4,0,0
+WC-2002,M-2002-33,group stage,1,0,2002-06-11,15:30,2002-06-11 15:30:00,Incheon,South Korea,T-22,Denmark,DNK,T-30,France,FRA,2,0,2,-2,0,0
+WC-2002,M-2002-34,group stage,1,0,2002-06-11,15:30,2002-06-11 15:30:00,Suwon,South Korea,T-65,Senegal,SEN,T-84,Uruguay,URY,3,3,0,0,0,0
+WC-2002,M-2002-35,group stage,1,0,2002-06-11,20:30,2002-06-11 20:30:00,Shizuoka,Japan,T-11,Cameroon,CMR,T-31,Germany,DEU,0,2,-2,2,0,0
+WC-2002,M-2002-36,group stage,1,0,2002-06-11,20:30,2002-06-11 20:30:00,Yokohama,Japan,T-63,Saudi Arabia,SAU,T-60,Republic of Ireland,IRL,0,3,-3,3,0,0
+WC-2002,M-2002-40,group stage,1,0,2002-06-12,20:30,2002-06-12 20:30:00,Daejeon,South Korea,T-70,South Africa,ZAF,T-73,Spain,ESP,2,3,-1,1,0,0
+WC-2002,M-2002-39,group stage,1,0,2002-06-12,20:30,2002-06-12 20:30:00,Seogwipo,South Korea,T-69,Slovenia,SVN,T-55,Paraguay,PRY,1,3,-2,2,0,0
+WC-2002,M-2002-37,group stage,1,0,2002-06-12,15:30,2002-06-12 15:30:00,Osaka,Japan,T-50,Nigeria,NGA,T-28,England,ENG,0,0,0,0,0,0
+WC-2002,M-2002-38,group stage,1,0,2002-06-12,15:30,2002-06-12 15:30:00,Miyagi,Japan,T-74,Sweden,SWE,T-03,Argentina,ARG,1,1,0,0,0,0
+WC-2002,M-2002-41,group stage,1,0,2002-06-13,15:30,2002-06-13 15:30:00,Suwon,South Korea,T-17,Costa Rica,CRI,T-09,Brazil,BRA,2,5,-3,3,0,0
+WC-2002,M-2002-42,group stage,1,0,2002-06-13,15:30,2002-06-13 15:30:00,Seoul,South Korea,T-80,Turkey,TUR,T-14,China,CHN,3,0,3,-3,0,0
+WC-2002,M-2002-43,group stage,1,0,2002-06-13,20:30,2002-06-13 20:30:00,Yokohama,Japan,T-25,Ecuador,ECU,T-18,Croatia,HRV,1,0,1,-1,0,0
+WC-2002,M-2002-44,group stage,1,0,2002-06-13,20:30,2002-06-13 20:30:00,Ōita,Japan,T-46,Mexico,MEX,T-41,Italy,ITA,1,1,0,0,0,0
+WC-2002,M-2002-45,group stage,1,0,2002-06-14,15:30,2002-06-14 15:30:00,Shizuoka,Japan,T-06,Belgium,BEL,T-62,Russia,RUS,3,2,1,-1,0,0
+WC-2002,M-2002-46,group stage,1,0,2002-06-14,15:30,2002-06-14 15:30:00,Osaka,Japan,T-79,Tunisia,TUN,T-44,Japan,JPN,0,2,-2,2,0,0
+WC-2002,M-2002-47,group stage,1,0,2002-06-14,20:30,2002-06-14 20:30:00,Daejeon,South Korea,T-57,Poland,POL,T-83,United States,USA,3,1,2,-2,0,0
+WC-2002,M-2002-48,group stage,1,0,2002-06-14,20:30,2002-06-14 20:30:00,Incheon,South Korea,T-58,Portugal,PRT,T-71,South Korea,KOR,0,1,-1,1,0,0
+WC-2002,M-2002-50,round of 16,0,1,2002-06-15,20:30,2002-06-15 20:30:00,Niigata,Japan,T-22,Denmark,DNK,T-28,England,ENG,0,3,-3,3,0,0
+WC-2002,M-2002-49,round of 16,0,1,2002-06-15,15:30,2002-06-15 15:30:00,Seogwipo,South Korea,T-31,Germany,DEU,T-55,Paraguay,PRY,1,0,1,-1,0,0
+WC-2002,M-2002-51,round of 16,0,1,2002-06-16,15:30,2002-06-16 15:30:00,Ōita,Japan,T-74,Sweden,SWE,T-65,Senegal,SEN,1,2,-1,1,1,0
+WC-2002,M-2002-52,round of 16,0,1,2002-06-16,20:30,2002-06-16 20:30:00,Suwon,South Korea,T-73,Spain,ESP,T-60,Republic of Ireland,IRL,1,1,0,0,1,1
+WC-2002,M-2002-53,round of 16,0,1,2002-06-17,15:30,2002-06-17 15:30:00,Jeonju,South Korea,T-46,Mexico,MEX,T-83,United States,USA,0,2,-2,2,0,0
+WC-2002,M-2002-54,round of 16,0,1,2002-06-17,20:30,2002-06-17 20:30:00,Kobe,Japan,T-09,Brazil,BRA,T-06,Belgium,BEL,2,0,2,-2,0,0
+WC-2002,M-2002-55,round of 16,0,1,2002-06-18,15:30,2002-06-18 15:30:00,Miyagi,Japan,T-44,Japan,JPN,T-80,Turkey,TUR,0,1,-1,1,0,0
+WC-2002,M-2002-56,round of 16,0,1,2002-06-18,20:30,2002-06-18 20:30:00,Daejeon,South Korea,T-71,South Korea,KOR,T-41,Italy,ITA,2,1,1,-1,1,0
+WC-2002,M-2002-57,quarter-finals,0,1,2002-06-21,15:30,2002-06-21 15:30:00,Shizuoka,Japan,T-28,England,ENG,T-09,Brazil,BRA,1,2,-1,1,0,0
+WC-2002,M-2002-58,quarter-finals,0,1,2002-06-21,20:30,2002-06-21 20:30:00,Ulsan,South Korea,T-31,Germany,DEU,T-83,United States,USA,1,0,1,-1,0,0
+WC-2002,M-2002-60,quarter-finals,0,1,2002-06-22,20:30,2002-06-22 20:30:00,Osaka,Japan,T-65,Senegal,SEN,T-80,Turkey,TUR,0,1,-1,1,1,0
+WC-2002,M-2002-59,quarter-finals,0,1,2002-06-22,15:30,2002-06-22 15:30:00,Gwangju,South Korea,T-73,Spain,ESP,T-71,South Korea,KOR,0,0,0,0,1,1
+WC-2002,M-2002-61,semi-finals,0,1,2002-06-25,20:30,2002-06-25 20:30:00,Seoul,South Korea,T-31,Germany,DEU,T-71,South Korea,KOR,1,0,1,-1,0,0
+WC-2002,M-2002-62,semi-finals,0,1,2002-06-26,20:30,2002-06-26 20:30:00,Saitama,Japan,T-09,Brazil,BRA,T-80,Turkey,TUR,1,0,1,-1,0,0
+WC-2002,M-2002-63,third-place match,0,1,2002-06-29,20:00,2002-06-29 20:00:00,Daegu,South Korea,T-71,South Korea,KOR,T-80,Turkey,TUR,2,3,-1,1,0,0
+WC-2002,M-2002-64,final,0,1,2002-06-30,20:00,2002-06-30 20:00:00,Yokohama,Japan,T-31,Germany,DEU,T-09,Brazil,BRA,0,2,-2,2,0,0
+WC-2006,M-2006-01,group stage,1,0,2006-06-09,18:00,2006-06-09 18:00:00,Munich,Germany,T-31,Germany,DEU,T-17,Costa Rica,CRI,4,2,2,-2,0,0
+WC-2006,M-2006-02,group stage,1,0,2006-06-09,21:00,2006-06-09 21:00:00,Gelsenkirchen,Germany,T-57,Poland,POL,T-25,Ecuador,ECU,0,2,-2,2,0,0
+WC-2006,M-2006-03,group stage,1,0,2006-06-10,15:00,2006-06-10 15:00:00,Frankfurt,Germany,T-28,England,ENG,T-55,Paraguay,PRY,1,0,1,-1,0,0
+WC-2006,M-2006-04,group stage,1,0,2006-06-10,18:00,2006-06-10 18:00:00,Dortmund,Germany,T-78,Trinidad and Tobago,TTO,T-74,Sweden,SWE,0,0,0,0,0,0
+WC-2006,M-2006-05,group stage,1,0,2006-06-10,21:00,2006-06-10 21:00:00,Hamburg,Germany,T-03,Argentina,ARG,T-42,Ivory Coast,CIV,2,1,1,-1,0,0
+WC-2006,M-2006-06,group stage,1,0,2006-06-11,15:00,2006-06-11 15:00:00,Leipzig,Germany,T-67,Serbia and Montenegro,SCG,T-48,Netherlands,NLD,0,1,-1,1,0,0
+WC-2006,M-2006-07,group stage,1,0,2006-06-11,18:00,2006-06-11 18:00:00,Nuremberg,Germany,T-46,Mexico,MEX,T-38,Iran,IRN,3,1,2,-2,0,0
+WC-2006,M-2006-08,group stage,1,0,2006-06-11,21:00,2006-06-11 21:00:00,Cologne,Germany,T-02,Angola,AGO,T-58,Portugal,PRT,0,1,-1,1,0,0
+WC-2006,M-2006-09,group stage,1,0,2006-06-12,15:00,2006-06-12 15:00:00,Kaiserslautern,Germany,T-04,Australia,AUS,T-44,Japan,JPN,3,1,2,-2,0,0
+WC-2006,M-2006-10,group stage,1,0,2006-06-12,18:00,2006-06-12 18:00:00,Gelsenkirchen,Germany,T-83,United States,USA,T-20,Czech Republic,CZE,0,3,-3,3,0,0
+WC-2006,M-2006-11,group stage,1,0,2006-06-12,21:00,2006-06-12 21:00:00,Hanover,Germany,T-41,Italy,ITA,T-32,Ghana,GHA,2,0,2,-2,0,0
+WC-2006,M-2006-13,group stage,1,0,2006-06-13,18:00,2006-06-13 18:00:00,Stuttgart,Germany,T-30,France,FRA,T-75,Switzerland,CHE,0,0,0,0,0,0
+WC-2006,M-2006-14,group stage,1,0,2006-06-13,21:00,2006-06-13 21:00:00,Berlin,Germany,T-09,Brazil,BRA,T-18,Croatia,HRV,1,0,1,-1,0,0
+WC-2006,M-2006-12,group stage,1,0,2006-06-13,15:00,2006-06-13 15:00:00,Frankfurt,Germany,T-71,South Korea,KOR,T-77,Togo,TGO,2,1,1,-1,0,0
+WC-2006,M-2006-16,group stage,1,0,2006-06-14,18:00,2006-06-14 18:00:00,Munich,Germany,T-79,Tunisia,TUN,T-63,Saudi Arabia,SAU,2,2,0,0,0,0
+WC-2006,M-2006-17,group stage,1,0,2006-06-14,21:00,2006-06-14 21:00:00,Dortmund,Germany,T-31,Germany,DEU,T-57,Poland,POL,1,0,1,-1,0,0
+WC-2006,M-2006-15,group stage,1,0,2006-06-14,15:00,2006-06-14 15:00:00,Leipzig,Germany,T-73,Spain,ESP,T-81,Ukraine,UKR,4,0,4,-4,0,0
+WC-2006,M-2006-20,group stage,1,0,2006-06-15,21:00,2006-06-15 21:00:00,Berlin,Germany,T-74,Sweden,SWE,T-55,Paraguay,PRY,1,0,1,-1,0,0
+WC-2006,M-2006-19,group stage,1,0,2006-06-15,18:00,2006-06-15 18:00:00,Nuremberg,Germany,T-28,England,ENG,T-78,Trinidad and Tobago,TTO,2,0,2,-2,0,0
+WC-2006,M-2006-18,group stage,1,0,2006-06-15,15:00,2006-06-15 15:00:00,Hamburg,Germany,T-25,Ecuador,ECU,T-17,Costa Rica,CRI,3,0,3,-3,0,0
+WC-2006,M-2006-21,group stage,1,0,2006-06-16,15:00,2006-06-16 15:00:00,Gelsenkirchen,Germany,T-03,Argentina,ARG,T-67,Serbia and Montenegro,SCG,6,0,6,-6,0,0
+WC-2006,M-2006-22,group stage,1,0,2006-06-16,18:00,2006-06-16 18:00:00,Stuttgart,Germany,T-48,Netherlands,NLD,T-42,Ivory Coast,CIV,2,1,1,-1,0,0
+WC-2006,M-2006-23,group stage,1,0,2006-06-16,21:00,2006-06-16 21:00:00,Hanover,Germany,T-46,Mexico,MEX,T-02,Angola,AGO,0,0,0,0,0,0
+WC-2006,M-2006-24,group stage,1,0,2006-06-17,15:00,2006-06-17 15:00:00,Frankfurt,Germany,T-58,Portugal,PRT,T-38,Iran,IRN,2,0,2,-2,0,0
+WC-2006,M-2006-25,group stage,1,0,2006-06-17,18:00,2006-06-17 18:00:00,Cologne,Germany,T-20,Czech Republic,CZE,T-32,Ghana,GHA,0,2,-2,2,0,0
+WC-2006,M-2006-26,group stage,1,0,2006-06-17,21:00,2006-06-17 21:00:00,Kaiserslautern,Germany,T-41,Italy,ITA,T-83,United States,USA,1,1,0,0,0,0
+WC-2006,M-2006-28,group stage,1,0,2006-06-18,18:00,2006-06-18 18:00:00,Munich,Germany,T-09,Brazil,BRA,T-04,Australia,AUS,2,0,2,-2,0,0
+WC-2006,M-2006-29,group stage,1,0,2006-06-18,21:00,2006-06-18 21:00:00,Leipzig,Germany,T-30,France,FRA,T-71,South Korea,KOR,1,1,0,0,0,0
+WC-2006,M-2006-27,group stage,1,0,2006-06-18,15:00,2006-06-18 15:00:00,Nuremberg,Germany,T-44,Japan,JPN,T-18,Croatia,HRV,0,0,0,0,0,0
+WC-2006,M-2006-30,group stage,1,0,2006-06-19,15:00,2006-06-19 15:00:00,Dortmund,Germany,T-77,Togo,TGO,T-75,Switzerland,CHE,0,2,-2,2,0,0
+WC-2006,M-2006-31,group stage,1,0,2006-06-19,18:00,2006-06-19 18:00:00,Hamburg,Germany,T-63,Saudi Arabia,SAU,T-81,Ukraine,UKR,0,4,-4,4,0,0
+WC-2006,M-2006-32,group stage,1,0,2006-06-19,21:00,2006-06-19 21:00:00,Stuttgart,Germany,T-73,Spain,ESP,T-79,Tunisia,TUN,3,1,2,-2,0,0
+WC-2006,M-2006-33,group stage,1,0,2006-06-20,16:00,2006-06-20 16:00:00,Hanover,Germany,T-17,Costa Rica,CRI,T-57,Poland,POL,1,2,-1,1,0,0
+WC-2006,M-2006-34,group stage,1,0,2006-06-20,16:00,2006-06-20 16:00:00,Berlin,Germany,T-25,Ecuador,ECU,T-31,Germany,DEU,0,3,-3,3,0,0
+WC-2006,M-2006-35,group stage,1,0,2006-06-20,21:00,2006-06-20 21:00:00,Kaiserslautern,Germany,T-55,Paraguay,PRY,T-78,Trinidad and Tobago,TTO,2,0,2,-2,0,0
+WC-2006,M-2006-36,group stage,1,0,2006-06-20,21:00,2006-06-20 21:00:00,Cologne,Germany,T-74,Sweden,SWE,T-28,England,ENG,2,2,0,0,0,0
+WC-2006,M-2006-40,group stage,1,0,2006-06-21,21:00,2006-06-21 21:00:00,Frankfurt,Germany,T-48,Netherlands,NLD,T-03,Argentina,ARG,0,0,0,0,0,0
+WC-2006,M-2006-39,group stage,1,0,2006-06-21,21:00,2006-06-21 21:00:00,Munich,Germany,T-42,Ivory Coast,CIV,T-67,Serbia and Montenegro,SCG,3,2,1,-1,0,0
+WC-2006,M-2006-38,group stage,1,0,2006-06-21,16:00,2006-06-21 16:00:00,Gelsenkirchen,Germany,T-58,Portugal,PRT,T-46,Mexico,MEX,2,1,1,-1,0,0
+WC-2006,M-2006-37,group stage,1,0,2006-06-21,16:00,2006-06-21 16:00:00,Leipzig,Germany,T-38,Iran,IRN,T-02,Angola,AGO,1,1,0,0,0,0
+WC-2006,M-2006-41,group stage,1,0,2006-06-22,16:00,2006-06-22 16:00:00,Hamburg,Germany,T-20,Czech Republic,CZE,T-41,Italy,ITA,0,2,-2,2,0,0
+WC-2006,M-2006-42,group stage,1,0,2006-06-22,16:00,2006-06-22 16:00:00,Nuremberg,Germany,T-32,Ghana,GHA,T-83,United States,USA,2,1,1,-1,0,0
+WC-2006,M-2006-43,group stage,1,0,2006-06-22,21:00,2006-06-22 21:00:00,Stuttgart,Germany,T-18,Croatia,HRV,T-04,Australia,AUS,2,2,0,0,0,0
+WC-2006,M-2006-44,group stage,1,0,2006-06-22,21:00,2006-06-22 21:00:00,Dortmund,Germany,T-44,Japan,JPN,T-09,Brazil,BRA,1,4,-3,3,0,0
+WC-2006,M-2006-47,group stage,1,0,2006-06-23,21:00,2006-06-23 21:00:00,Hanover,Germany,T-75,Switzerland,CHE,T-71,South Korea,KOR,2,0,2,-2,0,0
+WC-2006,M-2006-48,group stage,1,0,2006-06-23,21:00,2006-06-23 21:00:00,Cologne,Germany,T-77,Togo,TGO,T-30,France,FRA,0,2,-2,2,0,0
+WC-2006,M-2006-45,group stage,1,0,2006-06-23,16:00,2006-06-23 16:00:00,Kaiserslautern,Germany,T-63,Saudi Arabia,SAU,T-73,Spain,ESP,0,1,-1,1,0,0
+WC-2006,M-2006-46,group stage,1,0,2006-06-23,16:00,2006-06-23 16:00:00,Berlin,Germany,T-81,Ukraine,UKR,T-79,Tunisia,TUN,1,0,1,-1,0,0
+WC-2006,M-2006-49,round of 16,0,1,2006-06-24,17:00,2006-06-24 17:00:00,Munich,Germany,T-31,Germany,DEU,T-74,Sweden,SWE,2,0,2,-2,0,0
+WC-2006,M-2006-50,round of 16,0,1,2006-06-24,21:00,2006-06-24 21:00:00,Leipzig,Germany,T-03,Argentina,ARG,T-46,Mexico,MEX,2,1,1,-1,1,0
+WC-2006,M-2006-51,round of 16,0,1,2006-06-25,17:00,2006-06-25 17:00:00,Stuttgart,Germany,T-28,England,ENG,T-25,Ecuador,ECU,1,0,1,-1,0,0
+WC-2006,M-2006-52,round of 16,0,1,2006-06-25,21:00,2006-06-25 21:00:00,Nuremberg,Germany,T-58,Portugal,PRT,T-48,Netherlands,NLD,1,0,1,-1,0,0
+WC-2006,M-2006-53,round of 16,0,1,2006-06-26,17:00,2006-06-26 17:00:00,Kaiserslautern,Germany,T-41,Italy,ITA,T-04,Australia,AUS,1,0,1,-1,0,0
+WC-2006,M-2006-54,round of 16,0,1,2006-06-26,21:00,2006-06-26 21:00:00,Cologne,Germany,T-75,Switzerland,CHE,T-81,Ukraine,UKR,0,0,0,0,1,1
+WC-2006,M-2006-55,round of 16,0,1,2006-06-27,17:00,2006-06-27 17:00:00,Dortmund,Germany,T-09,Brazil,BRA,T-32,Ghana,GHA,3,0,3,-3,0,0
+WC-2006,M-2006-56,round of 16,0,1,2006-06-27,21:00,2006-06-27 21:00:00,Hanover,Germany,T-73,Spain,ESP,T-30,France,FRA,1,3,-2,2,0,0
+WC-2006,M-2006-58,quarter-finals,0,1,2006-06-30,21:00,2006-06-30 21:00:00,Hamburg,Germany,T-41,Italy,ITA,T-81,Ukraine,UKR,3,0,3,-3,0,0
+WC-2006,M-2006-57,quarter-finals,0,1,2006-06-30,17:00,2006-06-30 17:00:00,Berlin,Germany,T-31,Germany,DEU,T-03,Argentina,ARG,1,1,0,0,1,1
+WC-2006,M-2006-59,quarter-finals,0,1,2006-07-01,17:00,2006-07-01 17:00:00,Gelsenkirchen,Germany,T-28,England,ENG,T-58,Portugal,PRT,0,0,0,0,1,1
+WC-2006,M-2006-60,quarter-finals,0,1,2006-07-01,21:00,2006-07-01 21:00:00,Frankfurt,Germany,T-09,Brazil,BRA,T-30,France,FRA,0,1,-1,1,0,0
+WC-2006,M-2006-61,semi-finals,0,1,2006-07-04,21:00,2006-07-04 21:00:00,Dortmund,Germany,T-31,Germany,DEU,T-41,Italy,ITA,0,2,-2,2,1,0
+WC-2006,M-2006-62,semi-finals,0,1,2006-07-05,21:00,2006-07-05 21:00:00,Munich,Germany,T-58,Portugal,PRT,T-30,France,FRA,0,1,-1,1,0,0
+WC-2006,M-2006-63,third-place match,0,1,2006-07-08,21:00,2006-07-08 21:00:00,Stuttgart,Germany,T-31,Germany,DEU,T-58,Portugal,PRT,3,1,2,-2,0,0
+WC-2006,M-2006-64,final,0,1,2006-07-09,20:00,2006-07-09 20:00:00,Berlin,Germany,T-41,Italy,ITA,T-30,France,FRA,1,1,0,0,1,1
+WC-2010,M-2010-02,group stage,1,0,2010-06-11,20:30,2010-06-11 20:30:00,Cape Town,South Africa,T-84,Uruguay,URY,T-30,France,FRA,0,0,0,0,0,0
+WC-2010,M-2010-01,group stage,1,0,2010-06-11,16:00,2010-06-11 16:00:00,Johannesburg,South Africa,T-70,South Africa,ZAF,T-46,Mexico,MEX,1,1,0,0,0,0
+WC-2010,M-2010-03,group stage,1,0,2010-06-12,13:30,2010-06-12 13:30:00,Port Elizabeth,South Africa,T-71,South Korea,KOR,T-33,Greece,GRC,2,0,2,-2,0,0
+WC-2010,M-2010-04,group stage,1,0,2010-06-12,16:00,2010-06-12 16:00:00,Johannesburg,South Africa,T-03,Argentina,ARG,T-50,Nigeria,NGA,1,0,1,-1,0,0
+WC-2010,M-2010-05,group stage,1,0,2010-06-12,20:30,2010-06-12 20:30:00,Rustenburg,South Africa,T-28,England,ENG,T-83,United States,USA,1,1,0,0,0,0
+WC-2010,M-2010-06,group stage,1,0,2010-06-13,13:30,2010-06-13 13:30:00,Polokwane,South Africa,T-01,Algeria,DZA,T-69,Slovenia,SVN,0,1,-1,1,0,0
+WC-2010,M-2010-07,group stage,1,0,2010-06-13,16:00,2010-06-13 16:00:00,Pretoria,South Africa,T-66,Serbia,SRB,T-32,Ghana,GHA,0,1,-1,1,0,0
+WC-2010,M-2010-08,group stage,1,0,2010-06-13,20:30,2010-06-13 20:30:00,Durban,South Africa,T-31,Germany,DEU,T-04,Australia,AUS,4,0,4,-4,0,0
+WC-2010,M-2010-09,group stage,1,0,2010-06-14,13:30,2010-06-14 13:30:00,Johannesburg,South Africa,T-48,Netherlands,NLD,T-22,Denmark,DNK,2,0,2,-2,0,0
+WC-2010,M-2010-10,group stage,1,0,2010-06-14,16:00,2010-06-14 16:00:00,Bloemfontein,South Africa,T-44,Japan,JPN,T-11,Cameroon,CMR,1,0,1,-1,0,0
+WC-2010,M-2010-11,group stage,1,0,2010-06-14,20:30,2010-06-14 20:30:00,Cape Town,South Africa,T-41,Italy,ITA,T-55,Paraguay,PRY,1,1,0,0,0,0
+WC-2010,M-2010-14,group stage,1,0,2010-06-15,20:30,2010-06-15 20:30:00,Johannesburg,South Africa,T-09,Brazil,BRA,T-51,North Korea,PRK,2,1,1,-1,0,0
+WC-2010,M-2010-12,group stage,1,0,2010-06-15,13:30,2010-06-15 13:30:00,Rustenburg,South Africa,T-49,New Zealand,NZL,T-68,Slovakia,SVK,1,1,0,0,0,0
+WC-2010,M-2010-13,group stage,1,0,2010-06-15,16:00,2010-06-15 16:00:00,Port Elizabeth,South Africa,T-42,Ivory Coast,CIV,T-58,Portugal,PRT,0,0,0,0,0,0
+WC-2010,M-2010-15,group stage,1,0,2010-06-16,13:30,2010-06-16 13:30:00,Nelspruit,South Africa,T-35,Honduras,HND,T-13,Chile,CHL,0,1,-1,1,0,0
+WC-2010,M-2010-16,group stage,1,0,2010-06-16,16:00,2010-06-16 16:00:00,Durban,South Africa,T-73,Spain,ESP,T-75,Switzerland,CHE,0,1,-1,1,0,0
+WC-2010,M-2010-17,group stage,1,0,2010-06-16,20:30,2010-06-16 20:30:00,Pretoria,South Africa,T-70,South Africa,ZAF,T-84,Uruguay,URY,0,3,-3,3,0,0
+WC-2010,M-2010-20,group stage,1,0,2010-06-17,20:30,2010-06-17 20:30:00,Polokwane,South Africa,T-30,France,FRA,T-46,Mexico,MEX,0,2,-2,2,0,0
+WC-2010,M-2010-18,group stage,1,0,2010-06-17,13:30,2010-06-17 13:30:00,Johannesburg,South Africa,T-03,Argentina,ARG,T-71,South Korea,KOR,4,1,3,-3,0,0
+WC-2010,M-2010-19,group stage,1,0,2010-06-17,16:00,2010-06-17 16:00:00,Bloemfontein,South Africa,T-33,Greece,GRC,T-50,Nigeria,NGA,2,1,1,-1,0,0
+WC-2010,M-2010-23,group stage,1,0,2010-06-18,20:30,2010-06-18 20:30:00,Cape Town,South Africa,T-28,England,ENG,T-01,Algeria,DZA,0,0,0,0,0,0
+WC-2010,M-2010-22,group stage,1,0,2010-06-18,16:00,2010-06-18 16:00:00,Johannesburg,South Africa,T-69,Slovenia,SVN,T-83,United States,USA,2,2,0,0,0,0
+WC-2010,M-2010-21,group stage,1,0,2010-06-18,13:30,2010-06-18 13:30:00,Port Elizabeth,South Africa,T-31,Germany,DEU,T-66,Serbia,SRB,0,1,-1,1,0,0
+WC-2010,M-2010-24,group stage,1,0,2010-06-19,13:30,2010-06-19 13:30:00,Durban,South Africa,T-48,Netherlands,NLD,T-44,Japan,JPN,1,0,1,-1,0,0
+WC-2010,M-2010-25,group stage,1,0,2010-06-19,16:00,2010-06-19 16:00:00,Rustenburg,South Africa,T-32,Ghana,GHA,T-04,Australia,AUS,1,1,0,0,0,0
+WC-2010,M-2010-26,group stage,1,0,2010-06-19,20:30,2010-06-19 20:30:00,Pretoria,South Africa,T-11,Cameroon,CMR,T-22,Denmark,DNK,1,2,-1,1,0,0
+WC-2010,M-2010-27,group stage,1,0,2010-06-20,13:30,2010-06-20 13:30:00,Bloemfontein,South Africa,T-68,Slovakia,SVK,T-55,Paraguay,PRY,0,2,-2,2,0,0
+WC-2010,M-2010-28,group stage,1,0,2010-06-20,16:00,2010-06-20 16:00:00,Nelspruit,South Africa,T-41,Italy,ITA,T-49,New Zealand,NZL,1,1,0,0,0,0
+WC-2010,M-2010-29,group stage,1,0,2010-06-20,20:30,2010-06-20 20:30:00,Johannesburg,South Africa,T-09,Brazil,BRA,T-42,Ivory Coast,CIV,3,1,2,-2,0,0
+WC-2010,M-2010-31,group stage,1,0,2010-06-21,16:00,2010-06-21 16:00:00,Port Elizabeth,South Africa,T-13,Chile,CHL,T-75,Switzerland,CHE,1,0,1,-1,0,0
+WC-2010,M-2010-32,group stage,1,0,2010-06-21,20:30,2010-06-21 20:30:00,Johannesburg,South Africa,T-73,Spain,ESP,T-35,Honduras,HND,2,0,2,-2,0,0
+WC-2010,M-2010-30,group stage,1,0,2010-06-21,13:30,2010-06-21 13:30:00,Cape Town,South Africa,T-58,Portugal,PRT,T-51,North Korea,PRK,7,0,7,-7,0,0
+WC-2010,M-2010-33,group stage,1,0,2010-06-22,16:00,2010-06-22 16:00:00,Bloemfontein,South Africa,T-30,France,FRA,T-70,South Africa,ZAF,1,2,-1,1,0,0
+WC-2010,M-2010-34,group stage,1,0,2010-06-22,16:00,2010-06-22 16:00:00,Rustenburg,South Africa,T-46,Mexico,MEX,T-84,Uruguay,URY,0,1,-1,1,0,0
+WC-2010,M-2010-35,group stage,1,0,2010-06-22,20:30,2010-06-22 20:30:00,Polokwane,South Africa,T-33,Greece,GRC,T-03,Argentina,ARG,0,2,-2,2,0,0
+WC-2010,M-2010-36,group stage,1,0,2010-06-22,20:30,2010-06-22 20:30:00,Durban,South Africa,T-50,Nigeria,NGA,T-71,South Korea,KOR,2,2,0,0,0,0
+WC-2010,M-2010-37,group stage,1,0,2010-06-23,16:00,2010-06-23 16:00:00,Port Elizabeth,South Africa,T-69,Slovenia,SVN,T-28,England,ENG,0,1,-1,1,0,0
+WC-2010,M-2010-38,group stage,1,0,2010-06-23,16:00,2010-06-23 16:00:00,Pretoria,South Africa,T-83,United States,USA,T-01,Algeria,DZA,1,0,1,-1,0,0
+WC-2010,M-2010-39,group stage,1,0,2010-06-23,20:30,2010-06-23 20:30:00,Nelspruit,South Africa,T-04,Australia,AUS,T-66,Serbia,SRB,2,1,1,-1,0,0
+WC-2010,M-2010-40,group stage,1,0,2010-06-23,20:30,2010-06-23 20:30:00,Johannesburg,South Africa,T-32,Ghana,GHA,T-31,Germany,DEU,0,1,-1,1,0,0
+WC-2010,M-2010-44,group stage,1,0,2010-06-24,20:30,2010-06-24 20:30:00,Rustenburg,South Africa,T-22,Denmark,DNK,T-44,Japan,JPN,1,3,-2,2,0,0
+WC-2010,M-2010-43,group stage,1,0,2010-06-24,20:30,2010-06-24 20:30:00,Cape Town,South Africa,T-11,Cameroon,CMR,T-48,Netherlands,NLD,1,2,-1,1,0,0
+WC-2010,M-2010-41,group stage,1,0,2010-06-24,16:00,2010-06-24 16:00:00,Polokwane,South Africa,T-55,Paraguay,PRY,T-49,New Zealand,NZL,0,0,0,0,0,0
+WC-2010,M-2010-42,group stage,1,0,2010-06-24,16:00,2010-06-24 16:00:00,Johannesburg,South Africa,T-68,Slovakia,SVK,T-41,Italy,ITA,3,2,1,-1,0,0
+WC-2010,M-2010-45,group stage,1,0,2010-06-25,16:00,2010-06-25 16:00:00,Nelspruit,South Africa,T-51,North Korea,PRK,T-42,Ivory Coast,CIV,0,3,-3,3,0,0
+WC-2010,M-2010-46,group stage,1,0,2010-06-25,16:00,2010-06-25 16:00:00,Durban,South Africa,T-58,Portugal,PRT,T-09,Brazil,BRA,0,0,0,0,0,0
+WC-2010,M-2010-47,group stage,1,0,2010-06-25,20:30,2010-06-25 20:30:00,Pretoria,South Africa,T-13,Chile,CHL,T-73,Spain,ESP,1,2,-1,1,0,0
+WC-2010,M-2010-48,group stage,1,0,2010-06-25,20:30,2010-06-25 20:30:00,Bloemfontein,South Africa,T-75,Switzerland,CHE,T-35,Honduras,HND,0,0,0,0,0,0
+WC-2010,M-2010-49,round of 16,0,1,2010-06-26,16:00,2010-06-26 16:00:00,Port Elizabeth,South Africa,T-84,Uruguay,URY,T-71,South Korea,KOR,2,1,1,-1,0,0
+WC-2010,M-2010-50,round of 16,0,1,2010-06-26,20:30,2010-06-26 20:30:00,Rustenburg,South Africa,T-83,United States,USA,T-32,Ghana,GHA,1,2,-1,1,1,0
+WC-2010,M-2010-52,round of 16,0,1,2010-06-27,20:30,2010-06-27 20:30:00,Johannesburg,South Africa,T-03,Argentina,ARG,T-46,Mexico,MEX,3,1,2,-2,0,0
+WC-2010,M-2010-51,round of 16,0,1,2010-06-27,16:00,2010-06-27 16:00:00,Bloemfontein,South Africa,T-31,Germany,DEU,T-28,England,ENG,4,1,3,-3,0,0
+WC-2010,M-2010-53,round of 16,0,1,2010-06-28,16:00,2010-06-28 16:00:00,Durban,South Africa,T-48,Netherlands,NLD,T-68,Slovakia,SVK,2,1,1,-1,0,0
+WC-2010,M-2010-54,round of 16,0,1,2010-06-28,20:30,2010-06-28 20:30:00,Johannesburg,South Africa,T-09,Brazil,BRA,T-13,Chile,CHL,3,0,3,-3,0,0
+WC-2010,M-2010-55,round of 16,0,1,2010-06-29,16:00,2010-06-29 16:00:00,Pretoria,South Africa,T-55,Paraguay,PRY,T-44,Japan,JPN,0,0,0,0,1,1
+WC-2010,M-2010-56,round of 16,0,1,2010-06-29,20:30,2010-06-29 20:30:00,Cape Town,South Africa,T-73,Spain,ESP,T-58,Portugal,PRT,1,0,1,-1,0,0
+WC-2010,M-2010-57,quarter-finals,0,1,2010-07-02,16:00,2010-07-02 16:00:00,Port Elizabeth,South Africa,T-48,Netherlands,NLD,T-09,Brazil,BRA,2,1,1,-1,0,0
+WC-2010,M-2010-58,quarter-finals,0,1,2010-07-02,20:30,2010-07-02 20:30:00,Johannesburg,South Africa,T-84,Uruguay,URY,T-32,Ghana,GHA,1,1,0,0,1,1
+WC-2010,M-2010-59,quarter-finals,0,1,2010-07-03,16:00,2010-07-03 16:00:00,Cape Town,South Africa,T-03,Argentina,ARG,T-31,Germany,DEU,0,4,-4,4,0,0
+WC-2010,M-2010-60,quarter-finals,0,1,2010-07-03,20:30,2010-07-03 20:30:00,Johannesburg,South Africa,T-55,Paraguay,PRY,T-73,Spain,ESP,0,1,-1,1,0,0
+WC-2010,M-2010-61,semi-finals,0,1,2010-07-06,20:30,2010-07-06 20:30:00,Cape Town,South Africa,T-84,Uruguay,URY,T-48,Netherlands,NLD,2,3,-1,1,0,0
+WC-2010,M-2010-62,semi-finals,0,1,2010-07-07,20:30,2010-07-07 20:30:00,Durban,South Africa,T-31,Germany,DEU,T-73,Spain,ESP,0,1,-1,1,0,0
+WC-2010,M-2010-63,third-place match,0,1,2010-07-10,20:30,2010-07-10 20:30:00,Port Elizabeth,South Africa,T-84,Uruguay,URY,T-31,Germany,DEU,2,3,-1,1,0,0
+WC-2010,M-2010-64,final,0,1,2010-07-11,20:30,2010-07-11 20:30:00,Johannesburg,South Africa,T-48,Netherlands,NLD,T-73,Spain,ESP,0,1,-1,1,1,0
+WC-2014,M-2014-01,group stage,1,0,2014-06-12,17:00,2014-06-12 17:00:00,São Paulo,Brazil,T-09,Brazil,BRA,T-18,Croatia,HRV,3,1,2,-2,0,0
+WC-2014,M-2014-04,group stage,1,0,2014-06-13,18:00,2014-06-13 18:00:00,Cuiabá,Brazil,T-13,Chile,CHL,T-04,Australia,AUS,3,1,2,-2,0,0
+WC-2014,M-2014-03,group stage,1,0,2014-06-13,16:00,2014-06-13 16:00:00,Salvador,Brazil,T-73,Spain,ESP,T-48,Netherlands,NLD,1,5,-4,4,0,0
+WC-2014,M-2014-02,group stage,1,0,2014-06-13,13:00,2014-06-13 13:00:00,Natal,Brazil,T-46,Mexico,MEX,T-11,Cameroon,CMR,1,0,1,-1,0,0
+WC-2014,M-2014-05,group stage,1,0,2014-06-14,13:00,2014-06-14 13:00:00,Belo Horizonte,Brazil,T-16,Colombia,COL,T-33,Greece,GRC,3,0,3,-3,0,0
+WC-2014,M-2014-06,group stage,1,0,2014-06-14,16:00,2014-06-14 16:00:00,Fortaleza,Brazil,T-84,Uruguay,URY,T-17,Costa Rica,CRI,1,3,-2,2,0,0
+WC-2014,M-2014-07,group stage,1,0,2014-06-14,18:00,2014-06-14 18:00:00,Manaus,Brazil,T-28,England,ENG,T-41,Italy,ITA,1,2,-1,1,0,0
+WC-2014,M-2014-08,group stage,1,0,2014-06-14,22:00,2014-06-14 22:00:00,Recife,Brazil,T-42,Ivory Coast,CIV,T-44,Japan,JPN,2,1,1,-1,0,0
+WC-2014,M-2014-09,group stage,1,0,2014-06-15,13:00,2014-06-15 13:00:00,Brasília,Brazil,T-75,Switzerland,CHE,T-25,Ecuador,ECU,2,1,1,-1,0,0
+WC-2014,M-2014-10,group stage,1,0,2014-06-15,16:00,2014-06-15 16:00:00,Porto Alegre,Brazil,T-30,France,FRA,T-35,Honduras,HND,3,0,3,-3,0,0
+WC-2014,M-2014-11,group stage,1,0,2014-06-15,19:00,2014-06-15 19:00:00,Rio de Janeiro,Brazil,T-03,Argentina,ARG,T-08,Bosnia and Herzegovina,BIH,2,1,1,-1,0,0
+WC-2014,M-2014-14,group stage,1,0,2014-06-16,19:00,2014-06-16 19:00:00,Natal,Brazil,T-32,Ghana,GHA,T-83,United States,USA,1,2,-1,1,0,0
+WC-2014,M-2014-12,group stage,1,0,2014-06-16,13:00,2014-06-16 13:00:00,Salvador,Brazil,T-31,Germany,DEU,T-58,Portugal,PRT,4,0,4,-4,0,0
+WC-2014,M-2014-13,group stage,1,0,2014-06-16,16:00,2014-06-16 16:00:00,Curitiba,Brazil,T-38,Iran,IRN,T-50,Nigeria,NGA,0,0,0,0,0,0
+WC-2014,M-2014-15,group stage,1,0,2014-06-17,13:00,2014-06-17 13:00:00,Belo Horizonte,Brazil,T-06,Belgium,BEL,T-01,Algeria,DZA,2,1,1,-1,0,0
+WC-2014,M-2014-16,group stage,1,0,2014-06-17,16:00,2014-06-17 16:00:00,Fortaleza,Brazil,T-09,Brazil,BRA,T-46,Mexico,MEX,0,0,0,0,0,0
+WC-2014,M-2014-17,group stage,1,0,2014-06-17,18:00,2014-06-17 18:00:00,Cuiabá,Brazil,T-62,Russia,RUS,T-71,South Korea,KOR,1,1,0,0,0,0
+WC-2014,M-2014-20,group stage,1,0,2014-06-18,18:00,2014-06-18 18:00:00,Manaus,Brazil,T-11,Cameroon,CMR,T-18,Croatia,HRV,0,4,-4,4,0,0
+WC-2014,M-2014-18,group stage,1,0,2014-06-18,13:00,2014-06-18 13:00:00,Porto Alegre,Brazil,T-04,Australia,AUS,T-48,Netherlands,NLD,2,3,-1,1,0,0
+WC-2014,M-2014-19,group stage,1,0,2014-06-18,16:00,2014-06-18 16:00:00,Rio de Janeiro,Brazil,T-73,Spain,ESP,T-13,Chile,CHL,0,2,-2,2,0,0
+WC-2014,M-2014-23,group stage,1,0,2014-06-19,19:00,2014-06-19 19:00:00,Natal,Brazil,T-44,Japan,JPN,T-33,Greece,GRC,0,0,0,0,0,0
+WC-2014,M-2014-22,group stage,1,0,2014-06-19,16:00,2014-06-19 16:00:00,São Paulo,Brazil,T-84,Uruguay,URY,T-28,England,ENG,2,1,1,-1,0,0
+WC-2014,M-2014-21,group stage,1,0,2014-06-19,13:00,2014-06-19 13:00:00,Brasília,Brazil,T-16,Colombia,COL,T-42,Ivory Coast,CIV,2,1,1,-1,0,0
+WC-2014,M-2014-24,group stage,1,0,2014-06-20,13:00,2014-06-20 13:00:00,Recife,Brazil,T-41,Italy,ITA,T-17,Costa Rica,CRI,0,1,-1,1,0,0
+WC-2014,M-2014-25,group stage,1,0,2014-06-20,16:00,2014-06-20 16:00:00,Salvador,Brazil,T-75,Switzerland,CHE,T-30,France,FRA,2,5,-3,3,0,0
+WC-2014,M-2014-26,group stage,1,0,2014-06-20,19:00,2014-06-20 19:00:00,Curitiba,Brazil,T-35,Honduras,HND,T-25,Ecuador,ECU,1,2,-1,1,0,0
+WC-2014,M-2014-27,group stage,1,0,2014-06-21,13:00,2014-06-21 13:00:00,Belo Horizonte,Brazil,T-03,Argentina,ARG,T-38,Iran,IRN,1,0,1,-1,0,0
+WC-2014,M-2014-28,group stage,1,0,2014-06-21,16:00,2014-06-21 16:00:00,Fortaleza,Brazil,T-31,Germany,DEU,T-32,Ghana,GHA,2,2,0,0,0,0
+WC-2014,M-2014-29,group stage,1,0,2014-06-21,18:00,2014-06-21 18:00:00,Cuiabá,Brazil,T-50,Nigeria,NGA,T-08,Bosnia and Herzegovina,BIH,1,0,1,-1,0,0
+WC-2014,M-2014-31,group stage,1,0,2014-06-22,16:00,2014-06-22 16:00:00,Porto Alegre,Brazil,T-71,South Korea,KOR,T-01,Algeria,DZA,2,4,-2,2,0,0
+WC-2014,M-2014-32,group stage,1,0,2014-06-22,18:00,2014-06-22 18:00:00,Manaus,Brazil,T-83,United States,USA,T-58,Portugal,PRT,2,2,0,0,0,0
+WC-2014,M-2014-30,group stage,1,0,2014-06-22,13:00,2014-06-22 13:00:00,Rio de Janeiro,Brazil,T-06,Belgium,BEL,T-62,Russia,RUS,1,0,1,-1,0,0
+WC-2014,M-2014-33,group stage,1,0,2014-06-23,13:00,2014-06-23 13:00:00,Curitiba,Brazil,T-04,Australia,AUS,T-73,Spain,ESP,0,3,-3,3,0,0
+WC-2014,M-2014-34,group stage,1,0,2014-06-23,13:00,2014-06-23 13:00:00,São Paulo,Brazil,T-48,Netherlands,NLD,T-13,Chile,CHL,2,0,2,-2,0,0
+WC-2014,M-2014-35,group stage,1,0,2014-06-23,17:00,2014-06-23 17:00:00,Brasília,Brazil,T-11,Cameroon,CMR,T-09,Brazil,BRA,1,4,-3,3,0,0
+WC-2014,M-2014-36,group stage,1,0,2014-06-23,17:00,2014-06-23 17:00:00,Recife,Brazil,T-18,Croatia,HRV,T-46,Mexico,MEX,1,3,-2,2,0,0
+WC-2014,M-2014-37,group stage,1,0,2014-06-24,13:00,2014-06-24 13:00:00,Belo Horizonte,Brazil,T-17,Costa Rica,CRI,T-28,England,ENG,0,0,0,0,0,0
+WC-2014,M-2014-38,group stage,1,0,2014-06-24,13:00,2014-06-24 13:00:00,Natal,Brazil,T-41,Italy,ITA,T-84,Uruguay,URY,0,1,-1,1,0,0
+WC-2014,M-2014-39,group stage,1,0,2014-06-24,16:00,2014-06-24 16:00:00,Cuiabá,Brazil,T-44,Japan,JPN,T-16,Colombia,COL,1,4,-3,3,0,0
+WC-2014,M-2014-40,group stage,1,0,2014-06-24,17:00,2014-06-24 17:00:00,Fortaleza,Brazil,T-33,Greece,GRC,T-42,Ivory Coast,CIV,2,1,1,-1,0,0
+WC-2014,M-2014-44,group stage,1,0,2014-06-25,17:00,2014-06-25 17:00:00,Rio de Janeiro,Brazil,T-25,Ecuador,ECU,T-30,France,FRA,0,0,0,0,0,0
+WC-2014,M-2014-43,group stage,1,0,2014-06-25,16:00,2014-06-25 16:00:00,Manaus,Brazil,T-35,Honduras,HND,T-75,Switzerland,CHE,0,3,-3,3,0,0
+WC-2014,M-2014-41,group stage,1,0,2014-06-25,13:00,2014-06-25 13:00:00,Salvador,Brazil,T-08,Bosnia and Herzegovina,BIH,T-38,Iran,IRN,3,1,2,-2,0,0
+WC-2014,M-2014-42,group stage,1,0,2014-06-25,13:00,2014-06-25 13:00:00,Porto Alegre,Brazil,T-50,Nigeria,NGA,T-03,Argentina,ARG,2,3,-1,1,0,0
+WC-2014,M-2014-45,group stage,1,0,2014-06-26,13:00,2014-06-26 13:00:00,Brasília,Brazil,T-58,Portugal,PRT,T-32,Ghana,GHA,2,1,1,-1,0,0
+WC-2014,M-2014-46,group stage,1,0,2014-06-26,13:00,2014-06-26 13:00:00,Recife,Brazil,T-83,United States,USA,T-31,Germany,DEU,0,1,-1,1,0,0
+WC-2014,M-2014-47,group stage,1,0,2014-06-26,17:00,2014-06-26 17:00:00,Curitiba,Brazil,T-01,Algeria,DZA,T-62,Russia,RUS,1,1,0,0,0,0
+WC-2014,M-2014-48,group stage,1,0,2014-06-26,17:00,2014-06-26 17:00:00,São Paulo,Brazil,T-71,South Korea,KOR,T-06,Belgium,BEL,0,1,-1,1,0,0
+WC-2014,M-2014-49,round of 16,0,1,2014-06-28,13:00,2014-06-28 13:00:00,Belo Horizonte,Brazil,T-09,Brazil,BRA,T-13,Chile,CHL,1,1,0,0,1,1
+WC-2014,M-2014-50,round of 16,0,1,2014-06-28,17:00,2014-06-28 17:00:00,Rio de Janeiro,Brazil,T-16,Colombia,COL,T-84,Uruguay,URY,2,0,2,-2,0,0
+WC-2014,M-2014-52,round of 16,0,1,2014-06-29,17:00,2014-06-29 17:00:00,Recife,Brazil,T-17,Costa Rica,CRI,T-33,Greece,GRC,1,1,0,0,1,1
+WC-2014,M-2014-51,round of 16,0,1,2014-06-29,13:00,2014-06-29 13:00:00,Fortaleza,Brazil,T-48,Netherlands,NLD,T-46,Mexico,MEX,2,1,1,-1,0,0
+WC-2014,M-2014-53,round of 16,0,1,2014-06-30,13:00,2014-06-30 13:00:00,Brasília,Brazil,T-30,France,FRA,T-50,Nigeria,NGA,2,0,2,-2,0,0
+WC-2014,M-2014-54,round of 16,0,1,2014-06-30,17:00,2014-06-30 17:00:00,Porto Alegre,Brazil,T-31,Germany,DEU,T-01,Algeria,DZA,2,1,1,-1,1,0
+WC-2014,M-2014-55,round of 16,0,1,2014-07-01,13:00,2014-07-01 13:00:00,São Paulo,Brazil,T-03,Argentina,ARG,T-75,Switzerland,CHE,1,0,1,-1,1,0
+WC-2014,M-2014-56,round of 16,0,1,2014-07-01,17:00,2014-07-01 17:00:00,Salvador,Brazil,T-06,Belgium,BEL,T-83,United States,USA,2,1,1,-1,1,0
+WC-2014,M-2014-57,quarter-finals,0,1,2014-07-04,13:00,2014-07-04 13:00:00,Rio de Janeiro,Brazil,T-30,France,FRA,T-31,Germany,DEU,0,1,-1,1,0,0
+WC-2014,M-2014-58,quarter-finals,0,1,2014-07-04,17:00,2014-07-04 17:00:00,Fortaleza,Brazil,T-09,Brazil,BRA,T-16,Colombia,COL,2,1,1,-1,0,0
+WC-2014,M-2014-59,quarter-finals,0,1,2014-07-05,13:00,2014-07-05 13:00:00,Brasília,Brazil,T-03,Argentina,ARG,T-06,Belgium,BEL,1,0,1,-1,0,0
+WC-2014,M-2014-60,quarter-finals,0,1,2014-07-05,17:00,2014-07-05 17:00:00,Salvador,Brazil,T-48,Netherlands,NLD,T-17,Costa Rica,CRI,0,0,0,0,1,1
+WC-2014,M-2014-61,semi-finals,0,1,2014-07-08,17:00,2014-07-08 17:00:00,Belo Horizonte,Brazil,T-09,Brazil,BRA,T-31,Germany,DEU,1,7,-6,6,0,0
+WC-2014,M-2014-62,semi-finals,0,1,2014-07-09,17:00,2014-07-09 17:00:00,São Paulo,Brazil,T-48,Netherlands,NLD,T-03,Argentina,ARG,0,0,0,0,1,1
+WC-2014,M-2014-63,third-place match,0,1,2014-07-12,17:00,2014-07-12 17:00:00,Brasília,Brazil,T-09,Brazil,BRA,T-48,Netherlands,NLD,0,3,-3,3,0,0
+WC-2014,M-2014-64,final,0,1,2014-07-13,16:00,2014-07-13 16:00:00,Rio de Janeiro,Brazil,T-31,Germany,DEU,T-03,Argentina,ARG,1,0,1,-1,1,0
+WC-2018,M-2018-01,group stage,1,0,2018-06-14,18:00,2018-06-14 18:00:00,Moscow,Russia,T-62,Russia,RUS,T-63,Saudi Arabia,SAU,5,0,5,-5,0,0
+WC-2018,M-2018-04,group stage,1,0,2018-06-15,21:00,2018-06-15 21:00:00,Sochi,Russia,T-58,Portugal,PRT,T-73,Spain,ESP,3,3,0,0,0,0
+WC-2018,M-2018-02,group stage,1,0,2018-06-15,17:00,2018-06-15 17:00:00,Yekaterinburg,Russia,T-26,Egypt,EGY,T-84,Uruguay,URY,0,1,-1,1,0,0
+WC-2018,M-2018-03,group stage,1,0,2018-06-15,18:00,2018-06-15 18:00:00,Saint Petersburg,Russia,T-47,Morocco,MAR,T-38,Iran,IRN,0,1,-1,1,0,0
+WC-2018,M-2018-05,group stage,1,0,2018-06-16,13:00,2018-06-16 13:00:00,Kazan,Russia,T-30,France,FRA,T-04,Australia,AUS,2,1,1,-1,0,0
+WC-2018,M-2018-06,group stage,1,0,2018-06-16,16:00,2018-06-16 16:00:00,Moscow,Russia,T-03,Argentina,ARG,T-37,Iceland,ISL,1,1,0,0,0,0
+WC-2018,M-2018-07,group stage,1,0,2018-06-16,19:00,2018-06-16 19:00:00,Saransk,Russia,T-56,Peru,PER,T-22,Denmark,DNK,0,1,-1,1,0,0
+WC-2018,M-2018-08,group stage,1,0,2018-06-16,21:00,2018-06-16 21:00:00,Kaliningrad,Russia,T-18,Croatia,HRV,T-50,Nigeria,NGA,2,0,2,-2,0,0
+WC-2018,M-2018-09,group stage,1,0,2018-06-17,16:00,2018-06-17 16:00:00,Samara,Russia,T-17,Costa Rica,CRI,T-66,Serbia,SRB,0,1,-1,1,0,0
+WC-2018,M-2018-10,group stage,1,0,2018-06-17,18:00,2018-06-17 18:00:00,Moscow,Russia,T-31,Germany,DEU,T-46,Mexico,MEX,0,1,-1,1,0,0
+WC-2018,M-2018-11,group stage,1,0,2018-06-17,21:00,2018-06-17 21:00:00,Rostov-on-Don,Russia,T-09,Brazil,BRA,T-75,Switzerland,CHE,1,1,0,0,0,0
+WC-2018,M-2018-12,group stage,1,0,2018-06-18,15:00,2018-06-18 15:00:00,Nizhny Novgorod,Russia,T-74,Sweden,SWE,T-71,South Korea,KOR,1,0,1,-1,0,0
+WC-2018,M-2018-13,group stage,1,0,2018-06-18,18:00,2018-06-18 18:00:00,Sochi,Russia,T-06,Belgium,BEL,T-54,Panama,PAN,3,0,3,-3,0,0
+WC-2018,M-2018-14,group stage,1,0,2018-06-18,21:00,2018-06-18 21:00:00,Volgograd,Russia,T-79,Tunisia,TUN,T-28,England,ENG,1,2,-1,1,0,0
+WC-2018,M-2018-17,group stage,1,0,2018-06-19,21:00,2018-06-19 21:00:00,Saint Petersburg,Russia,T-62,Russia,RUS,T-26,Egypt,EGY,3,1,2,-2,0,0
+WC-2018,M-2018-15,group stage,1,0,2018-06-19,15:00,2018-06-19 15:00:00,Saransk,Russia,T-16,Colombia,COL,T-44,Japan,JPN,1,2,-1,1,0,0
+WC-2018,M-2018-16,group stage,1,0,2018-06-19,18:00,2018-06-19 18:00:00,Moscow,Russia,T-57,Poland,POL,T-65,Senegal,SEN,1,2,-1,1,0,0
+WC-2018,M-2018-19,group stage,1,0,2018-06-20,18:00,2018-06-20 18:00:00,Rostov-on-Don,Russia,T-84,Uruguay,URY,T-63,Saudi Arabia,SAU,1,0,1,-1,0,0
+WC-2018,M-2018-20,group stage,1,0,2018-06-20,21:00,2018-06-20 21:00:00,Kazan,Russia,T-38,Iran,IRN,T-73,Spain,ESP,0,1,-1,1,0,0
+WC-2018,M-2018-18,group stage,1,0,2018-06-20,15:00,2018-06-20 15:00:00,Moscow,Russia,T-58,Portugal,PRT,T-47,Morocco,MAR,1,0,1,-1,0,0
+WC-2018,M-2018-22,group stage,1,0,2018-06-21,20:00,2018-06-21 20:00:00,Yekaterinburg,Russia,T-30,France,FRA,T-56,Peru,PER,1,0,1,-1,0,0
+WC-2018,M-2018-23,group stage,1,0,2018-06-21,21:00,2018-06-21 21:00:00,Nizhny Novgorod,Russia,T-03,Argentina,ARG,T-18,Croatia,HRV,0,3,-3,3,0,0
+WC-2018,M-2018-21,group stage,1,0,2018-06-21,16:00,2018-06-21 16:00:00,Samara,Russia,T-22,Denmark,DNK,T-04,Australia,AUS,1,1,0,0,0,0
+WC-2018,M-2018-24,group stage,1,0,2018-06-22,15:00,2018-06-22 15:00:00,Saint Petersburg,Russia,T-09,Brazil,BRA,T-17,Costa Rica,CRI,2,0,2,-2,0,0
+WC-2018,M-2018-25,group stage,1,0,2018-06-22,18:00,2018-06-22 18:00:00,Volgograd,Russia,T-50,Nigeria,NGA,T-37,Iceland,ISL,2,0,2,-2,0,0
+WC-2018,M-2018-26,group stage,1,0,2018-06-22,20:00,2018-06-22 20:00:00,Kaliningrad,Russia,T-66,Serbia,SRB,T-75,Switzerland,CHE,1,2,-1,1,0,0
+WC-2018,M-2018-27,group stage,1,0,2018-06-23,15:00,2018-06-23 15:00:00,Moscow,Russia,T-06,Belgium,BEL,T-79,Tunisia,TUN,5,2,3,-3,0,0
+WC-2018,M-2018-28,group stage,1,0,2018-06-23,18:00,2018-06-23 18:00:00,Rostov-on-Don,Russia,T-71,South Korea,KOR,T-46,Mexico,MEX,1,2,-1,1,0,0
+WC-2018,M-2018-29,group stage,1,0,2018-06-23,21:00,2018-06-23 21:00:00,Sochi,Russia,T-31,Germany,DEU,T-74,Sweden,SWE,2,1,1,-1,0,0
+WC-2018,M-2018-30,group stage,1,0,2018-06-24,15:00,2018-06-24 15:00:00,Nizhny Novgorod,Russia,T-28,England,ENG,T-54,Panama,PAN,6,1,5,-5,0,0
+WC-2018,M-2018-31,group stage,1,0,2018-06-24,20:00,2018-06-24 20:00:00,Yekaterinburg,Russia,T-44,Japan,JPN,T-65,Senegal,SEN,2,2,0,0,0,0
+WC-2018,M-2018-32,group stage,1,0,2018-06-24,21:00,2018-06-24 21:00:00,Kazan,Russia,T-57,Poland,POL,T-16,Colombia,COL,0,3,-3,3,0,0
+WC-2018,M-2018-33,group stage,1,0,2018-06-25,17:00,2018-06-25 17:00:00,Volgograd,Russia,T-63,Saudi Arabia,SAU,T-26,Egypt,EGY,2,1,1,-1,0,0
+WC-2018,M-2018-34,group stage,1,0,2018-06-25,18:00,2018-06-25 18:00:00,Samara,Russia,T-84,Uruguay,URY,T-62,Russia,RUS,3,0,3,-3,0,0
+WC-2018,M-2018-35,group stage,1,0,2018-06-25,20:00,2018-06-25 20:00:00,Kaliningrad,Russia,T-73,Spain,ESP,T-47,Morocco,MAR,2,2,0,0,0,0
+WC-2018,M-2018-36,group stage,1,0,2018-06-25,21:00,2018-06-25 21:00:00,Saransk,Russia,T-38,Iran,IRN,T-58,Portugal,PRT,1,1,0,0,0,0
+WC-2018,M-2018-39,group stage,1,0,2018-06-26,21:00,2018-06-26 21:00:00,Rostov-on-Don,Russia,T-37,Iceland,ISL,T-18,Croatia,HRV,1,2,-1,1,0,0
+WC-2018,M-2018-40,group stage,1,0,2018-06-26,21:00,2018-06-26 21:00:00,Saint Petersburg,Russia,T-50,Nigeria,NGA,T-03,Argentina,ARG,1,2,-1,1,0,0
+WC-2018,M-2018-37,group stage,1,0,2018-06-26,17:00,2018-06-26 17:00:00,Sochi,Russia,T-04,Australia,AUS,T-56,Peru,PER,0,2,-2,2,0,0
+WC-2018,M-2018-38,group stage,1,0,2018-06-26,17:00,2018-06-26 17:00:00,Moscow,Russia,T-22,Denmark,DNK,T-30,France,FRA,0,0,0,0,0,0
+WC-2018,M-2018-41,group stage,1,0,2018-06-27,17:00,2018-06-27 17:00:00,Kazan,Russia,T-71,South Korea,KOR,T-31,Germany,DEU,2,0,2,-2,0,0
+WC-2018,M-2018-42,group stage,1,0,2018-06-27,19:00,2018-06-27 19:00:00,Yekaterinburg,Russia,T-46,Mexico,MEX,T-74,Sweden,SWE,0,3,-3,3,0,0
+WC-2018,M-2018-43,group stage,1,0,2018-06-27,21:00,2018-06-27 21:00:00,Moscow,Russia,T-66,Serbia,SRB,T-09,Brazil,BRA,0,2,-2,2,0,0
+WC-2018,M-2018-44,group stage,1,0,2018-06-27,21:00,2018-06-27 21:00:00,Nizhny Novgorod,Russia,T-75,Switzerland,CHE,T-17,Costa Rica,CRI,2,2,0,0,0,0
+WC-2018,M-2018-47,group stage,1,0,2018-06-28,20:00,2018-06-28 20:00:00,Kaliningrad,Russia,T-28,England,ENG,T-06,Belgium,BEL,0,1,-1,1,0,0
+WC-2018,M-2018-48,group stage,1,0,2018-06-28,21:00,2018-06-28 21:00:00,Saransk,Russia,T-54,Panama,PAN,T-79,Tunisia,TUN,1,2,-1,1,0,0
+WC-2018,M-2018-45,group stage,1,0,2018-06-28,17:00,2018-06-28 17:00:00,Volgograd,Russia,T-44,Japan,JPN,T-57,Poland,POL,0,1,-1,1,0,0
+WC-2018,M-2018-46,group stage,1,0,2018-06-28,18:00,2018-06-28 18:00:00,Samara,Russia,T-65,Senegal,SEN,T-16,Colombia,COL,0,1,-1,1,0,0
+WC-2018,M-2018-49,round of 16,0,1,2018-06-30,17:00,2018-06-30 17:00:00,Kazan,Russia,T-30,France,FRA,T-03,Argentina,ARG,4,3,1,-1,0,0
+WC-2018,M-2018-50,round of 16,0,1,2018-06-30,21:00,2018-06-30 21:00:00,Sochi,Russia,T-84,Uruguay,URY,T-58,Portugal,PRT,2,1,1,-1,0,0
+WC-2018,M-2018-51,round of 16,0,1,2018-07-01,17:00,2018-07-01 17:00:00,Moscow,Russia,T-73,Spain,ESP,T-62,Russia,RUS,1,1,0,0,1,1
+WC-2018,M-2018-52,round of 16,0,1,2018-07-01,21:00,2018-07-01 21:00:00,Nizhny Novgorod,Russia,T-18,Croatia,HRV,T-22,Denmark,DNK,1,1,0,0,1,1
+WC-2018,M-2018-53,round of 16,0,1,2018-07-02,18:00,2018-07-02 18:00:00,Samara,Russia,T-09,Brazil,BRA,T-46,Mexico,MEX,2,0,2,-2,0,0
+WC-2018,M-2018-54,round of 16,0,1,2018-07-02,21:00,2018-07-02 21:00:00,Rostov-on-Don,Russia,T-06,Belgium,BEL,T-44,Japan,JPN,3,2,1,-1,0,0
+WC-2018,M-2018-55,round of 16,0,1,2018-07-03,17:00,2018-07-03 17:00:00,Saint Petersburg,Russia,T-74,Sweden,SWE,T-75,Switzerland,CHE,1,0,1,-1,0,0
+WC-2018,M-2018-56,round of 16,0,1,2018-07-03,21:00,2018-07-03 21:00:00,Moscow,Russia,T-16,Colombia,COL,T-28,England,ENG,1,1,0,0,1,1
+WC-2018,M-2018-57,quarter-finals,0,1,2018-07-06,17:00,2018-07-06 17:00:00,Nizhny Novgorod,Russia,T-84,Uruguay,URY,T-30,France,FRA,0,2,-2,2,0,0
+WC-2018,M-2018-58,quarter-finals,0,1,2018-07-06,21:00,2018-07-06 21:00:00,Kazan,Russia,T-09,Brazil,BRA,T-06,Belgium,BEL,1,2,-1,1,0,0
+WC-2018,M-2018-60,quarter-finals,0,1,2018-07-07,21:00,2018-07-07 21:00:00,Sochi,Russia,T-62,Russia,RUS,T-18,Croatia,HRV,2,2,0,0,1,1
+WC-2018,M-2018-59,quarter-finals,0,1,2018-07-07,18:00,2018-07-07 18:00:00,Samara,Russia,T-74,Sweden,SWE,T-28,England,ENG,0,2,-2,2,0,0
+WC-2018,M-2018-61,semi-finals,0,1,2018-07-10,21:00,2018-07-10 21:00:00,Saint Petersburg,Russia,T-30,France,FRA,T-06,Belgium,BEL,1,0,1,-1,0,0
+WC-2018,M-2018-62,semi-finals,0,1,2018-07-11,21:00,2018-07-11 21:00:00,Moscow,Russia,T-18,Croatia,HRV,T-28,England,ENG,2,1,1,-1,1,0
+WC-2018,M-2018-63,third-place match,0,1,2018-07-14,17:00,2018-07-14 17:00:00,Saint Petersburg,Russia,T-06,Belgium,BEL,T-28,England,ENG,2,0,2,-2,0,0
+WC-2018,M-2018-64,final,0,1,2018-07-15,18:00,2018-07-15 18:00:00,Moscow,Russia,T-30,France,FRA,T-18,Croatia,HRV,4,2,2,-2,0,0
+WC-2022,M-2022-01,group stage,1,0,2022-11-20,19:00,2022-11-20 19:00:00,Al Khor,Qatar,T-59,Qatar,QAT,T-25,Ecuador,ECU,0,2,-2,2,0,0
+WC-2022,M-2022-04,group stage,1,0,2022-11-21,22:00,2022-11-21 22:00:00,Al Rayyan,Qatar,T-83,United States,USA,T-85,Wales,WAL,1,1,0,0,0,0
+WC-2022,M-2022-02,group stage,1,0,2022-11-21,16:00,2022-11-21 16:00:00,Al Rayyan,Qatar,T-28,England,ENG,T-38,Iran,IRN,6,2,4,-4,0,0
+WC-2022,M-2022-03,group stage,1,0,2022-11-21,19:00,2022-11-21 19:00:00,Doha,Qatar,T-65,Senegal,SEN,T-48,Netherlands,NLD,0,2,-2,2,0,0
+WC-2022,M-2022-05,group stage,1,0,2022-11-22,13:00,2022-11-22 13:00:00,Lusail,Qatar,T-03,Argentina,ARG,T-63,Saudi Arabia,SAU,1,2,-1,1,0,0
+WC-2022,M-2022-06,group stage,1,0,2022-11-22,16:00,2022-11-22 16:00:00,Al Rayyan,Qatar,T-22,Denmark,DNK,T-79,Tunisia,TUN,0,0,0,0,0,0
+WC-2022,M-2022-07,group stage,1,0,2022-11-22,19:00,2022-11-22 19:00:00,Doha,Qatar,T-46,Mexico,MEX,T-57,Poland,POL,0,0,0,0,0,0
+WC-2022,M-2022-08,group stage,1,0,2022-11-22,22:00,2022-11-22 22:00:00,Al Wakrah,Qatar,T-30,France,FRA,T-04,Australia,AUS,4,1,3,-3,0,0
+WC-2022,M-2022-09,group stage,1,0,2022-11-23,13:00,2022-11-23 13:00:00,Al Khor,Qatar,T-47,Morocco,MAR,T-18,Croatia,HRV,0,0,0,0,0,0
+WC-2022,M-2022-10,group stage,1,0,2022-11-23,16:00,2022-11-23 16:00:00,Al Rayyan,Qatar,T-31,Germany,DEU,T-44,Japan,JPN,1,2,-1,1,0,0
+WC-2022,M-2022-11,group stage,1,0,2022-11-23,19:00,2022-11-23 19:00:00,Doha,Qatar,T-73,Spain,ESP,T-17,Costa Rica,CRI,7,0,7,-7,0,0
+WC-2022,M-2022-12,group stage,1,0,2022-11-23,22:00,2022-11-23 22:00:00,Al Rayyan,Qatar,T-06,Belgium,BEL,T-12,Canada,CAN,1,0,1,-1,0,0
+WC-2022,M-2022-16,group stage,1,0,2022-11-24,22:00,2022-11-24 22:00:00,Lusail,Qatar,T-09,Brazil,BRA,T-66,Serbia,SRB,2,0,2,-2,0,0
+WC-2022,M-2022-13,group stage,1,0,2022-11-24,13:00,2022-11-24 13:00:00,Al Wakrah,Qatar,T-75,Switzerland,CHE,T-11,Cameroon,CMR,1,0,1,-1,0,0
+WC-2022,M-2022-14,group stage,1,0,2022-11-24,16:00,2022-11-24 16:00:00,Al Rayyan,Qatar,T-84,Uruguay,URY,T-71,South Korea,KOR,0,0,0,0,0,0
+WC-2022,M-2022-15,group stage,1,0,2022-11-24,19:00,2022-11-24 19:00:00,Doha,Qatar,T-58,Portugal,PRT,T-32,Ghana,GHA,3,2,1,-1,0,0
+WC-2022,M-2022-19,group stage,1,0,2022-11-25,19:00,2022-11-25 19:00:00,Al Rayyan,Qatar,T-48,Netherlands,NLD,T-25,Ecuador,ECU,1,1,0,0,0,0
+WC-2022,M-2022-20,group stage,1,0,2022-11-25,22:00,2022-11-25 22:00:00,Al Khor,Qatar,T-28,England,ENG,T-83,United States,USA,0,0,0,0,0,0
+WC-2022,M-2022-17,group stage,1,0,2022-11-25,13:00,2022-11-25 13:00:00,Al Rayyan,Qatar,T-85,Wales,WAL,T-38,Iran,IRN,0,2,-2,2,0,0
+WC-2022,M-2022-18,group stage,1,0,2022-11-25,16:00,2022-11-25 16:00:00,Doha,Qatar,T-59,Qatar,QAT,T-65,Senegal,SEN,1,3,-2,2,0,0
+WC-2022,M-2022-24,group stage,1,0,2022-11-26,22:00,2022-11-26 22:00:00,Lusail,Qatar,T-03,Argentina,ARG,T-46,Mexico,MEX,2,0,2,-2,0,0
+WC-2022,M-2022-23,group stage,1,0,2022-11-26,19:00,2022-11-26 19:00:00,Doha,Qatar,T-30,France,FRA,T-22,Denmark,DNK,2,1,1,-1,0,0
+WC-2022,M-2022-21,group stage,1,0,2022-11-26,13:00,2022-11-26 13:00:00,Al Wakrah,Qatar,T-79,Tunisia,TUN,T-04,Australia,AUS,0,1,-1,1,0,0
+WC-2022,M-2022-22,group stage,1,0,2022-11-26,16:00,2022-11-26 16:00:00,Al Rayyan,Qatar,T-57,Poland,POL,T-63,Saudi Arabia,SAU,2,0,2,-2,0,0
+WC-2022,M-2022-25,group stage,1,0,2022-11-27,13:00,2022-11-27 13:00:00,Al Rayyan,Qatar,T-44,Japan,JPN,T-17,Costa Rica,CRI,0,1,-1,1,0,0
+WC-2022,M-2022-26,group stage,1,0,2022-11-27,16:00,2022-11-27 16:00:00,Doha,Qatar,T-06,Belgium,BEL,T-47,Morocco,MAR,0,2,-2,2,0,0
+WC-2022,M-2022-27,group stage,1,0,2022-11-27,19:00,2022-11-27 19:00:00,Al Rayyan,Qatar,T-18,Croatia,HRV,T-12,Canada,CAN,4,1,3,-3,0,0
+WC-2022,M-2022-28,group stage,1,0,2022-11-27,22:00,2022-11-27 22:00:00,Al Khor,Qatar,T-73,Spain,ESP,T-31,Germany,DEU,1,1,0,0,0,0
+WC-2022,M-2022-29,group stage,1,0,2022-11-28,13:00,2022-11-28 13:00:00,Al Wakrah,Qatar,T-11,Cameroon,CMR,T-66,Serbia,SRB,3,3,0,0,0,0
+WC-2022,M-2022-30,group stage,1,0,2022-11-28,16:00,2022-11-28 16:00:00,Al Rayyan,Qatar,T-71,South Korea,KOR,T-32,Ghana,GHA,2,3,-1,1,0,0
+WC-2022,M-2022-31,group stage,1,0,2022-11-28,19:00,2022-11-28 19:00:00,Doha,Qatar,T-09,Brazil,BRA,T-75,Switzerland,CHE,1,0,1,-1,0,0
+WC-2022,M-2022-32,group stage,1,0,2022-11-28,22:00,2022-11-28 22:00:00,Lusail,Qatar,T-58,Portugal,PRT,T-84,Uruguay,URY,2,0,2,-2,0,0
+WC-2022,M-2022-33,group stage,1,0,2022-11-29,18:00,2022-11-29 18:00:00,Al Rayyan,Qatar,T-25,Ecuador,ECU,T-65,Senegal,SEN,1,2,-1,1,0,0
+WC-2022,M-2022-34,group stage,1,0,2022-11-29,18:00,2022-11-29 18:00:00,Al Khor,Qatar,T-48,Netherlands,NLD,T-59,Qatar,QAT,2,0,2,-2,0,0
+WC-2022,M-2022-35,group stage,1,0,2022-11-29,22:00,2022-11-29 22:00:00,Doha,Qatar,T-38,Iran,IRN,T-83,United States,USA,0,1,-1,1,0,0
+WC-2022,M-2022-36,group stage,1,0,2022-11-29,22:00,2022-11-29 22:00:00,Al Rayyan,Qatar,T-85,Wales,WAL,T-28,England,ENG,0,3,-3,3,0,0
+WC-2022,M-2022-39,group stage,1,0,2022-11-30,22:00,2022-11-30 22:00:00,Doha,Qatar,T-57,Poland,POL,T-03,Argentina,ARG,0,2,-2,2,0,0
+WC-2022,M-2022-40,group stage,1,0,2022-11-30,22:00,2022-11-30 22:00:00,Lusail,Qatar,T-63,Saudi Arabia,SAU,T-46,Mexico,MEX,1,2,-1,1,0,0
+WC-2022,M-2022-37,group stage,1,0,2022-11-30,18:00,2022-11-30 18:00:00,Al Wakrah,Qatar,T-04,Australia,AUS,T-22,Denmark,DNK,1,0,1,-1,0,0
+WC-2022,M-2022-38,group stage,1,0,2022-11-30,18:00,2022-11-30 18:00:00,Al Rayyan,Qatar,T-79,Tunisia,TUN,T-30,France,FRA,1,0,1,-1,0,0
+WC-2022,M-2022-44,group stage,1,0,2022-12-01,22:00,2022-12-01 22:00:00,Al Rayyan,Qatar,T-44,Japan,JPN,T-73,Spain,ESP,2,1,1,-1,0,0
+WC-2022,M-2022-43,group stage,1,0,2022-12-01,22:00,2022-12-01 22:00:00,Al Khor,Qatar,T-17,Costa Rica,CRI,T-31,Germany,DEU,2,4,-2,2,0,0
+WC-2022,M-2022-41,group stage,1,0,2022-12-01,18:00,2022-12-01 18:00:00,Doha,Qatar,T-12,Canada,CAN,T-47,Morocco,MAR,1,2,-1,1,0,0
+WC-2022,M-2022-42,group stage,1,0,2022-12-01,18:00,2022-12-01 18:00:00,Al Rayyan,Qatar,T-18,Croatia,HRV,T-06,Belgium,BEL,0,0,0,0,0,0
+WC-2022,M-2022-45,group stage,1,0,2022-12-02,18:00,2022-12-02 18:00:00,Al Wakrah,Qatar,T-32,Ghana,GHA,T-84,Uruguay,URY,0,2,-2,2,0,0
+WC-2022,M-2022-46,group stage,1,0,2022-12-02,18:00,2022-12-02 18:00:00,Al Rayyan,Qatar,T-71,South Korea,KOR,T-58,Portugal,PRT,2,1,1,-1,0,0
+WC-2022,M-2022-47,group stage,1,0,2022-12-02,22:00,2022-12-02 22:00:00,Lusail,Qatar,T-11,Cameroon,CMR,T-09,Brazil,BRA,1,0,1,-1,0,0
+WC-2022,M-2022-48,group stage,1,0,2022-12-02,22:00,2022-12-02 22:00:00,Doha,Qatar,T-66,Serbia,SRB,T-75,Switzerland,CHE,2,3,-1,1,0,0
+WC-2022,M-2022-49,round of 16,0,1,2022-12-03,18:00,2022-12-03 18:00:00,Al Rayyan,Qatar,T-48,Netherlands,NLD,T-83,United States,USA,3,1,2,-2,0,0
+WC-2022,M-2022-50,round of 16,0,1,2022-12-03,22:00,2022-12-03 22:00:00,Al Rayyan,Qatar,T-03,Argentina,ARG,T-04,Australia,AUS,2,1,1,-1,0,0
+WC-2022,M-2022-51,round of 16,0,1,2022-12-04,18:00,2022-12-04 18:00:00,Doha,Qatar,T-30,France,FRA,T-57,Poland,POL,3,1,2,-2,0,0
+WC-2022,M-2022-52,round of 16,0,1,2022-12-04,22:00,2022-12-04 22:00:00,Al Khor,Qatar,T-28,England,ENG,T-65,Senegal,SEN,3,0,3,-3,0,0
+WC-2022,M-2022-53,round of 16,0,1,2022-12-05,18:00,2022-12-05 18:00:00,Al Wakrah,Qatar,T-44,Japan,JPN,T-18,Croatia,HRV,1,1,0,0,1,1
+WC-2022,M-2022-54,round of 16,0,1,2022-12-05,22:00,2022-12-05 22:00:00,Doha,Qatar,T-09,Brazil,BRA,T-71,South Korea,KOR,4,1,3,-3,0,0
+WC-2022,M-2022-55,round of 16,0,1,2022-12-06,18:00,2022-12-06 18:00:00,Al Rayyan,Qatar,T-47,Morocco,MAR,T-73,Spain,ESP,0,0,0,0,1,1
+WC-2022,M-2022-56,round of 16,0,1,2022-12-06,22:00,2022-12-06 22:00:00,Lusail,Qatar,T-58,Portugal,PRT,T-75,Switzerland,CHE,6,1,5,-5,0,0
+WC-2022,M-2022-57,quarter-finals,0,1,2022-12-09,18:00,2022-12-09 18:00:00,Al Rayyan,Qatar,T-18,Croatia,HRV,T-09,Brazil,BRA,1,1,0,0,1,1
+WC-2022,M-2022-58,quarter-finals,0,1,2022-12-09,22:00,2022-12-09 22:00:00,Lusail,Qatar,T-48,Netherlands,NLD,T-03,Argentina,ARG,2,2,0,0,1,1
+WC-2022,M-2022-59,quarter-finals,0,1,2022-12-10,18:00,2022-12-10 18:00:00,Doha,Qatar,T-47,Morocco,MAR,T-58,Portugal,PRT,1,0,1,-1,0,0
+WC-2022,M-2022-60,quarter-finals,0,1,2022-12-10,22:00,2022-12-10 22:00:00,Al Khor,Qatar,T-28,England,ENG,T-30,France,FRA,1,2,-1,1,0,0
+WC-2022,M-2022-61,semi-finals,0,1,2022-12-13,22:00,2022-12-13 22:00:00,Lusail,Qatar,T-03,Argentina,ARG,T-18,Croatia,HRV,3,0,3,-3,0,0
+WC-2022,M-2022-62,semi-finals,0,1,2022-12-14,22:00,2022-12-14 22:00:00,Al Khor,Qatar,T-30,France,FRA,T-47,Morocco,MAR,2,0,2,-2,0,0
+WC-2022,M-2022-63,third-place match,0,1,2022-12-17,18:00,2022-12-17 18:00:00,Al Rayyan,Qatar,T-18,Croatia,HRV,T-47,Morocco,MAR,2,1,1,-1,0,0
+WC-2022,M-2022-64,final,0,1,2022-12-18,18:00,2022-12-18 18:00:00,Lusail,Qatar,T-03,Argentina,ARG,T-30,France,FRA,3,3,0,0,1,1
