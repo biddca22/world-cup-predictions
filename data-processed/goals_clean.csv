@@ -1,0 +1,966 @@
+key_id,goal_id,tournament_id,match_id,match_name,match_date,stage_name,team_id,team_name,team_code,home_team,away_team,player_id,family_name,given_name,shirt_number,player_team_id,player_team_name,player_team_code,minute_label,minute_regulation,minute_stoppage,match_period,own_goal,penalty,minute_total
+2077,G-2077,WC-2002,M-2002-01,France vs Senegal,2002-05-31,group stage,T-65,Senegal,SEN,0,1,P-82212,Diop,Papa Bouba,19,T-65,Senegal,SEN,30',30,0,first half,False,False,30
+2078,G-2078,WC-2002,M-2002-02,Republic of Ireland vs Cameroon,2002-06-01,group stage,T-11,Cameroon,CMR,0,1,P-18804,M'Boma,Patrick,10,T-11,Cameroon,CMR,39',39,0,first half,False,False,39
+2079,G-2079,WC-2002,M-2002-02,Republic of Ireland vs Cameroon,2002-06-01,group stage,T-60,Republic Of Ireland,IRL,1,0,P-00105,Holland,Matt,8,T-60,Republic Of Ireland,IRL,52',52,0,second half,False,False,52
+2080,G-2080,WC-2002,M-2002-03,Uruguay vs Denmark,2002-06-01,group stage,T-22,Denmark,DNK,0,1,P-50534,Tomasson,Jon Dahl,9,T-22,Denmark,DNK,45',45,0,first half,False,False,45
+2081,G-2081,WC-2002,M-2002-03,Uruguay vs Denmark,2002-06-01,group stage,T-84,Uruguay,URY,1,0,P-49428,Rodríguez,Darío,6,T-84,Uruguay,URY,47',47,0,second half,False,False,47
+2082,G-2082,WC-2002,M-2002-03,Uruguay vs Denmark,2002-06-01,group stage,T-22,Denmark,DNK,0,1,P-50534,Tomasson,Jon Dahl,9,T-22,Denmark,DNK,83',83,0,second half,False,False,83
+2083,G-2083,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,20',20,0,first half,False,False,20
+2084,G-2084,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,25',25,0,first half,False,False,25
+2085,G-2085,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-84003,Ballack,Michael,13,T-31,Germany,DEU,40',40,0,first half,False,False,40
+2086,G-2086,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-45490,Jancker,Carsten,9,T-31,Germany,DEU,45'+1',45,1,"first half, stoppage time",False,False,46
+2087,G-2087,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,70',70,0,second half,False,False,70
+2088,G-2088,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-17520,Linke,Thomas,2,T-31,Germany,DEU,73',73,0,second half,False,False,73
+2089,G-2089,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-84534,Bierhoff,Oliver,20,T-31,Germany,DEU,84',84,0,second half,False,False,84
+2090,G-2090,WC-2002,M-2002-04,Germany vs Saudi Arabia,2002-06-01,group stage,T-31,Germany,DEU,1,0,P-32136,Schneider,Bernd,19,T-31,Germany,DEU,90'+1',90,1,"second half, stoppage time",False,False,91
+2091,G-2091,WC-2002,M-2002-05,Argentina vs Nigeria,2002-06-02,group stage,T-03,Argentina,ARG,1,0,P-84542,Batistuta,Gabriel,9,T-03,Argentina,ARG,63',63,0,second half,False,False,63
+2092,G-2092,WC-2002,M-2002-06,Paraguay vs South Africa,2002-06-02,group stage,T-55,Paraguay,PRY,1,0,P-34530,Santa Cruz,Roque,9,T-55,Paraguay,PRY,39',39,0,first half,False,False,39
+2093,G-2093,WC-2002,M-2002-06,Paraguay vs South Africa,2002-06-02,group stage,T-55,Paraguay,PRY,1,0,P-76678,Arce,Francisco,2,T-55,Paraguay,PRY,55',55,0,second half,False,False,55
+2094,G-2094,WC-2002,M-2002-06,Paraguay vs South Africa,2002-06-02,group stage,T-70,South Africa,ZAF,0,1,P-99521,Mokoena,Teboho,12,T-70,South Africa,ZAF,63',63,0,second half,False,False,63
+2095,G-2095,WC-2002,M-2002-06,Paraguay vs South Africa,2002-06-02,group stage,T-70,South Africa,ZAF,0,1,P-02423,Fortune,Quinton,7,T-70,South Africa,ZAF,90'+1',90,1,"second half, stoppage time",False,True,91
+2096,G-2096,WC-2002,M-2002-07,England vs Sweden,2002-06-02,group stage,T-28,England,ENG,1,0,P-97840,Campbell,Sol,6,T-28,England,ENG,24',24,0,first half,False,False,24
+2097,G-2097,WC-2002,M-2002-07,England vs Sweden,2002-06-02,group stage,T-74,Sweden,SWE,0,1,P-42808,Alexandersson,Niclas,7,T-74,Sweden,SWE,59',59,0,second half,False,False,59
+2098,G-2098,WC-2002,M-2002-08,Spain vs Slovenia,2002-06-02,group stage,T-73,Spain,ESP,1,0,P-24556,Raúl,not applicable,7,T-73,Spain,ESP,44',44,0,first half,False,False,44
+2099,G-2099,WC-2002,M-2002-08,Spain vs Slovenia,2002-06-02,group stage,T-73,Spain,ESP,1,0,P-76612,Valerón,Juan Carlos,17,T-73,Spain,ESP,74',74,0,second half,False,False,74
+2100,G-2100,WC-2002,M-2002-08,Spain vs Slovenia,2002-06-02,group stage,T-69,Slovenia,SVN,0,1,P-00649,Cimirotič,Sebastjan,21,T-69,Slovenia,SVN,82',82,0,second half,False,False,82
+2101,G-2101,WC-2002,M-2002-08,Spain vs Slovenia,2002-06-02,group stage,T-73,Spain,ESP,1,0,P-35246,Hierro,Fernando,6,T-73,Spain,ESP,87',87,0,second half,False,True,87
+2102,G-2102,WC-2002,M-2002-09,Croatia vs Mexico,2002-06-03,group stage,T-46,Mexico,MEX,0,1,P-88428,Blanco,Cuauhtémoc,10,T-46,Mexico,MEX,60',60,0,second half,False,True,60
+2103,G-2103,WC-2002,M-2002-10,Brazil vs Turkey,2002-06-03,group stage,T-80,Turkey,TUR,0,1,P-23883,Şaş,Hasan,11,T-80,Turkey,TUR,45'+2',45,2,"first half, stoppage time",False,False,47
+2104,G-2104,WC-2002,M-2002-10,Brazil vs Turkey,2002-06-03,group stage,T-09,Brazil,BRA,1,0,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,50',50,0,second half,False,False,50
+2105,G-2105,WC-2002,M-2002-10,Brazil vs Turkey,2002-06-03,group stage,T-09,Brazil,BRA,1,0,P-74261,Rivaldo,not applicable,10,T-09,Brazil,BRA,87',87,0,second half,False,True,87
+2106,G-2106,WC-2002,M-2002-11,Italy vs Ecuador,2002-06-03,group stage,T-41,Italy,ITA,1,0,P-34670,Vieri,Christian,21,T-41,Italy,ITA,7',7,0,first half,False,False,7
+2107,G-2107,WC-2002,M-2002-11,Italy vs Ecuador,2002-06-03,group stage,T-41,Italy,ITA,1,0,P-34670,Vieri,Christian,21,T-41,Italy,ITA,27',27,0,first half,False,False,27
+2108,G-2108,WC-2002,M-2002-12,China vs Costa Rica,2002-06-04,group stage,T-17,Costa Rica,CRI,0,1,P-55170,Gómez,Rónald,11,T-17,Costa Rica,CRI,61',61,0,second half,False,False,61
+2109,G-2109,WC-2002,M-2002-12,China vs Costa Rica,2002-06-04,group stage,T-17,Costa Rica,CRI,0,1,P-56613,Wright,Mauricio,4,T-17,Costa Rica,CRI,65',65,0,second half,False,False,65
+2110,G-2110,WC-2002,M-2002-13,Japan vs Belgium,2002-06-04,group stage,T-06,Belgium,BEL,0,1,P-69659,Wilmots,Marc,7,T-06,Belgium,BEL,57',57,0,second half,False,False,57
+2111,G-2111,WC-2002,M-2002-13,Japan vs Belgium,2002-06-04,group stage,T-44,Japan,JPN,1,0,P-96566,Suzuki,Takayuki,11,T-44,Japan,JPN,59',59,0,second half,False,False,59
+2112,G-2112,WC-2002,M-2002-13,Japan vs Belgium,2002-06-04,group stage,T-44,Japan,JPN,1,0,P-46807,Inamoto,Junichi,5,T-44,Japan,JPN,67',67,0,second half,False,False,67
+2113,G-2113,WC-2002,M-2002-13,Japan vs Belgium,2002-06-04,group stage,T-06,Belgium,BEL,0,1,P-02977,Van der Heyden,Peter,12,T-06,Belgium,BEL,75',75,0,second half,False,False,75
+2114,G-2114,WC-2002,M-2002-14,South Korea vs Poland,2002-06-04,group stage,T-71,Korea Republic,KOR,1,0,P-15222,Hwang,Sun-hong,18,T-71,Korea Republic,KOR,26',26,0,first half,False,False,26
+2115,G-2115,WC-2002,M-2002-14,South Korea vs Poland,2002-06-04,group stage,T-71,Korea Republic,KOR,1,0,P-75255,Yoo,Sang-chul,6,T-71,Korea Republic,KOR,53',53,0,second half,False,False,53
+2116,G-2116,WC-2002,M-2002-15,Russia vs Tunisia,2002-06-05,group stage,T-62,Russia,RUS,1,0,P-66907,Titov,Yegor,9,T-62,Russia,RUS,59',59,0,second half,False,False,59
+2117,G-2117,WC-2002,M-2002-15,Russia vs Tunisia,2002-06-05,group stage,T-62,Russia,RUS,1,0,P-48249,Karpin,Valeri,8,T-62,Russia,RUS,64',64,0,second half,False,True,64
+2118,G-2118,WC-2002,M-2002-16,United States vs Portugal,2002-06-05,group stage,T-83,United States,USA,1,0,P-88043,O'Brien,John,5,T-83,United States,USA,4',4,0,first half,False,False,4
+2119,G-2119,WC-2002,M-2002-16,United States vs Portugal,2002-06-05,group stage,T-83,United States,USA,1,0,P-73722,Costa,Jorge,2,T-58,Portugal,PRT,29',29,0,first half,True,False,29
+2120,G-2120,WC-2002,M-2002-16,United States vs Portugal,2002-06-05,group stage,T-83,United States,USA,1,0,P-60597,McBride,Brian,20,T-83,United States,USA,36',36,0,first half,False,False,36
+2121,G-2121,WC-2002,M-2002-16,United States vs Portugal,2002-06-05,group stage,T-58,Portugal,PRT,0,1,P-37140,Beto,not applicable,22,T-58,Portugal,PRT,39',39,0,first half,False,False,39
+2122,G-2122,WC-2002,M-2002-16,United States vs Portugal,2002-06-05,group stage,T-58,Portugal,PRT,0,1,P-72797,Agoos,Jeff,12,T-83,United States,USA,71',71,0,second half,True,False,71
+2123,G-2123,WC-2002,M-2002-17,Germany vs Republic of Ireland,2002-06-05,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,19',19,0,first half,False,False,19
+2124,G-2124,WC-2002,M-2002-17,Germany vs Republic of Ireland,2002-06-05,group stage,T-60,Republic Of Ireland,IRL,0,1,P-84878,Keane,Robbie,10,T-60,Republic Of Ireland,IRL,90'+2',90,2,"second half, stoppage time",False,False,92
+2125,G-2125,WC-2002,M-2002-18,Denmark vs Senegal,2002-06-06,group stage,T-22,Denmark,DNK,1,0,P-50534,Tomasson,Jon Dahl,9,T-22,Denmark,DNK,16',16,0,first half,False,True,16
+2126,G-2126,WC-2002,M-2002-18,Denmark vs Senegal,2002-06-06,group stage,T-65,Senegal,SEN,0,1,P-35019,Diao,Salif,15,T-65,Senegal,SEN,52',52,0,second half,False,False,52
+2127,G-2127,WC-2002,M-2002-19,Cameroon vs Saudi Arabia,2002-06-06,group stage,T-11,Cameroon,CMR,1,0,P-61703,Eto'o,Samuel,9,T-11,Cameroon,CMR,66',66,0,second half,False,False,66
+2128,G-2128,WC-2002,M-2002-21,Sweden vs Nigeria,2002-06-07,group stage,T-50,Nigeria,NGA,0,1,P-74228,Aghahowa,Julius,17,T-50,Nigeria,NGA,27',27,0,first half,False,False,27
+2129,G-2129,WC-2002,M-2002-21,Sweden vs Nigeria,2002-06-07,group stage,T-74,Sweden,SWE,1,0,P-42895,Larsson,Henrik,11,T-74,Sweden,SWE,35',35,0,first half,False,False,35
+2130,G-2130,WC-2002,M-2002-21,Sweden vs Nigeria,2002-06-07,group stage,T-74,Sweden,SWE,1,0,P-42895,Larsson,Henrik,11,T-74,Sweden,SWE,63',63,0,second half,False,True,63
+2131,G-2131,WC-2002,M-2002-22,Spain vs Paraguay,2002-06-07,group stage,T-55,Paraguay,PRY,0,1,P-51089,Puyol,Carles,5,T-73,Spain,ESP,10',10,0,first half,True,False,10
+2132,G-2132,WC-2002,M-2002-22,Spain vs Paraguay,2002-06-07,group stage,T-73,Spain,ESP,1,0,P-08514,Morientes,Fernando,9,T-73,Spain,ESP,53',53,0,second half,False,False,53
+2133,G-2133,WC-2002,M-2002-22,Spain vs Paraguay,2002-06-07,group stage,T-73,Spain,ESP,1,0,P-08514,Morientes,Fernando,9,T-73,Spain,ESP,69',69,0,second half,False,False,69
+2134,G-2134,WC-2002,M-2002-22,Spain vs Paraguay,2002-06-07,group stage,T-73,Spain,ESP,1,0,P-35246,Hierro,Fernando,6,T-73,Spain,ESP,83',83,0,second half,False,True,83
+2135,G-2135,WC-2002,M-2002-23,Argentina vs England,2002-06-07,group stage,T-28,England,ENG,0,1,P-81049,Beckham,David,7,T-28,England,ENG,44',44,0,first half,False,True,44
+2136,G-2136,WC-2002,M-2002-24,South Africa vs Slovenia,2002-06-08,group stage,T-70,South Africa,ZAF,1,0,P-22393,Nomvethe,Siyabonga,14,T-70,South Africa,ZAF,4',4,0,first half,False,False,4
+2137,G-2137,WC-2002,M-2002-25,Italy vs Croatia,2002-06-08,group stage,T-41,Italy,ITA,1,0,P-34670,Vieri,Christian,21,T-41,Italy,ITA,55',55,0,second half,False,False,55
+2138,G-2138,WC-2002,M-2002-25,Italy vs Croatia,2002-06-08,group stage,T-18,Croatia,HRV,0,1,P-13265,Olić,Ivica,18,T-18,Croatia,HRV,73',73,0,second half,False,False,73
+2139,G-2139,WC-2002,M-2002-25,Italy vs Croatia,2002-06-08,group stage,T-18,Croatia,HRV,0,1,P-55293,Rapaić,Milan,5,T-18,Croatia,HRV,76',76,0,second half,False,False,76
+2140,G-2140,WC-2002,M-2002-26,Brazil vs China,2002-06-08,group stage,T-09,Brazil,BRA,1,0,P-85176,Carlos,Roberto,6,T-09,Brazil,BRA,15',15,0,first half,False,False,15
+2141,G-2141,WC-2002,M-2002-26,Brazil vs China,2002-06-08,group stage,T-09,Brazil,BRA,1,0,P-74261,Rivaldo,not applicable,10,T-09,Brazil,BRA,32',32,0,first half,False,False,32
+2142,G-2142,WC-2002,M-2002-26,Brazil vs China,2002-06-08,group stage,T-09,Brazil,BRA,1,0,P-57361,Ronaldinho,not applicable,11,T-09,Brazil,BRA,45',45,0,first half,False,True,45
+2143,G-2143,WC-2002,M-2002-26,Brazil vs China,2002-06-08,group stage,T-09,Brazil,BRA,1,0,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,55',55,0,second half,False,False,55
+2144,G-2144,WC-2002,M-2002-27,Mexico vs Ecuador,2002-06-09,group stage,T-25,Ecuador,ECU,0,1,P-19156,Delgado,Agustín,11,T-25,Ecuador,ECU,5',5,0,first half,False,False,5
+2145,G-2145,WC-2002,M-2002-27,Mexico vs Ecuador,2002-06-09,group stage,T-46,Mexico,MEX,1,0,P-81643,Borgetti,Jared,9,T-46,Mexico,MEX,28',28,0,first half,False,False,28
+2146,G-2146,WC-2002,M-2002-27,Mexico vs Ecuador,2002-06-09,group stage,T-46,Mexico,MEX,1,0,P-89297,Torrado,Gerardo,6,T-46,Mexico,MEX,57',57,0,second half,False,False,57
+2147,G-2147,WC-2002,M-2002-28,Costa Rica vs Turkey,2002-06-09,group stage,T-80,Turkey,TUR,0,1,P-46497,Belözoğlu,Emre,21,T-80,Turkey,TUR,56',56,0,second half,False,False,56
+2148,G-2148,WC-2002,M-2002-28,Costa Rica vs Turkey,2002-06-09,group stage,T-17,Costa Rica,CRI,1,0,P-20880,Parks,Winston,12,T-17,Costa Rica,CRI,86',86,0,second half,False,False,86
+2149,G-2149,WC-2002,M-2002-29,Japan vs Russia,2002-06-09,group stage,T-44,Japan,JPN,1,0,P-46807,Inamoto,Junichi,5,T-44,Japan,JPN,51',51,0,second half,False,False,51
+2150,G-2150,WC-2002,M-2002-30,South Korea vs United States,2002-06-10,group stage,T-83,United States,USA,0,1,P-38074,Mathis,Clint,11,T-83,United States,USA,24',24,0,first half,False,False,24
+2151,G-2151,WC-2002,M-2002-30,South Korea vs United States,2002-06-10,group stage,T-71,Korea Republic,KOR,1,0,P-26616,Ahn,Jung-hwan,19,T-71,Korea Republic,KOR,78',78,0,second half,False,False,78
+2152,G-2152,WC-2002,M-2002-31,Tunisia vs Belgium,2002-06-10,group stage,T-06,Belgium,BEL,0,1,P-69659,Wilmots,Marc,7,T-06,Belgium,BEL,13',13,0,first half,False,False,13
+2153,G-2153,WC-2002,M-2002-31,Tunisia vs Belgium,2002-06-10,group stage,T-79,Tunisia,TUN,1,0,P-87702,Bouzaiene,Raouf,12,T-79,Tunisia,TUN,17',17,0,first half,False,False,17
+2154,G-2154,WC-2002,M-2002-32,Portugal vs Poland,2002-06-10,group stage,T-58,Portugal,PRT,1,0,P-57982,Pauleta,not applicable,9,T-58,Portugal,PRT,14',14,0,first half,False,False,14
+2155,G-2155,WC-2002,M-2002-32,Portugal vs Poland,2002-06-10,group stage,T-58,Portugal,PRT,1,0,P-57982,Pauleta,not applicable,9,T-58,Portugal,PRT,65',65,0,second half,False,False,65
+2156,G-2156,WC-2002,M-2002-32,Portugal vs Poland,2002-06-10,group stage,T-58,Portugal,PRT,1,0,P-57982,Pauleta,not applicable,9,T-58,Portugal,PRT,77',77,0,second half,False,False,77
+2157,G-2157,WC-2002,M-2002-32,Portugal vs Poland,2002-06-10,group stage,T-58,Portugal,PRT,1,0,P-62808,Costa,Rui,10,T-58,Portugal,PRT,88',88,0,second half,False,False,88
+2158,G-2158,WC-2002,M-2002-33,Denmark vs France,2002-06-11,group stage,T-22,Denmark,DNK,1,0,P-80170,Rommedahl,Dennis,19,T-22,Denmark,DNK,22',22,0,first half,False,False,22
+2159,G-2159,WC-2002,M-2002-33,Denmark vs France,2002-06-11,group stage,T-22,Denmark,DNK,1,0,P-50534,Tomasson,Jon Dahl,9,T-22,Denmark,DNK,67',67,0,second half,False,False,67
+2160,G-2160,WC-2002,M-2002-34,Senegal vs Uruguay,2002-06-11,group stage,T-65,Senegal,SEN,1,0,P-62977,Fadiga,Khalilou,10,T-65,Senegal,SEN,20',20,0,first half,False,True,20
+2161,G-2161,WC-2002,M-2002-34,Senegal vs Uruguay,2002-06-11,group stage,T-65,Senegal,SEN,1,0,P-82212,Diop,Papa Bouba,19,T-65,Senegal,SEN,26',26,0,first half,False,False,26
+2162,G-2162,WC-2002,M-2002-34,Senegal vs Uruguay,2002-06-11,group stage,T-65,Senegal,SEN,1,0,P-82212,Diop,Papa Bouba,19,T-65,Senegal,SEN,38',38,0,first half,False,False,38
+2163,G-2163,WC-2002,M-2002-34,Senegal vs Uruguay,2002-06-11,group stage,T-84,Uruguay,URY,0,1,P-48761,Morales,Richard,18,T-84,Uruguay,URY,46',46,0,second half,False,False,46
+2164,G-2164,WC-2002,M-2002-34,Senegal vs Uruguay,2002-06-11,group stage,T-84,Uruguay,URY,0,1,P-86087,Forlán,Diego,21,T-84,Uruguay,URY,69',69,0,second half,False,False,69
+2165,G-2165,WC-2002,M-2002-34,Senegal vs Uruguay,2002-06-11,group stage,T-84,Uruguay,URY,0,1,P-66684,Recoba,Álvaro,20,T-84,Uruguay,URY,88',88,0,second half,False,True,88
+2166,G-2166,WC-2002,M-2002-35,Cameroon vs Germany,2002-06-11,group stage,T-31,Germany,DEU,0,1,P-03026,Bode,Marco,17,T-31,Germany,DEU,50',50,0,second half,False,False,50
+2167,G-2167,WC-2002,M-2002-35,Cameroon vs Germany,2002-06-11,group stage,T-31,Germany,DEU,0,1,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,79',79,0,second half,False,False,79
+2168,G-2168,WC-2002,M-2002-36,Saudi Arabia vs Republic of Ireland,2002-06-11,group stage,T-60,Republic Of Ireland,IRL,0,1,P-84878,Keane,Robbie,10,T-60,Republic Of Ireland,IRL,7',7,0,first half,False,False,7
+2169,G-2169,WC-2002,M-2002-36,Saudi Arabia vs Republic of Ireland,2002-06-11,group stage,T-60,Republic Of Ireland,IRL,0,1,P-22209,Breen,Gary,14,T-60,Republic Of Ireland,IRL,61',61,0,second half,False,False,61
+2170,G-2170,WC-2002,M-2002-36,Saudi Arabia vs Republic of Ireland,2002-06-11,group stage,T-60,Republic Of Ireland,IRL,0,1,P-18106,Duff,Damien,9,T-60,Republic Of Ireland,IRL,87',87,0,second half,False,False,87
+2171,G-2171,WC-2002,M-2002-38,Sweden vs Argentina,2002-06-12,group stage,T-74,Sweden,SWE,1,0,P-85432,Svensson,Anders,8,T-74,Sweden,SWE,59',59,0,second half,False,False,59
+2172,G-2172,WC-2002,M-2002-38,Sweden vs Argentina,2002-06-12,group stage,T-03,Argentina,ARG,0,1,P-19888,Crespo,Hernán,19,T-03,Argentina,ARG,88',88,0,second half,False,False,88
+2173,G-2173,WC-2002,M-2002-39,Slovenia vs Paraguay,2002-06-12,group stage,T-69,Slovenia,SVN,1,0,P-44943,Ačimovič,Milenko,18,T-69,Slovenia,SVN,45'+1',45,1,"first half, stoppage time",False,False,46
+2174,G-2174,WC-2002,M-2002-39,Slovenia vs Paraguay,2002-06-12,group stage,T-55,Paraguay,PRY,0,1,P-88899,Cuevas,Nelson,23,T-55,Paraguay,PRY,65',65,0,second half,False,False,65
+2175,G-2175,WC-2002,M-2002-39,Slovenia vs Paraguay,2002-06-12,group stage,T-55,Paraguay,PRY,0,1,P-78557,Campos,Jorge Luis,11,T-55,Paraguay,PRY,73',73,0,second half,False,False,73
+2176,G-2176,WC-2002,M-2002-39,Slovenia vs Paraguay,2002-06-12,group stage,T-55,Paraguay,PRY,0,1,P-88899,Cuevas,Nelson,23,T-55,Paraguay,PRY,84',84,0,second half,False,False,84
+2177,G-2177,WC-2002,M-2002-40,South Africa vs Spain,2002-06-12,group stage,T-73,Spain,ESP,0,1,P-24556,Raúl,not applicable,7,T-73,Spain,ESP,4',4,0,first half,False,False,4
+2178,G-2178,WC-2002,M-2002-40,South Africa vs Spain,2002-06-12,group stage,T-70,South Africa,ZAF,1,0,P-59298,McCarthy,Benni,17,T-70,South Africa,ZAF,31',31,0,first half,False,False,31
+2179,G-2179,WC-2002,M-2002-40,South Africa vs Spain,2002-06-12,group stage,T-73,Spain,ESP,0,1,P-37161,Mendieta,Gaizka,16,T-73,Spain,ESP,45'+1',45,1,"first half, stoppage time",False,False,46
+2180,G-2180,WC-2002,M-2002-40,South Africa vs Spain,2002-06-12,group stage,T-70,South Africa,ZAF,1,0,P-56543,Radebe,Lucas,19,T-70,South Africa,ZAF,53',53,0,second half,False,False,53
+2181,G-2181,WC-2002,M-2002-40,South Africa vs Spain,2002-06-12,group stage,T-73,Spain,ESP,0,1,P-24556,Raúl,not applicable,7,T-73,Spain,ESP,56',56,0,second half,False,False,56
+2182,G-2182,WC-2002,M-2002-41,Costa Rica vs Brazil,2002-06-13,group stage,T-09,Brazil,BRA,0,1,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,10',10,0,first half,False,False,10
+2183,G-2183,WC-2002,M-2002-41,Costa Rica vs Brazil,2002-06-13,group stage,T-09,Brazil,BRA,0,1,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,13',13,0,first half,False,False,13
+2184,G-2184,WC-2002,M-2002-41,Costa Rica vs Brazil,2002-06-13,group stage,T-09,Brazil,BRA,0,1,P-09270,Edmílson,not applicable,5,T-09,Brazil,BRA,38',38,0,first half,False,False,38
+2185,G-2185,WC-2002,M-2002-41,Costa Rica vs Brazil,2002-06-13,group stage,T-17,Costa Rica,CRI,1,0,P-22046,Wanchope,Paulo,9,T-17,Costa Rica,CRI,39',39,0,first half,False,False,39
+2186,G-2186,WC-2002,M-2002-41,Costa Rica vs Brazil,2002-06-13,group stage,T-17,Costa Rica,CRI,1,0,P-55170,Gómez,Rónald,11,T-17,Costa Rica,CRI,56',56,0,second half,False,False,56
+2187,G-2187,WC-2002,M-2002-41,Costa Rica vs Brazil,2002-06-13,group stage,T-09,Brazil,BRA,0,1,P-74261,Rivaldo,not applicable,10,T-09,Brazil,BRA,62',62,0,second half,False,False,62
+2188,G-2188,WC-2002,M-2002-41,Costa Rica vs Brazil,2002-06-13,group stage,T-09,Brazil,BRA,0,1,P-29601,Júnior,not applicable,16,T-09,Brazil,BRA,64',64,0,second half,False,False,64
+2189,G-2189,WC-2002,M-2002-42,Turkey vs China,2002-06-13,group stage,T-80,Turkey,TUR,1,0,P-23883,Şaş,Hasan,11,T-80,Turkey,TUR,6',6,0,first half,False,False,6
+2190,G-2190,WC-2002,M-2002-42,Turkey vs China,2002-06-13,group stage,T-80,Turkey,TUR,1,0,P-94559,Korkmaz,Bülent,3,T-80,Turkey,TUR,9',9,0,first half,False,False,9
+2191,G-2191,WC-2002,M-2002-42,Turkey vs China,2002-06-13,group stage,T-80,Turkey,TUR,1,0,P-31566,Davala,Ümit,22,T-80,Turkey,TUR,85',85,0,second half,False,False,85
+2192,G-2192,WC-2002,M-2002-43,Ecuador vs Croatia,2002-06-13,group stage,T-25,Ecuador,ECU,1,0,P-42534,Méndez,Édison,19,T-25,Ecuador,ECU,48',48,0,second half,False,False,48
+2193,G-2193,WC-2002,M-2002-44,Mexico vs Italy,2002-06-13,group stage,T-46,Mexico,MEX,1,0,P-81643,Borgetti,Jared,9,T-46,Mexico,MEX,34',34,0,first half,False,False,34
+2194,G-2194,WC-2002,M-2002-44,Mexico vs Italy,2002-06-13,group stage,T-41,Italy,ITA,0,1,P-83836,Del Piero,Alessandro,7,T-41,Italy,ITA,85',85,0,second half,False,False,85
+2195,G-2195,WC-2002,M-2002-45,Belgium vs Russia,2002-06-14,group stage,T-06,Belgium,BEL,1,0,P-03447,Walem,Johan,10,T-06,Belgium,BEL,7',7,0,first half,False,False,7
+2196,G-2196,WC-2002,M-2002-45,Belgium vs Russia,2002-06-14,group stage,T-62,Russia,RUS,0,1,P-76498,Beschastnykh,Vladimir,11,T-62,Russia,RUS,52',52,0,second half,False,False,52
+2197,G-2197,WC-2002,M-2002-45,Belgium vs Russia,2002-06-14,group stage,T-06,Belgium,BEL,1,0,P-64922,Sonck,Wesley,9,T-06,Belgium,BEL,78',78,0,second half,False,False,78
+2198,G-2198,WC-2002,M-2002-45,Belgium vs Russia,2002-06-14,group stage,T-06,Belgium,BEL,1,0,P-69659,Wilmots,Marc,7,T-06,Belgium,BEL,82',82,0,second half,False,False,82
+2199,G-2199,WC-2002,M-2002-45,Belgium vs Russia,2002-06-14,group stage,T-62,Russia,RUS,0,1,P-04731,Sychev,Dmitri,22,T-62,Russia,RUS,88',88,0,second half,False,False,88
+2200,G-2200,WC-2002,M-2002-46,Tunisia vs Japan,2002-06-14,group stage,T-44,Japan,JPN,0,1,P-17348,Morishima,Hiroaki,8,T-44,Japan,JPN,48',48,0,second half,False,False,48
+2201,G-2201,WC-2002,M-2002-46,Tunisia vs Japan,2002-06-14,group stage,T-44,Japan,JPN,0,1,P-09349,Nakata,Hidetoshi,7,T-44,Japan,JPN,75',75,0,second half,False,False,75
+2202,G-2202,WC-2002,M-2002-47,Poland vs United States,2002-06-14,group stage,T-57,Poland,POL,1,0,P-75230,Olisadebe,Emmanuel,11,T-57,Poland,POL,3',3,0,first half,False,False,3
+2203,G-2203,WC-2002,M-2002-47,Poland vs United States,2002-06-14,group stage,T-57,Poland,POL,1,0,P-69995,Kryszałowicz,Paweł,9,T-57,Poland,POL,5',5,0,first half,False,False,5
+2204,G-2204,WC-2002,M-2002-47,Poland vs United States,2002-06-14,group stage,T-57,Poland,POL,1,0,P-03927,Żewłakow,Marcin,14,T-57,Poland,POL,66',66,0,second half,False,False,66
+2205,G-2205,WC-2002,M-2002-47,Poland vs United States,2002-06-14,group stage,T-83,United States,USA,0,1,P-05728,Donovan,Landon,21,T-83,United States,USA,83',83,0,second half,False,False,83
+2206,G-2206,WC-2002,M-2002-48,Portugal vs South Korea,2002-06-14,group stage,T-71,Korea Republic,KOR,0,1,P-25724,Park,Ji-sung,21,T-71,Korea Republic,KOR,70',70,0,second half,False,False,70
+2207,G-2207,WC-2002,M-2002-49,Germany vs Paraguay,2002-06-15,round of 16,T-31,Germany,DEU,1,0,P-55504,Neuville,Oliver,7,T-31,Germany,DEU,88',88,0,second half,False,False,88
+2208,G-2208,WC-2002,M-2002-50,Denmark vs England,2002-06-15,round of 16,T-28,England,ENG,0,1,P-01249,Ferdinand,Rio,5,T-28,England,ENG,5',5,0,first half,False,False,5
+2209,G-2209,WC-2002,M-2002-50,Denmark vs England,2002-06-15,round of 16,T-28,England,ENG,0,1,P-51130,Owen,Michael,10,T-28,England,ENG,22',22,0,first half,False,False,22
+2210,G-2210,WC-2002,M-2002-50,Denmark vs England,2002-06-15,round of 16,T-28,England,ENG,0,1,P-08307,Heskey,Emile,11,T-28,England,ENG,44',44,0,first half,False,False,44
+2211,G-2211,WC-2002,M-2002-51,Sweden vs Senegal,2002-06-16,round of 16,T-74,Sweden,SWE,1,0,P-42895,Larsson,Henrik,11,T-74,Sweden,SWE,11',11,0,first half,False,False,11
+2212,G-2212,WC-2002,M-2002-51,Sweden vs Senegal,2002-06-16,round of 16,T-65,Senegal,SEN,0,1,P-01462,Camara,Henri,7,T-65,Senegal,SEN,37',37,0,first half,False,False,37
+2213,G-2213,WC-2002,M-2002-51,Sweden vs Senegal,2002-06-16,round of 16,T-65,Senegal,SEN,0,1,P-01462,Camara,Henri,7,T-65,Senegal,SEN,104',104,0,"extra time, first half",False,False,104
+2214,G-2214,WC-2002,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,T-73,Spain,ESP,1,0,P-08514,Morientes,Fernando,9,T-73,Spain,ESP,8',8,0,first half,False,False,8
+2215,G-2215,WC-2002,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,T-60,Republic Of Ireland,IRL,0,1,P-84878,Keane,Robbie,10,T-60,Republic Of Ireland,IRL,90',90,0,second half,False,True,90
+2216,G-2216,WC-2002,M-2002-53,Mexico vs United States,2002-06-17,round of 16,T-83,United States,USA,0,1,P-60597,McBride,Brian,20,T-83,United States,USA,8',8,0,first half,False,False,8
+2217,G-2217,WC-2002,M-2002-53,Mexico vs United States,2002-06-17,round of 16,T-83,United States,USA,0,1,P-05728,Donovan,Landon,21,T-83,United States,USA,65',65,0,second half,False,False,65
+2218,G-2218,WC-2002,M-2002-54,Brazil vs Belgium,2002-06-17,round of 16,T-09,Brazil,BRA,1,0,P-74261,Rivaldo,not applicable,10,T-09,Brazil,BRA,67',67,0,second half,False,False,67
+2219,G-2219,WC-2002,M-2002-54,Brazil vs Belgium,2002-06-17,round of 16,T-09,Brazil,BRA,1,0,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,87',87,0,second half,False,False,87
+2220,G-2220,WC-2002,M-2002-55,Japan vs Turkey,2002-06-18,round of 16,T-80,Turkey,TUR,0,1,P-31566,Davala,Ümit,22,T-80,Turkey,TUR,12',12,0,first half,False,False,12
+2221,G-2221,WC-2002,M-2002-56,South Korea vs Italy,2002-06-18,round of 16,T-41,Italy,ITA,0,1,P-34670,Vieri,Christian,21,T-41,Italy,ITA,18',18,0,first half,False,False,18
+2222,G-2222,WC-2002,M-2002-56,South Korea vs Italy,2002-06-18,round of 16,T-71,Korea Republic,KOR,1,0,P-56626,Seol,Ki-hyeon,9,T-71,Korea Republic,KOR,88',88,0,second half,False,False,88
+2223,G-2223,WC-2002,M-2002-56,South Korea vs Italy,2002-06-18,round of 16,T-71,Korea Republic,KOR,1,0,P-26616,Ahn,Jung-hwan,19,T-71,Korea Republic,KOR,117',117,0,"extra time, second half",False,False,117
+2224,G-2224,WC-2002,M-2002-57,England vs Brazil,2002-06-21,quarter-finals,T-28,England,ENG,1,0,P-51130,Owen,Michael,10,T-28,England,ENG,23',23,0,first half,False,False,23
+2225,G-2225,WC-2002,M-2002-57,England vs Brazil,2002-06-21,quarter-finals,T-09,Brazil,BRA,0,1,P-74261,Rivaldo,not applicable,10,T-09,Brazil,BRA,45'+2',45,2,"first half, stoppage time",False,False,47
+2226,G-2226,WC-2002,M-2002-57,England vs Brazil,2002-06-21,quarter-finals,T-09,Brazil,BRA,0,1,P-57361,Ronaldinho,not applicable,11,T-09,Brazil,BRA,50',50,0,second half,False,False,50
+2227,G-2227,WC-2002,M-2002-58,Germany vs United States,2002-06-21,quarter-finals,T-31,Germany,DEU,1,0,P-84003,Ballack,Michael,13,T-31,Germany,DEU,39',39,0,first half,False,False,39
+2228,G-2228,WC-2002,M-2002-60,Senegal vs Turkey,2002-06-22,quarter-finals,T-80,Turkey,TUR,0,1,P-41133,Mansız,İlhan,17,T-80,Turkey,TUR,94',94,0,"extra time, first half",False,False,94
+2229,G-2229,WC-2002,M-2002-61,Germany vs South Korea,2002-06-25,semi-finals,T-31,Germany,DEU,1,0,P-84003,Ballack,Michael,13,T-31,Germany,DEU,75',75,0,second half,False,False,75
+2230,G-2230,WC-2002,M-2002-62,Brazil vs Turkey,2002-06-26,semi-finals,T-09,Brazil,BRA,1,0,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,49',49,0,second half,False,False,49
+2231,G-2231,WC-2002,M-2002-63,South Korea vs Turkey,2002-06-29,third-place match,T-80,Turkey,TUR,0,1,P-58212,Şükür,Hakan,9,T-80,Turkey,TUR,1',1,0,first half,False,False,1
+2232,G-2232,WC-2002,M-2002-63,South Korea vs Turkey,2002-06-29,third-place match,T-71,Korea Republic,KOR,1,0,P-60562,Lee,Eul-yong,13,T-71,Korea Republic,KOR,9',9,0,first half,False,False,9
+2233,G-2233,WC-2002,M-2002-63,South Korea vs Turkey,2002-06-29,third-place match,T-80,Turkey,TUR,0,1,P-41133,Mansız,İlhan,17,T-80,Turkey,TUR,13',13,0,first half,False,False,13
+2234,G-2234,WC-2002,M-2002-63,South Korea vs Turkey,2002-06-29,third-place match,T-80,Turkey,TUR,0,1,P-41133,Mansız,İlhan,17,T-80,Turkey,TUR,32',32,0,first half,False,False,32
+2235,G-2235,WC-2002,M-2002-63,South Korea vs Turkey,2002-06-29,third-place match,T-71,Korea Republic,KOR,1,0,P-83544,Song,Chong-gug,22,T-71,Korea Republic,KOR,90'+3',90,3,"second half, stoppage time",False,False,93
+2236,G-2236,WC-2002,M-2002-64,Germany vs Brazil,2002-06-30,final,T-09,Brazil,BRA,0,1,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,67',67,0,second half,False,False,67
+2237,G-2237,WC-2002,M-2002-64,Germany vs Brazil,2002-06-30,final,T-09,Brazil,BRA,0,1,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,79',79,0,second half,False,False,79
+2345,G-2345,WC-2006,M-2006-01,Germany vs Costa Rica,2006-06-09,group stage,T-31,Germany,DEU,1,0,P-18599,Lahm,Philipp,16,T-31,Germany,DEU,6',6,0,first half,False,False,6
+2346,G-2346,WC-2006,M-2006-01,Germany vs Costa Rica,2006-06-09,group stage,T-17,Costa Rica,CRI,0,1,P-22046,Wanchope,Paulo,9,T-17,Costa Rica,CRI,12',12,0,first half,False,False,12
+2347,G-2347,WC-2006,M-2006-01,Germany vs Costa Rica,2006-06-09,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,17',17,0,first half,False,False,17
+2348,G-2348,WC-2006,M-2006-01,Germany vs Costa Rica,2006-06-09,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,61',61,0,second half,False,False,61
+2349,G-2349,WC-2006,M-2006-01,Germany vs Costa Rica,2006-06-09,group stage,T-17,Costa Rica,CRI,0,1,P-22046,Wanchope,Paulo,9,T-17,Costa Rica,CRI,73',73,0,second half,False,False,73
+2350,G-2350,WC-2006,M-2006-01,Germany vs Costa Rica,2006-06-09,group stage,T-31,Germany,DEU,1,0,P-35264,Frings,Torsten,8,T-31,Germany,DEU,87',87,0,second half,False,False,87
+2351,G-2351,WC-2006,M-2006-02,Poland vs Ecuador,2006-06-09,group stage,T-25,Ecuador,ECU,0,1,P-86943,Tenorio,Carlos,21,T-25,Ecuador,ECU,24',24,0,first half,False,False,24
+2352,G-2352,WC-2006,M-2006-02,Poland vs Ecuador,2006-06-09,group stage,T-25,Ecuador,ECU,0,1,P-19156,Delgado,Agustín,11,T-25,Ecuador,ECU,80',80,0,second half,False,False,80
+2353,G-2353,WC-2006,M-2006-03,England vs Paraguay,2006-06-10,group stage,T-28,England,ENG,1,0,P-19241,Gamarra,Carlos,4,T-55,Paraguay,PRY,3',3,0,first half,True,False,3
+2354,G-2354,WC-2006,M-2006-05,Argentina vs Ivory Coast,2006-06-10,group stage,T-03,Argentina,ARG,1,0,P-19888,Crespo,Hernán,9,T-03,Argentina,ARG,24',24,0,first half,False,False,24
+2355,G-2355,WC-2006,M-2006-05,Argentina vs Ivory Coast,2006-06-10,group stage,T-03,Argentina,ARG,1,0,P-38901,Saviola,Javier,7,T-03,Argentina,ARG,38',38,0,first half,False,False,38
+2356,G-2356,WC-2006,M-2006-05,Argentina vs Ivory Coast,2006-06-10,group stage,T-42,Ivory Coast,CIV,0,1,P-99466,Drogba,Didier,11,T-42,Ivory Coast,CIV,82',82,0,second half,False,False,82
+2357,G-2357,WC-2006,M-2006-06,Serbia and Montenegro vs Netherlands,2006-06-11,group stage,T-48,Netherlands,NLD,0,1,P-23705,Robben,Arjen,11,T-48,Netherlands,NLD,18',18,0,first half,False,False,18
+2358,G-2358,WC-2006,M-2006-07,Mexico vs Iran,2006-06-11,group stage,T-46,Mexico,MEX,1,0,P-34977,Bravo,Omar,19,T-46,Mexico,MEX,28',28,0,first half,False,False,28
+2359,G-2359,WC-2006,M-2006-07,Mexico vs Iran,2006-06-11,group stage,T-38,IR Iran,IRN,0,1,P-20762,Golmohammadi,Yahya,4,T-38,IR Iran,IRN,36',36,0,first half,False,False,36
+2360,G-2360,WC-2006,M-2006-07,Mexico vs Iran,2006-06-11,group stage,T-46,Mexico,MEX,1,0,P-34977,Bravo,Omar,19,T-46,Mexico,MEX,76',76,0,second half,False,False,76
+2361,G-2361,WC-2006,M-2006-07,Mexico vs Iran,2006-06-11,group stage,T-46,Mexico,MEX,1,0,P-30651,Sinha,not applicable,7,T-46,Mexico,MEX,79',79,0,second half,False,False,79
+2362,G-2362,WC-2006,M-2006-08,Angola vs Portugal,2006-06-11,group stage,T-58,Portugal,PRT,0,1,P-57982,Pauleta,not applicable,9,T-58,Portugal,PRT,4',4,0,first half,False,False,4
+2363,G-2363,WC-2006,M-2006-09,Australia vs Japan,2006-06-12,group stage,T-44,Japan,JPN,0,1,P-77277,Nakamura,Shunsuke,10,T-44,Japan,JPN,26',26,0,first half,False,False,26
+2364,G-2364,WC-2006,M-2006-09,Australia vs Japan,2006-06-12,group stage,T-04,Australia,AUS,1,0,P-44926,Cahill,Tim,4,T-04,Australia,AUS,84',84,0,second half,False,False,84
+2365,G-2365,WC-2006,M-2006-09,Australia vs Japan,2006-06-12,group stage,T-04,Australia,AUS,1,0,P-44926,Cahill,Tim,4,T-04,Australia,AUS,89',89,0,second half,False,False,89
+2366,G-2366,WC-2006,M-2006-09,Australia vs Japan,2006-06-12,group stage,T-04,Australia,AUS,1,0,P-59039,Aloisi,John,15,T-04,Australia,AUS,90'+2',90,2,"second half, stoppage time",False,False,92
+2367,G-2367,WC-2006,M-2006-10,United States vs Czech Republic,2006-06-12,group stage,T-20,Czech Republic,CZE,0,1,P-81477,Koller,Jan,9,T-20,Czech Republic,CZE,5',5,0,first half,False,False,5
+2368,G-2368,WC-2006,M-2006-10,United States vs Czech Republic,2006-06-12,group stage,T-20,Czech Republic,CZE,0,1,P-29090,Rosický,Tomáš,10,T-20,Czech Republic,CZE,36',36,0,first half,False,False,36
+2369,G-2369,WC-2006,M-2006-10,United States vs Czech Republic,2006-06-12,group stage,T-20,Czech Republic,CZE,0,1,P-29090,Rosický,Tomáš,10,T-20,Czech Republic,CZE,76',76,0,second half,False,False,76
+2370,G-2370,WC-2006,M-2006-11,Italy vs Ghana,2006-06-12,group stage,T-41,Italy,ITA,1,0,P-99537,Pirlo,Andrea,21,T-41,Italy,ITA,40',40,0,first half,False,False,40
+2371,G-2371,WC-2006,M-2006-11,Italy vs Ghana,2006-06-12,group stage,T-41,Italy,ITA,1,0,P-38599,Iaquinta,Vincenzo,15,T-41,Italy,ITA,83',83,0,second half,False,False,83
+2372,G-2372,WC-2006,M-2006-12,South Korea vs Togo,2006-06-13,group stage,T-77,Togo,TGO,0,1,P-04210,Kader,Mohamed,17,T-77,Togo,TGO,31',31,0,first half,False,False,31
+2373,G-2373,WC-2006,M-2006-12,South Korea vs Togo,2006-06-13,group stage,T-71,Korea Republic,KOR,1,0,P-22338,Lee,Chun-soo,14,T-71,Korea Republic,KOR,54',54,0,second half,False,False,54
+2374,G-2374,WC-2006,M-2006-12,South Korea vs Togo,2006-06-13,group stage,T-71,Korea Republic,KOR,1,0,P-26616,Ahn,Jung-hwan,9,T-71,Korea Republic,KOR,72',72,0,second half,False,False,72
+2375,G-2375,WC-2006,M-2006-14,Brazil vs Croatia,2006-06-13,group stage,T-09,Brazil,BRA,1,0,P-58388,Kaká,not applicable,8,T-09,Brazil,BRA,44',44,0,first half,False,False,44
+2376,G-2376,WC-2006,M-2006-15,Spain vs Ukraine,2006-06-14,group stage,T-73,Spain,ESP,1,0,P-73924,Alonso,Xabi,14,T-73,Spain,ESP,13',13,0,first half,False,False,13
+2377,G-2377,WC-2006,M-2006-15,Spain vs Ukraine,2006-06-14,group stage,T-73,Spain,ESP,1,0,P-49097,Villa,David,21,T-73,Spain,ESP,17',17,0,first half,False,False,17
+2378,G-2378,WC-2006,M-2006-15,Spain vs Ukraine,2006-06-14,group stage,T-73,Spain,ESP,1,0,P-49097,Villa,David,21,T-73,Spain,ESP,48',48,0,second half,False,True,48
+2379,G-2379,WC-2006,M-2006-15,Spain vs Ukraine,2006-06-14,group stage,T-73,Spain,ESP,1,0,P-71661,Torres,Fernando,9,T-73,Spain,ESP,81',81,0,second half,False,False,81
+2380,G-2380,WC-2006,M-2006-16,Tunisia vs Saudi Arabia,2006-06-14,group stage,T-79,Tunisia,TUN,1,0,P-00640,Jaziri,Ziad,5,T-79,Tunisia,TUN,23',23,0,first half,False,False,23
+2381,G-2381,WC-2006,M-2006-16,Tunisia vs Saudi Arabia,2006-06-14,group stage,T-63,Saudi Arabia,SAU,0,1,P-87114,Al-Qahtani,Yasser,20,T-63,Saudi Arabia,SAU,57',57,0,second half,False,False,57
+2382,G-2382,WC-2006,M-2006-16,Tunisia vs Saudi Arabia,2006-06-14,group stage,T-63,Saudi Arabia,SAU,0,1,P-88041,Al-Jaber,Sami,9,T-63,Saudi Arabia,SAU,84',84,0,second half,False,False,84
+2383,G-2383,WC-2006,M-2006-16,Tunisia vs Saudi Arabia,2006-06-14,group stage,T-79,Tunisia,TUN,1,0,P-76769,Jaïdi,Radhi,15,T-79,Tunisia,TUN,90'+2',90,2,"second half, stoppage time",False,False,92
+2384,G-2384,WC-2006,M-2006-17,Germany vs Poland,2006-06-14,group stage,T-31,Germany,DEU,1,0,P-55504,Neuville,Oliver,10,T-31,Germany,DEU,90'+1',90,1,"second half, stoppage time",False,False,91
+2385,G-2385,WC-2006,M-2006-18,Ecuador vs Costa Rica,2006-06-15,group stage,T-25,Ecuador,ECU,1,0,P-86943,Tenorio,Carlos,21,T-25,Ecuador,ECU,8',8,0,first half,False,False,8
+2386,G-2386,WC-2006,M-2006-18,Ecuador vs Costa Rica,2006-06-15,group stage,T-25,Ecuador,ECU,1,0,P-19156,Delgado,Agustín,11,T-25,Ecuador,ECU,54',54,0,second half,False,False,54
+2387,G-2387,WC-2006,M-2006-18,Ecuador vs Costa Rica,2006-06-15,group stage,T-25,Ecuador,ECU,1,0,P-03128,Kaviedes,Iván,10,T-25,Ecuador,ECU,90'+2',90,2,"second half, stoppage time",False,False,92
+2388,G-2388,WC-2006,M-2006-19,England vs Trinidad and Tobago,2006-06-15,group stage,T-28,England,ENG,1,0,P-77532,Crouch,Peter,21,T-28,England,ENG,83',83,0,second half,False,False,83
+2389,G-2389,WC-2006,M-2006-19,England vs Trinidad and Tobago,2006-06-15,group stage,T-28,England,ENG,1,0,P-62157,Gerrard,Steven,4,T-28,England,ENG,90'+1',90,1,"second half, stoppage time",False,False,91
+2390,G-2390,WC-2006,M-2006-20,Sweden vs Paraguay,2006-06-15,group stage,T-74,Sweden,SWE,1,0,P-84022,Ljungberg,Freddie,9,T-74,Sweden,SWE,89',89,0,second half,False,False,89
+2391,G-2391,WC-2006,M-2006-21,Argentina vs Serbia and Montenegro,2006-06-16,group stage,T-03,Argentina,ARG,1,0,P-33570,Rodríguez,Maxi,18,T-03,Argentina,ARG,6',6,0,first half,False,False,6
+2392,G-2392,WC-2006,M-2006-21,Argentina vs Serbia and Montenegro,2006-06-16,group stage,T-03,Argentina,ARG,1,0,P-66229,Cambiasso,Esteban,5,T-03,Argentina,ARG,31',31,0,first half,False,False,31
+2393,G-2393,WC-2006,M-2006-21,Argentina vs Serbia and Montenegro,2006-06-16,group stage,T-03,Argentina,ARG,1,0,P-33570,Rodríguez,Maxi,18,T-03,Argentina,ARG,41',41,0,first half,False,False,41
+2394,G-2394,WC-2006,M-2006-21,Argentina vs Serbia and Montenegro,2006-06-16,group stage,T-03,Argentina,ARG,1,0,P-19888,Crespo,Hernán,9,T-03,Argentina,ARG,78',78,0,second half,False,False,78
+2395,G-2395,WC-2006,M-2006-21,Argentina vs Serbia and Montenegro,2006-06-16,group stage,T-03,Argentina,ARG,1,0,P-29080,Tevez,Carlos,11,T-03,Argentina,ARG,84',84,0,second half,False,False,84
+2396,G-2396,WC-2006,M-2006-21,Argentina vs Serbia and Montenegro,2006-06-16,group stage,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,19,T-03,Argentina,ARG,88',88,0,second half,False,False,88
+2397,G-2397,WC-2006,M-2006-22,Netherlands vs Ivory Coast,2006-06-16,group stage,T-48,Netherlands,NLD,1,0,P-99934,van Persie,Robin,17,T-48,Netherlands,NLD,23',23,0,first half,False,False,23
+2398,G-2398,WC-2006,M-2006-22,Netherlands vs Ivory Coast,2006-06-16,group stage,T-48,Netherlands,NLD,1,0,P-03013,van Nistelrooy,Ruud,9,T-48,Netherlands,NLD,27',27,0,first half,False,False,27
+2399,G-2399,WC-2006,M-2006-22,Netherlands vs Ivory Coast,2006-06-16,group stage,T-42,Ivory Coast,CIV,0,1,P-64184,Koné,Bakari,14,T-42,Ivory Coast,CIV,38',38,0,first half,False,False,38
+2400,G-2400,WC-2006,M-2006-24,Portugal vs Iran,2006-06-17,group stage,T-58,Portugal,PRT,1,0,P-96343,Deco,not applicable,20,T-58,Portugal,PRT,63',63,0,second half,False,False,63
+2401,G-2401,WC-2006,M-2006-24,Portugal vs Iran,2006-06-17,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,17,T-58,Portugal,PRT,80',80,0,second half,False,True,80
+2402,G-2402,WC-2006,M-2006-25,Czech Republic vs Ghana,2006-06-17,group stage,T-32,Ghana,GHA,0,1,P-38556,Gyan,Asamoah,3,T-32,Ghana,GHA,2',2,0,first half,False,False,2
+2403,G-2403,WC-2006,M-2006-25,Czech Republic vs Ghana,2006-06-17,group stage,T-32,Ghana,GHA,0,1,P-50641,Muntari,Sulley,11,T-32,Ghana,GHA,82',82,0,second half,False,False,82
+2404,G-2404,WC-2006,M-2006-26,Italy vs United States,2006-06-17,group stage,T-41,Italy,ITA,1,0,P-48645,Gilardino,Alberto,11,T-41,Italy,ITA,22',22,0,first half,False,False,22
+2405,G-2405,WC-2006,M-2006-26,Italy vs United States,2006-06-17,group stage,T-83,United States,USA,0,1,P-14267,Zaccardo,Cristian,2,T-41,Italy,ITA,27',27,0,first half,True,False,27
+2406,G-2406,WC-2006,M-2006-28,Brazil vs Australia,2006-06-18,group stage,T-09,Brazil,BRA,1,0,P-20372,Adriano,not applicable,7,T-09,Brazil,BRA,49',49,0,second half,False,False,49
+2407,G-2407,WC-2006,M-2006-28,Brazil vs Australia,2006-06-18,group stage,T-09,Brazil,BRA,1,0,P-54042,Fred,not applicable,21,T-09,Brazil,BRA,90',90,0,second half,False,False,90
+2408,G-2408,WC-2006,M-2006-29,France vs South Korea,2006-06-18,group stage,T-30,France,FRA,1,0,P-51395,Henry,Thierry,12,T-30,France,FRA,9',9,0,first half,False,False,9
+2409,G-2409,WC-2006,M-2006-29,France vs South Korea,2006-06-18,group stage,T-71,Korea Republic,KOR,0,1,P-25724,Park,Ji-sung,7,T-71,Korea Republic,KOR,81',81,0,second half,False,False,81
+2410,G-2410,WC-2006,M-2006-30,Togo vs Switzerland,2006-06-19,group stage,T-75,Switzerland,CHE,0,1,P-61684,Frei,Alexander,9,T-75,Switzerland,CHE,16',16,0,first half,False,False,16
+2411,G-2411,WC-2006,M-2006-30,Togo vs Switzerland,2006-06-19,group stage,T-75,Switzerland,CHE,0,1,P-97143,Barnetta,Tranquillo,16,T-75,Switzerland,CHE,88',88,0,second half,False,False,88
+2412,G-2412,WC-2006,M-2006-31,Saudi Arabia vs Ukraine,2006-06-19,group stage,T-81,Ukraine,UKR,0,1,P-07368,Rusol,Andriy,6,T-81,Ukraine,UKR,4',4,0,first half,False,False,4
+2413,G-2413,WC-2006,M-2006-31,Saudi Arabia vs Ukraine,2006-06-19,group stage,T-81,Ukraine,UKR,0,1,P-56553,Rebrov,Serhii,11,T-81,Ukraine,UKR,36',36,0,first half,False,False,36
+2414,G-2414,WC-2006,M-2006-31,Saudi Arabia vs Ukraine,2006-06-19,group stage,T-81,Ukraine,UKR,0,1,P-86650,Shevchenko,Andriy,7,T-81,Ukraine,UKR,46',46,0,second half,False,False,46
+2415,G-2415,WC-2006,M-2006-31,Saudi Arabia vs Ukraine,2006-06-19,group stage,T-81,Ukraine,UKR,0,1,P-98387,Kalynychenko,Maksym,19,T-81,Ukraine,UKR,84',84,0,second half,False,False,84
+2416,G-2416,WC-2006,M-2006-32,Spain vs Tunisia,2006-06-19,group stage,T-79,Tunisia,TUN,0,1,P-61850,Mnari,Jawhar,12,T-79,Tunisia,TUN,8',8,0,first half,False,False,8
+2417,G-2417,WC-2006,M-2006-32,Spain vs Tunisia,2006-06-19,group stage,T-73,Spain,ESP,1,0,P-24556,Raúl,not applicable,7,T-73,Spain,ESP,71',71,0,second half,False,False,71
+2418,G-2418,WC-2006,M-2006-32,Spain vs Tunisia,2006-06-19,group stage,T-73,Spain,ESP,1,0,P-71661,Torres,Fernando,9,T-73,Spain,ESP,76',76,0,second half,False,False,76
+2419,G-2419,WC-2006,M-2006-32,Spain vs Tunisia,2006-06-19,group stage,T-73,Spain,ESP,1,0,P-71661,Torres,Fernando,9,T-73,Spain,ESP,90'+1',90,1,"second half, stoppage time",False,True,91
+2420,G-2420,WC-2006,M-2006-33,Costa Rica vs Poland,2006-06-20,group stage,T-17,Costa Rica,CRI,1,0,P-55170,Gómez,Rónald,11,T-17,Costa Rica,CRI,25',25,0,first half,False,False,25
+2421,G-2421,WC-2006,M-2006-33,Costa Rica vs Poland,2006-06-20,group stage,T-57,Poland,POL,0,1,P-37586,Bosacki,Bartosz,19,T-57,Poland,POL,33',33,0,first half,False,False,33
+2422,G-2422,WC-2006,M-2006-33,Costa Rica vs Poland,2006-06-20,group stage,T-57,Poland,POL,0,1,P-37586,Bosacki,Bartosz,19,T-57,Poland,POL,65',65,0,second half,False,False,65
+2423,G-2423,WC-2006,M-2006-34,Ecuador vs Germany,2006-06-20,group stage,T-31,Germany,DEU,0,1,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,4',4,0,first half,False,False,4
+2424,G-2424,WC-2006,M-2006-34,Ecuador vs Germany,2006-06-20,group stage,T-31,Germany,DEU,0,1,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,44',44,0,first half,False,False,44
+2425,G-2425,WC-2006,M-2006-34,Ecuador vs Germany,2006-06-20,group stage,T-31,Germany,DEU,0,1,P-36287,Podolski,Lukas,20,T-31,Germany,DEU,57',57,0,second half,False,False,57
+2426,G-2426,WC-2006,M-2006-35,Paraguay vs Trinidad and Tobago,2006-06-20,group stage,T-55,Paraguay,PRY,1,0,P-52480,Sancho,Brent,5,T-78,Trinidad And Tobago,TTO,25',25,0,first half,True,False,25
+2427,G-2427,WC-2006,M-2006-35,Paraguay vs Trinidad and Tobago,2006-06-20,group stage,T-55,Paraguay,PRY,1,0,P-88899,Cuevas,Nelson,23,T-55,Paraguay,PRY,86',86,0,second half,False,False,86
+2428,G-2428,WC-2006,M-2006-36,Sweden vs England,2006-06-20,group stage,T-28,England,ENG,0,1,P-37933,Cole,Joe,11,T-28,England,ENG,34',34,0,first half,False,False,34
+2429,G-2429,WC-2006,M-2006-36,Sweden vs England,2006-06-20,group stage,T-74,Sweden,SWE,1,0,P-45212,Allbäck,Marcus,20,T-74,Sweden,SWE,51',51,0,second half,False,False,51
+2430,G-2430,WC-2006,M-2006-36,Sweden vs England,2006-06-20,group stage,T-28,England,ENG,0,1,P-62157,Gerrard,Steven,4,T-28,England,ENG,85',85,0,second half,False,False,85
+2431,G-2431,WC-2006,M-2006-36,Sweden vs England,2006-06-20,group stage,T-74,Sweden,SWE,1,0,P-42895,Larsson,Henrik,11,T-74,Sweden,SWE,90',90,0,second half,False,False,90
+2432,G-2432,WC-2006,M-2006-37,Iran vs Angola,2006-06-21,group stage,T-02,Angola,AGO,0,1,P-78483,Flávio,not applicable,16,T-02,Angola,AGO,60',60,0,second half,False,False,60
+2433,G-2433,WC-2006,M-2006-37,Iran vs Angola,2006-06-21,group stage,T-38,IR Iran,IRN,1,0,P-02909,Bakhtiarizadeh,Sohrab,3,T-38,IR Iran,IRN,75',75,0,second half,False,False,75
+2434,G-2434,WC-2006,M-2006-38,Portugal vs Mexico,2006-06-21,group stage,T-58,Portugal,PRT,1,0,P-17581,Maniche,not applicable,18,T-58,Portugal,PRT,6',6,0,first half,False,False,6
+2435,G-2435,WC-2006,M-2006-38,Portugal vs Mexico,2006-06-21,group stage,T-58,Portugal,PRT,1,0,P-32279,Simão,not applicable,11,T-58,Portugal,PRT,24',24,0,first half,False,True,24
+2436,G-2436,WC-2006,M-2006-38,Portugal vs Mexico,2006-06-21,group stage,T-46,Mexico,MEX,0,1,P-89438,Fonseca,Francisco,17,T-46,Mexico,MEX,29',29,0,first half,False,False,29
+2437,G-2437,WC-2006,M-2006-39,Ivory Coast vs Serbia and Montenegro,2006-06-21,group stage,T-67,Serbia And Montenegro,SCG,0,1,P-18094,Žigić,Nikola,19,T-67,Serbia And Montenegro,SCG,10',10,0,first half,False,False,10
+2438,G-2438,WC-2006,M-2006-39,Ivory Coast vs Serbia and Montenegro,2006-06-21,group stage,T-67,Serbia And Montenegro,SCG,0,1,P-05783,Ilić,Saša,22,T-67,Serbia And Montenegro,SCG,20',20,0,first half,False,False,20
+2439,G-2439,WC-2006,M-2006-39,Ivory Coast vs Serbia and Montenegro,2006-06-21,group stage,T-42,Ivory Coast,CIV,1,0,P-93241,Dindane,Aruna,15,T-42,Ivory Coast,CIV,37',37,0,first half,False,True,37
+2440,G-2440,WC-2006,M-2006-39,Ivory Coast vs Serbia and Montenegro,2006-06-21,group stage,T-42,Ivory Coast,CIV,1,0,P-93241,Dindane,Aruna,15,T-42,Ivory Coast,CIV,67',67,0,second half,False,False,67
+2441,G-2441,WC-2006,M-2006-39,Ivory Coast vs Serbia and Montenegro,2006-06-21,group stage,T-42,Ivory Coast,CIV,1,0,P-67250,Kalou,Bonaventure,8,T-42,Ivory Coast,CIV,86',86,0,second half,False,True,86
+2442,G-2442,WC-2006,M-2006-41,Czech Republic vs Italy,2006-06-22,group stage,T-41,Italy,ITA,0,1,P-37126,Materazzi,Marco,23,T-41,Italy,ITA,26',26,0,first half,False,False,26
+2443,G-2443,WC-2006,M-2006-41,Czech Republic vs Italy,2006-06-22,group stage,T-41,Italy,ITA,0,1,P-29172,Inzaghi,Filippo,18,T-41,Italy,ITA,87',87,0,second half,False,False,87
+2444,G-2444,WC-2006,M-2006-42,Ghana vs United States,2006-06-22,group stage,T-32,Ghana,GHA,1,0,P-51458,Draman,Haminu,23,T-32,Ghana,GHA,22',22,0,first half,False,False,22
+2445,G-2445,WC-2006,M-2006-42,Ghana vs United States,2006-06-22,group stage,T-83,United States,USA,0,1,P-18672,Dempsey,Clint,8,T-83,United States,USA,43',43,0,first half,False,False,43
+2446,G-2446,WC-2006,M-2006-42,Ghana vs United States,2006-06-22,group stage,T-32,Ghana,GHA,1,0,P-09728,Appiah,Stephen,10,T-32,Ghana,GHA,45'+2',45,2,"first half, stoppage time",False,True,47
+2447,G-2447,WC-2006,M-2006-43,Croatia vs Australia,2006-06-22,group stage,T-18,Croatia,HRV,1,0,P-97008,Srna,Darijo,2,T-18,Croatia,HRV,2',2,0,first half,False,False,2
+2448,G-2448,WC-2006,M-2006-43,Croatia vs Australia,2006-06-22,group stage,T-04,Australia,AUS,0,1,P-66908,Moore,Craig,3,T-04,Australia,AUS,38',38,0,first half,False,True,38
+2449,G-2449,WC-2006,M-2006-43,Croatia vs Australia,2006-06-22,group stage,T-18,Croatia,HRV,1,0,P-84378,Kovač,Niko,10,T-18,Croatia,HRV,56',56,0,second half,False,False,56
+2450,G-2450,WC-2006,M-2006-43,Croatia vs Australia,2006-06-22,group stage,T-04,Australia,AUS,0,1,P-14290,Kewell,Harry,10,T-04,Australia,AUS,79',79,0,second half,False,False,79
+2451,G-2451,WC-2006,M-2006-44,Japan vs Brazil,2006-06-22,group stage,T-44,Japan,JPN,1,0,P-15134,Tamada,Keiji,20,T-44,Japan,JPN,34',34,0,first half,False,False,34
+2452,G-2452,WC-2006,M-2006-44,Japan vs Brazil,2006-06-22,group stage,T-09,Brazil,BRA,0,1,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,45'+1',45,1,"first half, stoppage time",False,False,46
+2453,G-2453,WC-2006,M-2006-44,Japan vs Brazil,2006-06-22,group stage,T-09,Brazil,BRA,0,1,P-37735,Pernambucano,Juninho,19,T-09,Brazil,BRA,53',53,0,second half,False,False,53
+2454,G-2454,WC-2006,M-2006-44,Japan vs Brazil,2006-06-22,group stage,T-09,Brazil,BRA,0,1,P-30363,Gilberto,not applicable,16,T-09,Brazil,BRA,59',59,0,second half,False,False,59
+2455,G-2455,WC-2006,M-2006-44,Japan vs Brazil,2006-06-22,group stage,T-09,Brazil,BRA,0,1,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,81',81,0,second half,False,False,81
+2456,G-2456,WC-2006,M-2006-45,Saudi Arabia vs Spain,2006-06-23,group stage,T-73,Spain,ESP,0,1,P-51440,Juanito,not applicable,20,T-73,Spain,ESP,36',36,0,first half,False,False,36
+2457,G-2457,WC-2006,M-2006-46,Ukraine vs Tunisia,2006-06-23,group stage,T-81,Ukraine,UKR,1,0,P-86650,Shevchenko,Andriy,7,T-81,Ukraine,UKR,70',70,0,second half,False,True,70
+2458,G-2458,WC-2006,M-2006-47,Switzerland vs South Korea,2006-06-23,group stage,T-75,Switzerland,CHE,1,0,P-94161,Senderos,Philippe,4,T-75,Switzerland,CHE,23',23,0,first half,False,False,23
+2459,G-2459,WC-2006,M-2006-47,Switzerland vs South Korea,2006-06-23,group stage,T-75,Switzerland,CHE,1,0,P-61684,Frei,Alexander,9,T-75,Switzerland,CHE,77',77,0,second half,False,False,77
+2460,G-2460,WC-2006,M-2006-48,Togo vs France,2006-06-23,group stage,T-30,France,FRA,0,1,P-96540,Vieira,Patrick,4,T-30,France,FRA,55',55,0,second half,False,False,55
+2461,G-2461,WC-2006,M-2006-48,Togo vs France,2006-06-23,group stage,T-30,France,FRA,0,1,P-51395,Henry,Thierry,12,T-30,France,FRA,61',61,0,second half,False,False,61
+2462,G-2462,WC-2006,M-2006-49,Germany vs Sweden,2006-06-24,round of 16,T-31,Germany,DEU,1,0,P-36287,Podolski,Lukas,20,T-31,Germany,DEU,4',4,0,first half,False,False,4
+2463,G-2463,WC-2006,M-2006-49,Germany vs Sweden,2006-06-24,round of 16,T-31,Germany,DEU,1,0,P-36287,Podolski,Lukas,20,T-31,Germany,DEU,12',12,0,first half,False,False,12
+2464,G-2464,WC-2006,M-2006-50,Argentina vs Mexico,2006-06-24,round of 16,T-46,Mexico,MEX,0,1,P-44763,Márquez,Rafael,4,T-46,Mexico,MEX,6',6,0,first half,False,False,6
+2465,G-2465,WC-2006,M-2006-50,Argentina vs Mexico,2006-06-24,round of 16,T-03,Argentina,ARG,1,0,P-19888,Crespo,Hernán,9,T-03,Argentina,ARG,10',10,0,first half,False,False,10
+2466,G-2466,WC-2006,M-2006-50,Argentina vs Mexico,2006-06-24,round of 16,T-03,Argentina,ARG,1,0,P-33570,Rodríguez,Maxi,18,T-03,Argentina,ARG,98',98,0,"extra time, first half",False,False,98
+2467,G-2467,WC-2006,M-2006-51,England vs Ecuador,2006-06-25,round of 16,T-28,England,ENG,1,0,P-81049,Beckham,David,7,T-28,England,ENG,60',60,0,second half,False,False,60
+2468,G-2468,WC-2006,M-2006-52,Portugal vs Netherlands,2006-06-25,round of 16,T-58,Portugal,PRT,1,0,P-17581,Maniche,not applicable,18,T-58,Portugal,PRT,23',23,0,first half,False,False,23
+2469,G-2469,WC-2006,M-2006-53,Italy vs Australia,2006-06-26,round of 16,T-41,Italy,ITA,1,0,P-42038,Totti,Francesco,10,T-41,Italy,ITA,90'+5',90,5,"second half, stoppage time",False,True,95
+2470,G-2470,WC-2006,M-2006-55,Brazil vs Ghana,2006-06-27,round of 16,T-09,Brazil,BRA,1,0,P-62722,Ronaldo,not applicable,9,T-09,Brazil,BRA,5',5,0,first half,False,False,5
+2471,G-2471,WC-2006,M-2006-55,Brazil vs Ghana,2006-06-27,round of 16,T-09,Brazil,BRA,1,0,P-20372,Adriano,not applicable,7,T-09,Brazil,BRA,45'+1',45,1,"first half, stoppage time",False,False,46
+2472,G-2472,WC-2006,M-2006-55,Brazil vs Ghana,2006-06-27,round of 16,T-09,Brazil,BRA,1,0,P-39545,Zé Roberto,not applicable,11,T-09,Brazil,BRA,84',84,0,second half,False,False,84
+2473,G-2473,WC-2006,M-2006-56,Spain vs France,2006-06-27,round of 16,T-73,Spain,ESP,1,0,P-49097,Villa,David,21,T-73,Spain,ESP,28',28,0,first half,False,True,28
+2474,G-2474,WC-2006,M-2006-56,Spain vs France,2006-06-27,round of 16,T-30,France,FRA,0,1,P-55659,Ribéry,Franck,22,T-30,France,FRA,41',41,0,first half,False,False,41
+2475,G-2475,WC-2006,M-2006-56,Spain vs France,2006-06-27,round of 16,T-30,France,FRA,0,1,P-96540,Vieira,Patrick,4,T-30,France,FRA,83',83,0,second half,False,False,83
+2476,G-2476,WC-2006,M-2006-56,Spain vs France,2006-06-27,round of 16,T-30,France,FRA,0,1,P-56430,Zidane,Zinedine,10,T-30,France,FRA,90'+2',90,2,"second half, stoppage time",False,False,92
+2477,G-2477,WC-2006,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,T-03,Argentina,ARG,0,1,P-83403,Ayala,Roberto,2,T-03,Argentina,ARG,49',49,0,second half,False,False,49
+2478,G-2478,WC-2006,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,80',80,0,second half,False,False,80
+2479,G-2479,WC-2006,M-2006-58,Italy vs Ukraine,2006-06-30,quarter-finals,T-41,Italy,ITA,1,0,P-42227,Zambrotta,Gianluca,19,T-41,Italy,ITA,6',6,0,first half,False,False,6
+2480,G-2480,WC-2006,M-2006-58,Italy vs Ukraine,2006-06-30,quarter-finals,T-41,Italy,ITA,1,0,P-96512,Toni,Luca,9,T-41,Italy,ITA,59',59,0,second half,False,False,59
+2481,G-2481,WC-2006,M-2006-58,Italy vs Ukraine,2006-06-30,quarter-finals,T-41,Italy,ITA,1,0,P-96512,Toni,Luca,9,T-41,Italy,ITA,69',69,0,second half,False,False,69
+2482,G-2482,WC-2006,M-2006-60,Brazil vs France,2006-07-01,quarter-finals,T-30,France,FRA,0,1,P-51395,Henry,Thierry,12,T-30,France,FRA,57',57,0,second half,False,False,57
+2483,G-2483,WC-2006,M-2006-61,Germany vs Italy,2006-07-04,semi-finals,T-41,Italy,ITA,0,1,P-99473,Grosso,Fabio,3,T-41,Italy,ITA,119',119,0,"extra time, second half",False,False,119
+2484,G-2484,WC-2006,M-2006-61,Germany vs Italy,2006-07-04,semi-finals,T-41,Italy,ITA,0,1,P-83836,Del Piero,Alessandro,7,T-41,Italy,ITA,120'+1',120,1,"extra time, second half, stoppage time",False,False,121
+2485,G-2485,WC-2006,M-2006-62,Portugal vs France,2006-07-05,semi-finals,T-30,France,FRA,0,1,P-56430,Zidane,Zinedine,10,T-30,France,FRA,33',33,0,first half,False,True,33
+2486,G-2486,WC-2006,M-2006-63,Germany vs Portugal,2006-07-08,third-place match,T-31,Germany,DEU,1,0,P-43400,Schweinsteiger,Bastian,7,T-31,Germany,DEU,56',56,0,second half,False,False,56
+2487,G-2487,WC-2006,M-2006-63,Germany vs Portugal,2006-07-08,third-place match,T-31,Germany,DEU,1,0,P-92307,Petit,not applicable,8,T-58,Portugal,PRT,60',60,0,second half,True,False,60
+2488,G-2488,WC-2006,M-2006-63,Germany vs Portugal,2006-07-08,third-place match,T-31,Germany,DEU,1,0,P-43400,Schweinsteiger,Bastian,7,T-31,Germany,DEU,78',78,0,second half,False,False,78
+2489,G-2489,WC-2006,M-2006-63,Germany vs Portugal,2006-07-08,third-place match,T-58,Portugal,PRT,0,1,P-57631,Gomes,Nuno,21,T-58,Portugal,PRT,88',88,0,second half,False,False,88
+2490,G-2490,WC-2006,M-2006-64,Italy vs France,2006-07-09,final,T-30,France,FRA,0,1,P-56430,Zidane,Zinedine,10,T-30,France,FRA,7',7,0,first half,False,True,7
+2491,G-2491,WC-2006,M-2006-64,Italy vs France,2006-07-09,final,T-41,Italy,ITA,1,0,P-37126,Materazzi,Marco,23,T-41,Italy,ITA,19',19,0,first half,False,False,19
+2603,G-2603,WC-2010,M-2010-01,South Africa vs Mexico,2010-06-11,group stage,T-70,South Africa,ZAF,1,0,P-31160,Tshabalala,Siphiwe,8,T-70,South Africa,ZAF,55',55,0,second half,False,False,55
+2604,G-2604,WC-2010,M-2010-01,South Africa vs Mexico,2010-06-11,group stage,T-46,Mexico,MEX,0,1,P-44763,Márquez,Rafael,4,T-46,Mexico,MEX,79',79,0,second half,False,False,79
+2605,G-2605,WC-2010,M-2010-03,South Korea vs Greece,2010-06-12,group stage,T-71,Korea Republic,KOR,1,0,P-07494,Lee,Jung-soo,14,T-71,Korea Republic,KOR,7',7,0,first half,False,False,7
+2606,G-2606,WC-2010,M-2010-03,South Korea vs Greece,2010-06-12,group stage,T-71,Korea Republic,KOR,1,0,P-25724,Park,Ji-sung,7,T-71,Korea Republic,KOR,52',52,0,second half,False,False,52
+2607,G-2607,WC-2010,M-2010-04,Argentina vs Nigeria,2010-06-12,group stage,T-03,Argentina,ARG,1,0,P-64352,Heinze,Gabriel,6,T-03,Argentina,ARG,6',6,0,first half,False,False,6
+2608,G-2608,WC-2010,M-2010-05,England vs United States,2010-06-12,group stage,T-28,England,ENG,1,0,P-62157,Gerrard,Steven,4,T-28,England,ENG,4',4,0,first half,False,False,4
+2609,G-2609,WC-2010,M-2010-05,England vs United States,2010-06-12,group stage,T-83,United States,USA,0,1,P-18672,Dempsey,Clint,8,T-83,United States,USA,40',40,0,first half,False,False,40
+2610,G-2610,WC-2010,M-2010-06,Algeria vs Slovenia,2010-06-13,group stage,T-69,Slovenia,SVN,0,1,P-17662,Koren,Robert,8,T-69,Slovenia,SVN,79',79,0,second half,False,False,79
+2611,G-2611,WC-2010,M-2010-07,Serbia vs Ghana,2010-06-13,group stage,T-32,Ghana,GHA,0,1,P-38556,Gyan,Asamoah,3,T-32,Ghana,GHA,85',85,0,second half,False,True,85
+2612,G-2612,WC-2010,M-2010-08,Germany vs Australia,2010-06-13,group stage,T-31,Germany,DEU,1,0,P-36287,Podolski,Lukas,10,T-31,Germany,DEU,8',8,0,first half,False,False,8
+2613,G-2613,WC-2010,M-2010-08,Germany vs Australia,2010-06-13,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,26',26,0,first half,False,False,26
+2614,G-2614,WC-2010,M-2010-08,Germany vs Australia,2010-06-13,group stage,T-31,Germany,DEU,1,0,P-28154,Müller,Thomas,13,T-31,Germany,DEU,68',68,0,second half,False,False,68
+2615,G-2615,WC-2010,M-2010-08,Germany vs Australia,2010-06-13,group stage,T-31,Germany,DEU,1,0,P-10713,Cacau,not applicable,19,T-31,Germany,DEU,70',70,0,second half,False,False,70
+2616,G-2616,WC-2010,M-2010-09,Netherlands vs Denmark,2010-06-14,group stage,T-48,Netherlands,NLD,1,0,P-52264,Agger,Daniel,4,T-22,Denmark,DNK,46',46,0,second half,True,False,46
+2617,G-2617,WC-2010,M-2010-09,Netherlands vs Denmark,2010-06-14,group stage,T-48,Netherlands,NLD,1,0,P-33312,Kuyt,Dirk,7,T-48,Netherlands,NLD,85',85,0,second half,False,False,85
+2618,G-2618,WC-2010,M-2010-10,Japan vs Cameroon,2010-06-14,group stage,T-44,Japan,JPN,1,0,P-33175,Honda,Keisuke,18,T-44,Japan,JPN,39',39,0,first half,False,False,39
+2619,G-2619,WC-2010,M-2010-11,Italy vs Paraguay,2010-06-14,group stage,T-55,Paraguay,PRY,0,1,P-87859,Alcaraz,Antolín,21,T-55,Paraguay,PRY,39',39,0,first half,False,False,39
+2620,G-2620,WC-2010,M-2010-11,Italy vs Paraguay,2010-06-14,group stage,T-41,Italy,ITA,1,0,P-65802,De Rossi,Daniele,6,T-41,Italy,ITA,63',63,0,second half,False,False,63
+2621,G-2621,WC-2010,M-2010-12,New Zealand vs Slovakia,2010-06-15,group stage,T-68,Slovakia,SVK,0,1,P-14764,Vittek,Róbert,11,T-68,Slovakia,SVK,50',50,0,second half,False,False,50
+2622,G-2622,WC-2010,M-2010-12,New Zealand vs Slovakia,2010-06-15,group stage,T-49,New Zealand,NZL,1,0,P-57058,Reid,Winston,4,T-49,New Zealand,NZL,90'+3',90,3,"second half, stoppage time",False,False,93
+2623,G-2623,WC-2010,M-2010-14,Brazil vs North Korea,2010-06-15,group stage,T-09,Brazil,BRA,1,0,P-94551,Maicon,not applicable,2,T-09,Brazil,BRA,55',55,0,second half,False,False,55
+2624,G-2624,WC-2010,M-2010-14,Brazil vs North Korea,2010-06-15,group stage,T-09,Brazil,BRA,1,0,P-78264,Elano,not applicable,7,T-09,Brazil,BRA,72',72,0,second half,False,False,72
+2625,G-2625,WC-2010,M-2010-14,Brazil vs North Korea,2010-06-15,group stage,T-51,North Korea,PRK,0,1,P-01454,Ji,Yun-nam,8,T-51,North Korea,PRK,89',89,0,second half,False,False,89
+2626,G-2626,WC-2010,M-2010-15,Honduras vs Chile,2010-06-16,group stage,T-13,Chile,CHL,0,1,P-74480,Beausejour,Jean,15,T-13,Chile,CHL,34',34,0,first half,False,False,34
+2627,G-2627,WC-2010,M-2010-16,Spain vs Switzerland,2010-06-16,group stage,T-75,Switzerland,CHE,0,1,P-77553,Fernandes,Gélson,16,T-75,Switzerland,CHE,52',52,0,second half,False,False,52
+2628,G-2628,WC-2010,M-2010-17,South Africa vs Uruguay,2010-06-16,group stage,T-84,Uruguay,URY,0,1,P-86087,Forlán,Diego,10,T-84,Uruguay,URY,24',24,0,first half,False,False,24
+2629,G-2629,WC-2010,M-2010-17,South Africa vs Uruguay,2010-06-16,group stage,T-84,Uruguay,URY,0,1,P-86087,Forlán,Diego,10,T-84,Uruguay,URY,80',80,0,second half,False,True,80
+2630,G-2630,WC-2010,M-2010-17,South Africa vs Uruguay,2010-06-16,group stage,T-84,Uruguay,URY,0,1,P-11075,Pereira,Álvaro,11,T-84,Uruguay,URY,90'+5',90,5,"second half, stoppage time",False,False,95
+2631,G-2631,WC-2010,M-2010-18,Argentina vs South Korea,2010-06-17,group stage,T-03,Argentina,ARG,1,0,P-06608,Park,Chu-young,10,T-71,Korea Republic,KOR,17',17,0,first half,True,False,17
+2632,G-2632,WC-2010,M-2010-18,Argentina vs South Korea,2010-06-17,group stage,T-03,Argentina,ARG,1,0,P-29398,Higuaín,Gonzalo,9,T-03,Argentina,ARG,33',33,0,first half,False,False,33
+2633,G-2633,WC-2010,M-2010-18,Argentina vs South Korea,2010-06-17,group stage,T-71,Korea Republic,KOR,0,1,P-40927,Lee,Chung-yong,17,T-71,Korea Republic,KOR,45'+1',45,1,"first half, stoppage time",False,False,46
+2634,G-2634,WC-2010,M-2010-18,Argentina vs South Korea,2010-06-17,group stage,T-03,Argentina,ARG,1,0,P-29398,Higuaín,Gonzalo,9,T-03,Argentina,ARG,76',76,0,second half,False,False,76
+2635,G-2635,WC-2010,M-2010-18,Argentina vs South Korea,2010-06-17,group stage,T-03,Argentina,ARG,1,0,P-29398,Higuaín,Gonzalo,9,T-03,Argentina,ARG,80',80,0,second half,False,False,80
+2636,G-2636,WC-2010,M-2010-19,Greece vs Nigeria,2010-06-17,group stage,T-50,Nigeria,NGA,0,1,P-98626,Uche,Kalu,12,T-50,Nigeria,NGA,16',16,0,first half,False,False,16
+2637,G-2637,WC-2010,M-2010-19,Greece vs Nigeria,2010-06-17,group stage,T-33,Greece,GRC,1,0,P-75292,Salpingidis,Dimitris,14,T-33,Greece,GRC,44',44,0,first half,False,False,44
+2638,G-2638,WC-2010,M-2010-19,Greece vs Nigeria,2010-06-17,group stage,T-33,Greece,GRC,1,0,P-05210,Torosidis,Vasilis,15,T-33,Greece,GRC,71',71,0,second half,False,False,71
+2639,G-2639,WC-2010,M-2010-20,France vs Mexico,2010-06-17,group stage,T-46,Mexico,MEX,0,1,P-36515,Hernández,Javier,14,T-46,Mexico,MEX,64',64,0,second half,False,False,64
+2640,G-2640,WC-2010,M-2010-20,France vs Mexico,2010-06-17,group stage,T-46,Mexico,MEX,0,1,P-88428,Blanco,Cuauhtémoc,10,T-46,Mexico,MEX,79',79,0,second half,False,True,79
+2641,G-2641,WC-2010,M-2010-21,Germany vs Serbia,2010-06-18,group stage,T-66,Serbia,SRB,0,1,P-56515,Jovanović,Milan,14,T-66,Serbia,SRB,38',38,0,first half,False,False,38
+2642,G-2642,WC-2010,M-2010-22,Slovenia vs United States,2010-06-18,group stage,T-69,Slovenia,SVN,1,0,P-20008,Birsa,Valter,10,T-69,Slovenia,SVN,13',13,0,first half,False,False,13
+2643,G-2643,WC-2010,M-2010-22,Slovenia vs United States,2010-06-18,group stage,T-69,Slovenia,SVN,1,0,P-01012,Ljubijankić,Zlatan,9,T-69,Slovenia,SVN,42',42,0,first half,False,False,42
+2644,G-2644,WC-2010,M-2010-22,Slovenia vs United States,2010-06-18,group stage,T-83,United States,USA,0,1,P-05728,Donovan,Landon,10,T-83,United States,USA,48',48,0,second half,False,False,48
+2645,G-2645,WC-2010,M-2010-22,Slovenia vs United States,2010-06-18,group stage,T-83,United States,USA,0,1,P-97258,Bradley,Michael,4,T-83,United States,USA,82',82,0,second half,False,False,82
+2646,G-2646,WC-2010,M-2010-24,Netherlands vs Japan,2010-06-19,group stage,T-48,Netherlands,NLD,1,0,P-51336,Sneijder,Wesley,10,T-48,Netherlands,NLD,53',53,0,second half,False,False,53
+2647,G-2647,WC-2010,M-2010-25,Ghana vs Australia,2010-06-19,group stage,T-04,Australia,AUS,0,1,P-96211,Holman,Brett,14,T-04,Australia,AUS,11',11,0,first half,False,False,11
+2648,G-2648,WC-2010,M-2010-25,Ghana vs Australia,2010-06-19,group stage,T-32,Ghana,GHA,1,0,P-38556,Gyan,Asamoah,3,T-32,Ghana,GHA,25',25,0,first half,False,True,25
+2649,G-2649,WC-2010,M-2010-26,Cameroon vs Denmark,2010-06-19,group stage,T-11,Cameroon,CMR,1,0,P-61703,Eto'o,Samuel,9,T-11,Cameroon,CMR,10',10,0,first half,False,False,10
+2650,G-2650,WC-2010,M-2010-26,Cameroon vs Denmark,2010-06-19,group stage,T-22,Denmark,DNK,0,1,P-38862,Bendtner,Nicklas,11,T-22,Denmark,DNK,33',33,0,first half,False,False,33
+2651,G-2651,WC-2010,M-2010-26,Cameroon vs Denmark,2010-06-19,group stage,T-22,Denmark,DNK,0,1,P-80170,Rommedahl,Dennis,19,T-22,Denmark,DNK,61',61,0,second half,False,False,61
+2652,G-2652,WC-2010,M-2010-27,Slovakia vs Paraguay,2010-06-20,group stage,T-55,Paraguay,PRY,0,1,P-18210,Vera,Enrique,13,T-55,Paraguay,PRY,27',27,0,first half,False,False,27
+2653,G-2653,WC-2010,M-2010-27,Slovakia vs Paraguay,2010-06-20,group stage,T-55,Paraguay,PRY,0,1,P-78654,Riveros,Cristian,16,T-55,Paraguay,PRY,86',86,0,second half,False,False,86
+2654,G-2654,WC-2010,M-2010-28,Italy vs New Zealand,2010-06-20,group stage,T-49,New Zealand,NZL,0,1,P-90145,Smeltz,Shane,9,T-49,New Zealand,NZL,7',7,0,first half,False,False,7
+2655,G-2655,WC-2010,M-2010-28,Italy vs New Zealand,2010-06-20,group stage,T-41,Italy,ITA,1,0,P-38599,Iaquinta,Vincenzo,9,T-41,Italy,ITA,29',29,0,first half,False,True,29
+2656,G-2656,WC-2010,M-2010-29,Brazil vs Ivory Coast,2010-06-20,group stage,T-09,Brazil,BRA,1,0,P-98528,Fabiano,Luís,9,T-09,Brazil,BRA,25',25,0,first half,False,False,25
+2657,G-2657,WC-2010,M-2010-29,Brazil vs Ivory Coast,2010-06-20,group stage,T-09,Brazil,BRA,1,0,P-98528,Fabiano,Luís,9,T-09,Brazil,BRA,50',50,0,second half,False,False,50
+2658,G-2658,WC-2010,M-2010-29,Brazil vs Ivory Coast,2010-06-20,group stage,T-09,Brazil,BRA,1,0,P-78264,Elano,not applicable,7,T-09,Brazil,BRA,62',62,0,second half,False,False,62
+2659,G-2659,WC-2010,M-2010-29,Brazil vs Ivory Coast,2010-06-20,group stage,T-42,Ivory Coast,CIV,0,1,P-99466,Drogba,Didier,11,T-42,Ivory Coast,CIV,79',79,0,second half,False,False,79
+2660,G-2660,WC-2010,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,T-58,Portugal,PRT,1,0,P-88101,Meireles,Raul,16,T-58,Portugal,PRT,29',29,0,first half,False,False,29
+2661,G-2661,WC-2010,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,T-58,Portugal,PRT,1,0,P-32279,Simão,not applicable,11,T-58,Portugal,PRT,53',53,0,second half,False,False,53
+2662,G-2662,WC-2010,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,T-58,Portugal,PRT,1,0,P-14428,Almeida,Hugo,18,T-58,Portugal,PRT,56',56,0,second half,False,False,56
+2663,G-2663,WC-2010,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,T-58,Portugal,PRT,1,0,P-21434,Tiago,not applicable,19,T-58,Portugal,PRT,60',60,0,second half,False,False,60
+2664,G-2664,WC-2010,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,T-58,Portugal,PRT,1,0,P-28404,Liédson,not applicable,9,T-58,Portugal,PRT,81',81,0,second half,False,False,81
+2665,G-2665,WC-2010,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,7,T-58,Portugal,PRT,87',87,0,second half,False,False,87
+2666,G-2666,WC-2010,M-2010-30,Portugal vs North Korea,2010-06-21,group stage,T-58,Portugal,PRT,1,0,P-21434,Tiago,not applicable,19,T-58,Portugal,PRT,89',89,0,second half,False,False,89
+2667,G-2667,WC-2010,M-2010-31,Chile vs Switzerland,2010-06-21,group stage,T-13,Chile,CHL,1,0,P-35574,González,Mark,11,T-13,Chile,CHL,75',75,0,second half,False,False,75
+2668,G-2668,WC-2010,M-2010-32,Spain vs Honduras,2010-06-21,group stage,T-73,Spain,ESP,1,0,P-49097,Villa,David,7,T-73,Spain,ESP,17',17,0,first half,False,False,17
+2669,G-2669,WC-2010,M-2010-32,Spain vs Honduras,2010-06-21,group stage,T-73,Spain,ESP,1,0,P-49097,Villa,David,7,T-73,Spain,ESP,51',51,0,second half,False,False,51
+2670,G-2670,WC-2010,M-2010-33,France vs South Africa,2010-06-22,group stage,T-70,South Africa,ZAF,0,1,P-61943,Khumalo,Bongani,20,T-70,South Africa,ZAF,20',20,0,first half,False,False,20
+2671,G-2671,WC-2010,M-2010-33,France vs South Africa,2010-06-22,group stage,T-70,South Africa,ZAF,0,1,P-39078,Mphela,Katlego,9,T-70,South Africa,ZAF,37',37,0,first half,False,False,37
+2672,G-2672,WC-2010,M-2010-33,France vs South Africa,2010-06-22,group stage,T-30,France,FRA,1,0,P-18830,Malouda,Florent,15,T-30,France,FRA,70',70,0,second half,False,False,70
+2673,G-2673,WC-2010,M-2010-34,Mexico vs Uruguay,2010-06-22,group stage,T-84,Uruguay,URY,0,1,P-30486,Suárez,Luis,9,T-84,Uruguay,URY,43',43,0,first half,False,False,43
+2674,G-2674,WC-2010,M-2010-35,Greece vs Argentina,2010-06-22,group stage,T-03,Argentina,ARG,0,1,P-39810,Demichelis,Martín,2,T-03,Argentina,ARG,77',77,0,second half,False,False,77
+2675,G-2675,WC-2010,M-2010-35,Greece vs Argentina,2010-06-22,group stage,T-03,Argentina,ARG,0,1,P-60592,Palermo,Martín,18,T-03,Argentina,ARG,89',89,0,second half,False,False,89
+2676,G-2676,WC-2010,M-2010-36,Nigeria vs South Korea,2010-06-22,group stage,T-50,Nigeria,NGA,1,0,P-98626,Uche,Kalu,12,T-50,Nigeria,NGA,12',12,0,first half,False,False,12
+2677,G-2677,WC-2010,M-2010-36,Nigeria vs South Korea,2010-06-22,group stage,T-71,Korea Republic,KOR,0,1,P-07494,Lee,Jung-soo,14,T-71,Korea Republic,KOR,38',38,0,first half,False,False,38
+2678,G-2678,WC-2010,M-2010-36,Nigeria vs South Korea,2010-06-22,group stage,T-71,Korea Republic,KOR,0,1,P-06608,Park,Chu-young,10,T-71,Korea Republic,KOR,49',49,0,second half,False,False,49
+2679,G-2679,WC-2010,M-2010-36,Nigeria vs South Korea,2010-06-22,group stage,T-50,Nigeria,NGA,1,0,P-98373,Yakubu,not applicable,8,T-50,Nigeria,NGA,69',69,0,second half,False,True,69
+2680,G-2680,WC-2010,M-2010-37,Slovenia vs England,2010-06-23,group stage,T-28,England,ENG,0,1,P-42890,Defoe,Jermain,19,T-28,England,ENG,23',23,0,first half,False,False,23
+2681,G-2681,WC-2010,M-2010-38,United States vs Algeria,2010-06-23,group stage,T-83,United States,USA,1,0,P-05728,Donovan,Landon,10,T-83,United States,USA,90'+1',90,1,"second half, stoppage time",False,False,91
+2682,G-2682,WC-2010,M-2010-39,Australia vs Serbia,2010-06-23,group stage,T-04,Australia,AUS,1,0,P-44926,Cahill,Tim,4,T-04,Australia,AUS,69',69,0,second half,False,False,69
+2683,G-2683,WC-2010,M-2010-39,Australia vs Serbia,2010-06-23,group stage,T-04,Australia,AUS,1,0,P-96211,Holman,Brett,14,T-04,Australia,AUS,73',73,0,second half,False,False,73
+2684,G-2684,WC-2010,M-2010-39,Australia vs Serbia,2010-06-23,group stage,T-66,Serbia,SRB,0,1,P-07371,Pantelić,Marko,9,T-66,Serbia,SRB,84',84,0,second half,False,False,84
+2685,G-2685,WC-2010,M-2010-40,Ghana vs Germany,2010-06-23,group stage,T-31,Germany,DEU,0,1,P-12818,Özil,Mesut,8,T-31,Germany,DEU,60',60,0,second half,False,False,60
+2686,G-2686,WC-2010,M-2010-42,Slovakia vs Italy,2010-06-24,group stage,T-68,Slovakia,SVK,1,0,P-14764,Vittek,Róbert,11,T-68,Slovakia,SVK,25',25,0,first half,False,False,25
+2687,G-2687,WC-2010,M-2010-42,Slovakia vs Italy,2010-06-24,group stage,T-68,Slovakia,SVK,1,0,P-14764,Vittek,Róbert,11,T-68,Slovakia,SVK,73',73,0,second half,False,False,73
+2688,G-2688,WC-2010,M-2010-42,Slovakia vs Italy,2010-06-24,group stage,T-41,Italy,ITA,0,1,P-75306,Di Natale,Antonio,10,T-41,Italy,ITA,81',81,0,second half,False,False,81
+2689,G-2689,WC-2010,M-2010-42,Slovakia vs Italy,2010-06-24,group stage,T-68,Slovakia,SVK,1,0,P-40368,Kopúnek,Kamil,20,T-68,Slovakia,SVK,89',89,0,second half,False,False,89
+2690,G-2690,WC-2010,M-2010-42,Slovakia vs Italy,2010-06-24,group stage,T-41,Italy,ITA,0,1,P-01045,Quagliarella,Fabio,18,T-41,Italy,ITA,90'+2',90,2,"second half, stoppage time",False,False,92
+2691,G-2691,WC-2010,M-2010-43,Cameroon vs Netherlands,2010-06-24,group stage,T-48,Netherlands,NLD,0,1,P-99934,van Persie,Robin,9,T-48,Netherlands,NLD,36',36,0,first half,False,False,36
+2692,G-2692,WC-2010,M-2010-43,Cameroon vs Netherlands,2010-06-24,group stage,T-11,Cameroon,CMR,1,0,P-61703,Eto'o,Samuel,9,T-11,Cameroon,CMR,65',65,0,second half,False,True,65
+2693,G-2693,WC-2010,M-2010-43,Cameroon vs Netherlands,2010-06-24,group stage,T-48,Netherlands,NLD,0,1,P-64344,Huntelaar,Klaas-Jan,21,T-48,Netherlands,NLD,83',83,0,second half,False,False,83
+2694,G-2694,WC-2010,M-2010-44,Denmark vs Japan,2010-06-24,group stage,T-44,Japan,JPN,0,1,P-33175,Honda,Keisuke,18,T-44,Japan,JPN,17',17,0,first half,False,False,17
+2695,G-2695,WC-2010,M-2010-44,Denmark vs Japan,2010-06-24,group stage,T-44,Japan,JPN,0,1,P-61292,Endō,Yasuhito,7,T-44,Japan,JPN,30',30,0,first half,False,False,30
+2696,G-2696,WC-2010,M-2010-44,Denmark vs Japan,2010-06-24,group stage,T-22,Denmark,DNK,1,0,P-50534,Tomasson,Jon Dahl,9,T-22,Denmark,DNK,81',81,0,second half,False,False,81
+2697,G-2697,WC-2010,M-2010-44,Denmark vs Japan,2010-06-24,group stage,T-44,Japan,JPN,0,1,P-84807,Okazaki,Shinji,9,T-44,Japan,JPN,87',87,0,second half,False,False,87
+2698,G-2698,WC-2010,M-2010-45,North Korea vs Ivory Coast,2010-06-25,group stage,T-42,Ivory Coast,CIV,0,1,P-44934,Touré,Yaya,19,T-42,Ivory Coast,CIV,14',14,0,first half,False,False,14
+2699,G-2699,WC-2010,M-2010-45,North Korea vs Ivory Coast,2010-06-25,group stage,T-42,Ivory Coast,CIV,0,1,P-55581,Romaric,not applicable,13,T-42,Ivory Coast,CIV,20',20,0,first half,False,False,20
+2700,G-2700,WC-2010,M-2010-45,North Korea vs Ivory Coast,2010-06-25,group stage,T-42,Ivory Coast,CIV,0,1,P-31976,Kalou,Salomon,8,T-42,Ivory Coast,CIV,82',82,0,second half,False,False,82
+2701,G-2701,WC-2010,M-2010-47,Chile vs Spain,2010-06-25,group stage,T-73,Spain,ESP,0,1,P-49097,Villa,David,7,T-73,Spain,ESP,24',24,0,first half,False,False,24
+2702,G-2702,WC-2010,M-2010-47,Chile vs Spain,2010-06-25,group stage,T-73,Spain,ESP,0,1,P-56330,Iniesta,Andrés,6,T-73,Spain,ESP,37',37,0,first half,False,False,37
+2703,G-2703,WC-2010,M-2010-47,Chile vs Spain,2010-06-25,group stage,T-13,Chile,CHL,1,0,P-39840,Millar,Rodrigo,20,T-13,Chile,CHL,47',47,0,second half,False,False,47
+2704,G-2704,WC-2010,M-2010-49,Uruguay vs South Korea,2010-06-26,round of 16,T-84,Uruguay,URY,1,0,P-30486,Suárez,Luis,9,T-84,Uruguay,URY,8',8,0,first half,False,False,8
+2705,G-2705,WC-2010,M-2010-49,Uruguay vs South Korea,2010-06-26,round of 16,T-71,Korea Republic,KOR,0,1,P-40927,Lee,Chung-yong,17,T-71,Korea Republic,KOR,68',68,0,second half,False,False,68
+2706,G-2706,WC-2010,M-2010-49,Uruguay vs South Korea,2010-06-26,round of 16,T-84,Uruguay,URY,1,0,P-30486,Suárez,Luis,9,T-84,Uruguay,URY,80',80,0,second half,False,False,80
+2707,G-2707,WC-2010,M-2010-50,United States vs Ghana,2010-06-26,round of 16,T-32,Ghana,GHA,0,1,P-66316,Boateng,Kevin-Prince,23,T-32,Ghana,GHA,5',5,0,first half,False,False,5
+2708,G-2708,WC-2010,M-2010-50,United States vs Ghana,2010-06-26,round of 16,T-83,United States,USA,1,0,P-05728,Donovan,Landon,10,T-83,United States,USA,62',62,0,second half,False,True,62
+2709,G-2709,WC-2010,M-2010-50,United States vs Ghana,2010-06-26,round of 16,T-32,Ghana,GHA,0,1,P-38556,Gyan,Asamoah,3,T-32,Ghana,GHA,93',93,0,"extra time, first half",False,False,93
+2710,G-2710,WC-2010,M-2010-51,Germany vs England,2010-06-27,round of 16,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,20',20,0,first half,False,False,20
+2711,G-2711,WC-2010,M-2010-51,Germany vs England,2010-06-27,round of 16,T-31,Germany,DEU,1,0,P-36287,Podolski,Lukas,10,T-31,Germany,DEU,32',32,0,first half,False,False,32
+2712,G-2712,WC-2010,M-2010-51,Germany vs England,2010-06-27,round of 16,T-28,England,ENG,0,1,P-41152,Upson,Matthew,15,T-28,England,ENG,37',37,0,first half,False,False,37
+2713,G-2713,WC-2010,M-2010-51,Germany vs England,2010-06-27,round of 16,T-31,Germany,DEU,1,0,P-28154,Müller,Thomas,13,T-31,Germany,DEU,67',67,0,second half,False,False,67
+2714,G-2714,WC-2010,M-2010-51,Germany vs England,2010-06-27,round of 16,T-31,Germany,DEU,1,0,P-28154,Müller,Thomas,13,T-31,Germany,DEU,70',70,0,second half,False,False,70
+2715,G-2715,WC-2010,M-2010-52,Argentina vs Mexico,2010-06-27,round of 16,T-03,Argentina,ARG,1,0,P-29080,Tevez,Carlos,11,T-03,Argentina,ARG,26',26,0,first half,False,False,26
+2716,G-2716,WC-2010,M-2010-52,Argentina vs Mexico,2010-06-27,round of 16,T-03,Argentina,ARG,1,0,P-29398,Higuaín,Gonzalo,9,T-03,Argentina,ARG,33',33,0,first half,False,False,33
+2717,G-2717,WC-2010,M-2010-52,Argentina vs Mexico,2010-06-27,round of 16,T-03,Argentina,ARG,1,0,P-29080,Tevez,Carlos,11,T-03,Argentina,ARG,52',52,0,second half,False,False,52
+2718,G-2718,WC-2010,M-2010-52,Argentina vs Mexico,2010-06-27,round of 16,T-46,Mexico,MEX,0,1,P-36515,Hernández,Javier,14,T-46,Mexico,MEX,71',71,0,second half,False,False,71
+2719,G-2719,WC-2010,M-2010-53,Netherlands vs Slovakia,2010-06-28,round of 16,T-48,Netherlands,NLD,1,0,P-23705,Robben,Arjen,11,T-48,Netherlands,NLD,18',18,0,first half,False,False,18
+2720,G-2720,WC-2010,M-2010-53,Netherlands vs Slovakia,2010-06-28,round of 16,T-48,Netherlands,NLD,1,0,P-51336,Sneijder,Wesley,10,T-48,Netherlands,NLD,84',84,0,second half,False,False,84
+2721,G-2721,WC-2010,M-2010-53,Netherlands vs Slovakia,2010-06-28,round of 16,T-68,Slovakia,SVK,0,1,P-14764,Vittek,Róbert,11,T-68,Slovakia,SVK,90'+4',90,4,"second half, stoppage time",False,True,94
+2722,G-2722,WC-2010,M-2010-54,Brazil vs Chile,2010-06-28,round of 16,T-09,Brazil,BRA,1,0,P-98607,Juan,not applicable,4,T-09,Brazil,BRA,35',35,0,first half,False,False,35
+2723,G-2723,WC-2010,M-2010-54,Brazil vs Chile,2010-06-28,round of 16,T-09,Brazil,BRA,1,0,P-98528,Fabiano,Luís,9,T-09,Brazil,BRA,38',38,0,first half,False,False,38
+2724,G-2724,WC-2010,M-2010-54,Brazil vs Chile,2010-06-28,round of 16,T-09,Brazil,BRA,1,0,P-13354,Robinho,not applicable,11,T-09,Brazil,BRA,59',59,0,second half,False,False,59
+2725,G-2725,WC-2010,M-2010-56,Spain vs Portugal,2010-06-29,round of 16,T-73,Spain,ESP,1,0,P-49097,Villa,David,7,T-73,Spain,ESP,63',63,0,second half,False,False,63
+2726,G-2726,WC-2010,M-2010-57,Netherlands vs Brazil,2010-07-02,quarter-finals,T-09,Brazil,BRA,0,1,P-13354,Robinho,not applicable,11,T-09,Brazil,BRA,10',10,0,first half,False,False,10
+2727,G-2727,WC-2010,M-2010-57,Netherlands vs Brazil,2010-07-02,quarter-finals,T-48,Netherlands,NLD,1,0,P-51336,Sneijder,Wesley,10,T-48,Netherlands,NLD,53',53,0,second half,False,False,53
+2728,G-2728,WC-2010,M-2010-57,Netherlands vs Brazil,2010-07-02,quarter-finals,T-48,Netherlands,NLD,1,0,P-51336,Sneijder,Wesley,10,T-48,Netherlands,NLD,68',68,0,second half,False,False,68
+2729,G-2729,WC-2010,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,T-32,Ghana,GHA,0,1,P-50641,Muntari,Sulley,11,T-32,Ghana,GHA,45'+2',45,2,"first half, stoppage time",False,False,47
+2730,G-2730,WC-2010,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,T-84,Uruguay,URY,1,0,P-86087,Forlán,Diego,10,T-84,Uruguay,URY,55',55,0,second half,False,False,55
+2731,G-2731,WC-2010,M-2010-59,Argentina vs Germany,2010-07-03,quarter-finals,T-31,Germany,DEU,0,1,P-28154,Müller,Thomas,13,T-31,Germany,DEU,3',3,0,first half,False,False,3
+2732,G-2732,WC-2010,M-2010-59,Argentina vs Germany,2010-07-03,quarter-finals,T-31,Germany,DEU,0,1,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,68',68,0,second half,False,False,68
+2733,G-2733,WC-2010,M-2010-59,Argentina vs Germany,2010-07-03,quarter-finals,T-31,Germany,DEU,0,1,P-43481,Friedrich,Arne,3,T-31,Germany,DEU,74',74,0,second half,False,False,74
+2734,G-2734,WC-2010,M-2010-59,Argentina vs Germany,2010-07-03,quarter-finals,T-31,Germany,DEU,0,1,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,89',89,0,second half,False,False,89
+2735,G-2735,WC-2010,M-2010-60,Paraguay vs Spain,2010-07-03,quarter-finals,T-73,Spain,ESP,0,1,P-49097,Villa,David,7,T-73,Spain,ESP,83',83,0,second half,False,False,83
+2736,G-2736,WC-2010,M-2010-61,Uruguay vs Netherlands,2010-07-06,semi-finals,T-48,Netherlands,NLD,0,1,P-21832,van Bronckhorst,Giovanni,5,T-48,Netherlands,NLD,18',18,0,first half,False,False,18
+2737,G-2737,WC-2010,M-2010-61,Uruguay vs Netherlands,2010-07-06,semi-finals,T-84,Uruguay,URY,1,0,P-86087,Forlán,Diego,10,T-84,Uruguay,URY,41',41,0,first half,False,False,41
+2738,G-2738,WC-2010,M-2010-61,Uruguay vs Netherlands,2010-07-06,semi-finals,T-48,Netherlands,NLD,0,1,P-51336,Sneijder,Wesley,10,T-48,Netherlands,NLD,70',70,0,second half,False,False,70
+2739,G-2739,WC-2010,M-2010-61,Uruguay vs Netherlands,2010-07-06,semi-finals,T-48,Netherlands,NLD,0,1,P-23705,Robben,Arjen,11,T-48,Netherlands,NLD,73',73,0,second half,False,False,73
+2740,G-2740,WC-2010,M-2010-61,Uruguay vs Netherlands,2010-07-06,semi-finals,T-84,Uruguay,URY,1,0,P-41944,Pereira,Maxi,16,T-84,Uruguay,URY,90'+2',90,2,"second half, stoppage time",False,False,92
+2741,G-2741,WC-2010,M-2010-62,Germany vs Spain,2010-07-07,semi-finals,T-73,Spain,ESP,0,1,P-51089,Puyol,Carles,5,T-73,Spain,ESP,73',73,0,second half,False,False,73
+2742,G-2742,WC-2010,M-2010-63,Uruguay vs Germany,2010-07-10,third-place match,T-31,Germany,DEU,0,1,P-28154,Müller,Thomas,13,T-31,Germany,DEU,19',19,0,first half,False,False,19
+2743,G-2743,WC-2010,M-2010-63,Uruguay vs Germany,2010-07-10,third-place match,T-84,Uruguay,URY,1,0,P-59138,Cavani,Edinson,7,T-84,Uruguay,URY,28',28,0,first half,False,False,28
+2744,G-2744,WC-2010,M-2010-63,Uruguay vs Germany,2010-07-10,third-place match,T-84,Uruguay,URY,1,0,P-86087,Forlán,Diego,10,T-84,Uruguay,URY,51',51,0,second half,False,False,51
+2745,G-2745,WC-2010,M-2010-63,Uruguay vs Germany,2010-07-10,third-place match,T-31,Germany,DEU,0,1,P-50326,Jansen,Marcell,2,T-31,Germany,DEU,56',56,0,second half,False,False,56
+2746,G-2746,WC-2010,M-2010-63,Uruguay vs Germany,2010-07-10,third-place match,T-31,Germany,DEU,0,1,P-13029,Khedira,Sami,6,T-31,Germany,DEU,82',82,0,second half,False,False,82
+2747,G-2747,WC-2010,M-2010-64,Netherlands vs Spain,2010-07-11,final,T-73,Spain,ESP,0,1,P-56330,Iniesta,Andrés,6,T-73,Spain,ESP,116',116,0,"extra time, second half",False,False,116
+2834,G-2834,WC-2014,M-2014-01,Brazil vs Croatia,2014-06-12,group stage,T-18,Croatia,HRV,0,1,P-70650,Marcelo,not applicable,6,T-09,Brazil,BRA,12',12,0,first half,True,False,12
+2835,G-2835,WC-2014,M-2014-01,Brazil vs Croatia,2014-06-12,group stage,T-09,Brazil,BRA,1,0,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,29',29,0,first half,False,False,29
+2836,G-2836,WC-2014,M-2014-01,Brazil vs Croatia,2014-06-12,group stage,T-09,Brazil,BRA,1,0,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,71',71,0,second half,False,True,71
+2837,G-2837,WC-2014,M-2014-01,Brazil vs Croatia,2014-06-12,group stage,T-09,Brazil,BRA,1,0,P-37239,Oscar,not applicable,11,T-09,Brazil,BRA,90'+1',90,1,"second half, stoppage time",False,False,91
+2838,G-2838,WC-2014,M-2014-02,Mexico vs Cameroon,2014-06-13,group stage,T-46,Mexico,MEX,1,0,P-83642,Peralta,Oribe,19,T-46,Mexico,MEX,61',61,0,second half,False,False,61
+2839,G-2839,WC-2014,M-2014-03,Spain vs Netherlands,2014-06-13,group stage,T-73,Spain,ESP,1,0,P-73924,Alonso,Xabi,14,T-73,Spain,ESP,27',27,0,first half,False,True,27
+2840,G-2840,WC-2014,M-2014-03,Spain vs Netherlands,2014-06-13,group stage,T-48,Netherlands,NLD,0,1,P-99934,van Persie,Robin,9,T-48,Netherlands,NLD,44',44,0,first half,False,False,44
+2841,G-2841,WC-2014,M-2014-03,Spain vs Netherlands,2014-06-13,group stage,T-48,Netherlands,NLD,0,1,P-23705,Robben,Arjen,11,T-48,Netherlands,NLD,53',53,0,second half,False,False,53
+2842,G-2842,WC-2014,M-2014-03,Spain vs Netherlands,2014-06-13,group stage,T-48,Netherlands,NLD,0,1,P-70280,de Vrij,Stefan,3,T-48,Netherlands,NLD,64',64,0,second half,False,False,64
+2843,G-2843,WC-2014,M-2014-03,Spain vs Netherlands,2014-06-13,group stage,T-48,Netherlands,NLD,0,1,P-99934,van Persie,Robin,9,T-48,Netherlands,NLD,72',72,0,second half,False,False,72
+2844,G-2844,WC-2014,M-2014-03,Spain vs Netherlands,2014-06-13,group stage,T-48,Netherlands,NLD,0,1,P-23705,Robben,Arjen,11,T-48,Netherlands,NLD,80',80,0,second half,False,False,80
+2845,G-2845,WC-2014,M-2014-04,Chile vs Australia,2014-06-13,group stage,T-13,Chile,CHL,1,0,P-30014,Sánchez,Alexis,7,T-13,Chile,CHL,12',12,0,first half,False,False,12
+2846,G-2846,WC-2014,M-2014-04,Chile vs Australia,2014-06-13,group stage,T-13,Chile,CHL,1,0,P-65631,Valdivia,Jorge,10,T-13,Chile,CHL,14',14,0,first half,False,False,14
+2847,G-2847,WC-2014,M-2014-04,Chile vs Australia,2014-06-13,group stage,T-04,Australia,AUS,0,1,P-44926,Cahill,Tim,4,T-04,Australia,AUS,35',35,0,first half,False,False,35
+2848,G-2848,WC-2014,M-2014-04,Chile vs Australia,2014-06-13,group stage,T-13,Chile,CHL,1,0,P-74480,Beausejour,Jean,15,T-13,Chile,CHL,90'+2',90,2,"second half, stoppage time",False,False,92
+2849,G-2849,WC-2014,M-2014-05,Colombia vs Greece,2014-06-14,group stage,T-16,Colombia,COL,1,0,P-95402,Armero,Pablo,7,T-16,Colombia,COL,5',5,0,first half,False,False,5
+2850,G-2850,WC-2014,M-2014-05,Colombia vs Greece,2014-06-14,group stage,T-16,Colombia,COL,1,0,P-77705,Gutiérrez,Teófilo,9,T-16,Colombia,COL,58',58,0,second half,False,False,58
+2851,G-2851,WC-2014,M-2014-05,Colombia vs Greece,2014-06-14,group stage,T-16,Colombia,COL,1,0,P-89392,Rodríguez,James,10,T-16,Colombia,COL,90'+3',90,3,"second half, stoppage time",False,False,93
+2852,G-2852,WC-2014,M-2014-06,Uruguay vs Costa Rica,2014-06-14,group stage,T-84,Uruguay,URY,1,0,P-59138,Cavani,Edinson,21,T-84,Uruguay,URY,24',24,0,first half,False,True,24
+2853,G-2853,WC-2014,M-2014-06,Uruguay vs Costa Rica,2014-06-14,group stage,T-17,Costa Rica,CRI,0,1,P-70812,Campbell,Joel,9,T-17,Costa Rica,CRI,54',54,0,second half,False,False,54
+2854,G-2854,WC-2014,M-2014-06,Uruguay vs Costa Rica,2014-06-14,group stage,T-17,Costa Rica,CRI,0,1,P-97912,Duarte,Óscar,6,T-17,Costa Rica,CRI,57',57,0,second half,False,False,57
+2855,G-2855,WC-2014,M-2014-06,Uruguay vs Costa Rica,2014-06-14,group stage,T-17,Costa Rica,CRI,0,1,P-11307,Ureña,Marco,21,T-17,Costa Rica,CRI,84',84,0,second half,False,False,84
+2856,G-2856,WC-2014,M-2014-07,England vs Italy,2014-06-14,group stage,T-41,Italy,ITA,0,1,P-37848,Marchisio,Claudio,8,T-41,Italy,ITA,35',35,0,first half,False,False,35
+2857,G-2857,WC-2014,M-2014-07,England vs Italy,2014-06-14,group stage,T-28,England,ENG,1,0,P-06678,Sturridge,Daniel,9,T-28,England,ENG,37',37,0,first half,False,False,37
+2858,G-2858,WC-2014,M-2014-07,England vs Italy,2014-06-14,group stage,T-41,Italy,ITA,0,1,P-16785,Balotelli,Mario,9,T-41,Italy,ITA,50',50,0,second half,False,False,50
+2859,G-2859,WC-2014,M-2014-08,Ivory Coast vs Japan,2014-06-14,group stage,T-44,Japan,JPN,0,1,P-33175,Honda,Keisuke,4,T-44,Japan,JPN,16',16,0,first half,False,False,16
+2860,G-2860,WC-2014,M-2014-08,Ivory Coast vs Japan,2014-06-14,group stage,T-42,Ivory Coast,CIV,1,0,P-84532,Bony,Wilfried,12,T-42,Ivory Coast,CIV,64',64,0,second half,False,False,64
+2861,G-2861,WC-2014,M-2014-08,Ivory Coast vs Japan,2014-06-14,group stage,T-42,Ivory Coast,CIV,1,0,P-33586,Gervinho,not applicable,10,T-42,Ivory Coast,CIV,66',66,0,second half,False,False,66
+2862,G-2862,WC-2014,M-2014-09,Switzerland vs Ecuador,2014-06-15,group stage,T-25,Ecuador,ECU,0,1,P-75912,Valencia,Enner,13,T-25,Ecuador,ECU,22',22,0,first half,False,False,22
+2863,G-2863,WC-2014,M-2014-09,Switzerland vs Ecuador,2014-06-15,group stage,T-75,Switzerland,CHE,1,0,P-51579,Mehmedi,Admir,18,T-75,Switzerland,CHE,48',48,0,second half,False,False,48
+2864,G-2864,WC-2014,M-2014-09,Switzerland vs Ecuador,2014-06-15,group stage,T-75,Switzerland,CHE,1,0,P-07180,Seferovic,Haris,9,T-75,Switzerland,CHE,90'+3',90,3,"second half, stoppage time",False,False,93
+2865,G-2865,WC-2014,M-2014-10,France vs Honduras,2014-06-15,group stage,T-30,France,FRA,1,0,P-35408,Benzema,Karim,10,T-30,France,FRA,45',45,0,first half,False,True,45
+2866,G-2866,WC-2014,M-2014-10,France vs Honduras,2014-06-15,group stage,T-30,France,FRA,1,0,P-93059,Valladares,Noel,18,T-35,Honduras,HND,48',48,0,second half,True,False,48
+2867,G-2867,WC-2014,M-2014-10,France vs Honduras,2014-06-15,group stage,T-30,France,FRA,1,0,P-35408,Benzema,Karim,10,T-30,France,FRA,72',72,0,second half,False,False,72
+2868,G-2868,WC-2014,M-2014-11,Argentina vs Bosnia and Herzegovina,2014-06-15,group stage,T-03,Argentina,ARG,1,0,P-96934,Kolašinac,Sead,5,T-08,Bosnia And Herzegovina,BIH,3',3,0,first half,True,False,3
+2869,G-2869,WC-2014,M-2014-11,Argentina vs Bosnia and Herzegovina,2014-06-15,group stage,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,65',65,0,second half,False,False,65
+2870,G-2870,WC-2014,M-2014-11,Argentina vs Bosnia and Herzegovina,2014-06-15,group stage,T-08,Bosnia And Herzegovina,BIH,0,1,P-43723,Ibišević,Vedad,9,T-08,Bosnia And Herzegovina,BIH,85',85,0,second half,False,False,85
+2871,G-2871,WC-2014,M-2014-12,Germany vs Portugal,2014-06-16,group stage,T-31,Germany,DEU,1,0,P-28154,Müller,Thomas,13,T-31,Germany,DEU,12',12,0,first half,False,True,12
+2872,G-2872,WC-2014,M-2014-12,Germany vs Portugal,2014-06-16,group stage,T-31,Germany,DEU,1,0,P-81447,Hummels,Mats,5,T-31,Germany,DEU,32',32,0,first half,False,False,32
+2873,G-2873,WC-2014,M-2014-12,Germany vs Portugal,2014-06-16,group stage,T-31,Germany,DEU,1,0,P-28154,Müller,Thomas,13,T-31,Germany,DEU,45'+1',45,1,"first half, stoppage time",False,False,46
+2874,G-2874,WC-2014,M-2014-12,Germany vs Portugal,2014-06-16,group stage,T-31,Germany,DEU,1,0,P-28154,Müller,Thomas,13,T-31,Germany,DEU,78',78,0,second half,False,False,78
+2875,G-2875,WC-2014,M-2014-14,Ghana vs United States,2014-06-16,group stage,T-83,United States,USA,0,1,P-18672,Dempsey,Clint,8,T-83,United States,USA,1',1,0,first half,False,False,1
+2876,G-2876,WC-2014,M-2014-14,Ghana vs United States,2014-06-16,group stage,T-32,Ghana,GHA,1,0,P-01945,Ayew,André,10,T-32,Ghana,GHA,82',82,0,second half,False,False,82
+2877,G-2877,WC-2014,M-2014-14,Ghana vs United States,2014-06-16,group stage,T-83,United States,USA,0,1,P-41262,Brooks,John,6,T-83,United States,USA,86',86,0,second half,False,False,86
+2878,G-2878,WC-2014,M-2014-15,Belgium vs Algeria,2014-06-17,group stage,T-01,Algeria,DZA,0,1,P-12165,Feghouli,Sofiane,10,T-01,Algeria,DZA,25',25,0,first half,False,True,25
+2879,G-2879,WC-2014,M-2014-15,Belgium vs Algeria,2014-06-17,group stage,T-06,Belgium,BEL,1,0,P-63363,Fellaini,Marouane,8,T-06,Belgium,BEL,70',70,0,second half,False,False,70
+2880,G-2880,WC-2014,M-2014-15,Belgium vs Algeria,2014-06-17,group stage,T-06,Belgium,BEL,1,0,P-84852,Mertens,Dries,14,T-06,Belgium,BEL,80',80,0,second half,False,False,80
+2881,G-2881,WC-2014,M-2014-17,Russia vs South Korea,2014-06-17,group stage,T-71,Korea Republic,KOR,0,1,P-71308,Lee,Keun-ho,11,T-71,Korea Republic,KOR,68',68,0,second half,False,False,68
+2882,G-2882,WC-2014,M-2014-17,Russia vs South Korea,2014-06-17,group stage,T-62,Russia,RUS,1,0,P-89971,Kerzhakov,Aleksandr,11,T-62,Russia,RUS,74',74,0,second half,False,False,74
+2883,G-2883,WC-2014,M-2014-18,Australia vs Netherlands,2014-06-18,group stage,T-48,Netherlands,NLD,0,1,P-23705,Robben,Arjen,11,T-48,Netherlands,NLD,20',20,0,first half,False,False,20
+2884,G-2884,WC-2014,M-2014-18,Australia vs Netherlands,2014-06-18,group stage,T-04,Australia,AUS,1,0,P-44926,Cahill,Tim,4,T-04,Australia,AUS,21',21,0,first half,False,False,21
+2885,G-2885,WC-2014,M-2014-18,Australia vs Netherlands,2014-06-18,group stage,T-04,Australia,AUS,1,0,P-37275,Jedinak,Mile,15,T-04,Australia,AUS,54',54,0,second half,False,True,54
+2886,G-2886,WC-2014,M-2014-18,Australia vs Netherlands,2014-06-18,group stage,T-48,Netherlands,NLD,0,1,P-99934,van Persie,Robin,9,T-48,Netherlands,NLD,58',58,0,second half,False,False,58
+2887,G-2887,WC-2014,M-2014-18,Australia vs Netherlands,2014-06-18,group stage,T-48,Netherlands,NLD,0,1,P-27540,Depay,Memphis,21,T-48,Netherlands,NLD,68',68,0,second half,False,False,68
+2888,G-2888,WC-2014,M-2014-19,Spain vs Chile,2014-06-18,group stage,T-13,Chile,CHL,0,1,P-36808,Vargas,Eduardo,11,T-13,Chile,CHL,20',20,0,first half,False,False,20
+2889,G-2889,WC-2014,M-2014-19,Spain vs Chile,2014-06-18,group stage,T-13,Chile,CHL,0,1,P-22391,Aránguiz,Charles,20,T-13,Chile,CHL,43',43,0,first half,False,False,43
+2890,G-2890,WC-2014,M-2014-20,Cameroon vs Croatia,2014-06-18,group stage,T-18,Croatia,HRV,0,1,P-13265,Olić,Ivica,18,T-18,Croatia,HRV,11',11,0,first half,False,False,11
+2891,G-2891,WC-2014,M-2014-20,Cameroon vs Croatia,2014-06-18,group stage,T-18,Croatia,HRV,0,1,P-93884,Perišić,Ivan,4,T-18,Croatia,HRV,48',48,0,second half,False,False,48
+2892,G-2892,WC-2014,M-2014-20,Cameroon vs Croatia,2014-06-18,group stage,T-18,Croatia,HRV,0,1,P-25745,Mandžukić,Mario,17,T-18,Croatia,HRV,61',61,0,second half,False,False,61
+2893,G-2893,WC-2014,M-2014-20,Cameroon vs Croatia,2014-06-18,group stage,T-18,Croatia,HRV,0,1,P-25745,Mandžukić,Mario,17,T-18,Croatia,HRV,73',73,0,second half,False,False,73
+2894,G-2894,WC-2014,M-2014-21,Colombia vs Ivory Coast,2014-06-19,group stage,T-16,Colombia,COL,1,0,P-89392,Rodríguez,James,10,T-16,Colombia,COL,64',64,0,second half,False,False,64
+2895,G-2895,WC-2014,M-2014-21,Colombia vs Ivory Coast,2014-06-19,group stage,T-16,Colombia,COL,1,0,P-14499,Quintero,Juan Fernando,20,T-16,Colombia,COL,70',70,0,second half,False,False,70
+2896,G-2896,WC-2014,M-2014-21,Colombia vs Ivory Coast,2014-06-19,group stage,T-42,Ivory Coast,CIV,0,1,P-33586,Gervinho,not applicable,10,T-42,Ivory Coast,CIV,73',73,0,second half,False,False,73
+2897,G-2897,WC-2014,M-2014-22,Uruguay vs England,2014-06-19,group stage,T-84,Uruguay,URY,1,0,P-30486,Suárez,Luis,9,T-84,Uruguay,URY,39',39,0,first half,False,False,39
+2898,G-2898,WC-2014,M-2014-22,Uruguay vs England,2014-06-19,group stage,T-28,England,ENG,0,1,P-99967,Rooney,Wayne,10,T-28,England,ENG,75',75,0,second half,False,False,75
+2899,G-2899,WC-2014,M-2014-22,Uruguay vs England,2014-06-19,group stage,T-84,Uruguay,URY,1,0,P-30486,Suárez,Luis,9,T-84,Uruguay,URY,85',85,0,second half,False,False,85
+2900,G-2900,WC-2014,M-2014-24,Italy vs Costa Rica,2014-06-20,group stage,T-17,Costa Rica,CRI,0,1,P-99590,Ruiz,Bryan,10,T-17,Costa Rica,CRI,44',44,0,first half,False,False,44
+2901,G-2901,WC-2014,M-2014-25,Switzerland vs France,2014-06-20,group stage,T-30,France,FRA,0,1,P-89750,Giroud,Olivier,9,T-30,France,FRA,17',17,0,first half,False,False,17
+2902,G-2902,WC-2014,M-2014-25,Switzerland vs France,2014-06-20,group stage,T-30,France,FRA,0,1,P-04964,Matuidi,Blaise,14,T-30,France,FRA,18',18,0,first half,False,False,18
+2903,G-2903,WC-2014,M-2014-25,Switzerland vs France,2014-06-20,group stage,T-30,France,FRA,0,1,P-84312,Valbuena,Mathieu,8,T-30,France,FRA,40',40,0,first half,False,False,40
+2904,G-2904,WC-2014,M-2014-25,Switzerland vs France,2014-06-20,group stage,T-30,France,FRA,0,1,P-35408,Benzema,Karim,10,T-30,France,FRA,67',67,0,second half,False,False,67
+2905,G-2905,WC-2014,M-2014-25,Switzerland vs France,2014-06-20,group stage,T-30,France,FRA,0,1,P-07870,Sissoko,Moussa,18,T-30,France,FRA,73',73,0,second half,False,False,73
+2906,G-2906,WC-2014,M-2014-25,Switzerland vs France,2014-06-20,group stage,T-75,Switzerland,CHE,1,0,P-35818,Džemaili,Blerim,15,T-75,Switzerland,CHE,81',81,0,second half,False,False,81
+2907,G-2907,WC-2014,M-2014-25,Switzerland vs France,2014-06-20,group stage,T-75,Switzerland,CHE,1,0,P-77224,Xhaka,Granit,10,T-75,Switzerland,CHE,87',87,0,second half,False,False,87
+2908,G-2908,WC-2014,M-2014-26,Honduras vs Ecuador,2014-06-20,group stage,T-35,Honduras,HND,1,0,P-38682,Costly,Carlo,13,T-35,Honduras,HND,31',31,0,first half,False,False,31
+2909,G-2909,WC-2014,M-2014-26,Honduras vs Ecuador,2014-06-20,group stage,T-25,Ecuador,ECU,0,1,P-75912,Valencia,Enner,13,T-25,Ecuador,ECU,34',34,0,first half,False,False,34
+2910,G-2910,WC-2014,M-2014-26,Honduras vs Ecuador,2014-06-20,group stage,T-25,Ecuador,ECU,0,1,P-75912,Valencia,Enner,13,T-25,Ecuador,ECU,65',65,0,second half,False,False,65
+2911,G-2911,WC-2014,M-2014-27,Argentina vs Iran,2014-06-21,group stage,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,90'+1',90,1,"second half, stoppage time",False,False,91
+2912,G-2912,WC-2014,M-2014-28,Germany vs Ghana,2014-06-21,group stage,T-31,Germany,DEU,1,0,P-63673,Götze,Mario,19,T-31,Germany,DEU,51',51,0,second half,False,False,51
+2913,G-2913,WC-2014,M-2014-28,Germany vs Ghana,2014-06-21,group stage,T-32,Ghana,GHA,0,1,P-01945,Ayew,André,10,T-32,Ghana,GHA,54',54,0,second half,False,False,54
+2914,G-2914,WC-2014,M-2014-28,Germany vs Ghana,2014-06-21,group stage,T-32,Ghana,GHA,0,1,P-38556,Gyan,Asamoah,3,T-32,Ghana,GHA,63',63,0,second half,False,False,63
+2915,G-2915,WC-2014,M-2014-28,Germany vs Ghana,2014-06-21,group stage,T-31,Germany,DEU,1,0,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,71',71,0,second half,False,False,71
+2916,G-2916,WC-2014,M-2014-29,Nigeria vs Bosnia and Herzegovina,2014-06-21,group stage,T-50,Nigeria,NGA,1,0,P-70006,Odemwingie,Peter,8,T-50,Nigeria,NGA,29',29,0,first half,False,False,29
+2917,G-2917,WC-2014,M-2014-30,Belgium vs Russia,2014-06-22,group stage,T-06,Belgium,BEL,1,0,P-77619,Origi,Divock,17,T-06,Belgium,BEL,88',88,0,second half,False,False,88
+2918,G-2918,WC-2014,M-2014-31,South Korea vs Algeria,2014-06-22,group stage,T-01,Algeria,DZA,0,1,P-59199,Slimani,Islam,13,T-01,Algeria,DZA,26',26,0,first half,False,False,26
+2919,G-2919,WC-2014,M-2014-31,South Korea vs Algeria,2014-06-22,group stage,T-01,Algeria,DZA,0,1,P-19453,Halliche,Rafik,5,T-01,Algeria,DZA,28',28,0,first half,False,False,28
+2920,G-2920,WC-2014,M-2014-31,South Korea vs Algeria,2014-06-22,group stage,T-01,Algeria,DZA,0,1,P-59147,Djabou,Abdelmoumene,18,T-01,Algeria,DZA,38',38,0,first half,False,False,38
+2921,G-2921,WC-2014,M-2014-31,South Korea vs Algeria,2014-06-22,group stage,T-71,Korea Republic,KOR,1,0,P-77335,Son,Heung-min,9,T-71,Korea Republic,KOR,50',50,0,second half,False,False,50
+2922,G-2922,WC-2014,M-2014-31,South Korea vs Algeria,2014-06-22,group stage,T-01,Algeria,DZA,0,1,P-24983,Brahimi,Yacine,11,T-01,Algeria,DZA,62',62,0,second half,False,False,62
+2923,G-2923,WC-2014,M-2014-31,South Korea vs Algeria,2014-06-22,group stage,T-71,Korea Republic,KOR,1,0,P-47440,Koo,Ja-cheol,13,T-71,Korea Republic,KOR,72',72,0,second half,False,False,72
+2924,G-2924,WC-2014,M-2014-32,United States vs Portugal,2014-06-22,group stage,T-58,Portugal,PRT,0,1,P-78296,Nani,not applicable,17,T-58,Portugal,PRT,5',5,0,first half,False,False,5
+2925,G-2925,WC-2014,M-2014-32,United States vs Portugal,2014-06-22,group stage,T-83,United States,USA,1,0,P-10072,Jones,Jermaine,13,T-83,United States,USA,64',64,0,second half,False,False,64
+2926,G-2926,WC-2014,M-2014-32,United States vs Portugal,2014-06-22,group stage,T-83,United States,USA,1,0,P-18672,Dempsey,Clint,8,T-83,United States,USA,81',81,0,second half,False,False,81
+2927,G-2927,WC-2014,M-2014-32,United States vs Portugal,2014-06-22,group stage,T-58,Portugal,PRT,0,1,P-25600,Varela,Silvestre,18,T-58,Portugal,PRT,90'+5',90,5,"second half, stoppage time",False,False,95
+2928,G-2928,WC-2014,M-2014-33,Australia vs Spain,2014-06-23,group stage,T-73,Spain,ESP,0,1,P-49097,Villa,David,7,T-73,Spain,ESP,36',36,0,first half,False,False,36
+2929,G-2929,WC-2014,M-2014-33,Australia vs Spain,2014-06-23,group stage,T-73,Spain,ESP,0,1,P-71661,Torres,Fernando,9,T-73,Spain,ESP,69',69,0,second half,False,False,69
+2930,G-2930,WC-2014,M-2014-33,Australia vs Spain,2014-06-23,group stage,T-73,Spain,ESP,0,1,P-47597,Mata,Juan,13,T-73,Spain,ESP,82',82,0,second half,False,False,82
+2931,G-2931,WC-2014,M-2014-34,Netherlands vs Chile,2014-06-23,group stage,T-48,Netherlands,NLD,1,0,P-20877,Fer,Leroy,18,T-48,Netherlands,NLD,77',77,0,second half,False,False,77
+2932,G-2932,WC-2014,M-2014-34,Netherlands vs Chile,2014-06-23,group stage,T-48,Netherlands,NLD,1,0,P-27540,Depay,Memphis,21,T-48,Netherlands,NLD,90'+2',90,2,"second half, stoppage time",False,False,92
+2933,G-2933,WC-2014,M-2014-35,Cameroon vs Brazil,2014-06-23,group stage,T-09,Brazil,BRA,0,1,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,17',17,0,first half,False,False,17
+2934,G-2934,WC-2014,M-2014-35,Cameroon vs Brazil,2014-06-23,group stage,T-11,Cameroon,CMR,1,0,P-47974,Matip,Joël,21,T-11,Cameroon,CMR,26',26,0,first half,False,False,26
+2935,G-2935,WC-2014,M-2014-35,Cameroon vs Brazil,2014-06-23,group stage,T-09,Brazil,BRA,0,1,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,35',35,0,first half,False,False,35
+2936,G-2936,WC-2014,M-2014-35,Cameroon vs Brazil,2014-06-23,group stage,T-09,Brazil,BRA,0,1,P-54042,Fred,not applicable,9,T-09,Brazil,BRA,49',49,0,second half,False,False,49
+2937,G-2937,WC-2014,M-2014-35,Cameroon vs Brazil,2014-06-23,group stage,T-09,Brazil,BRA,0,1,P-41758,Fernandinho,not applicable,5,T-09,Brazil,BRA,84',84,0,second half,False,False,84
+2938,G-2938,WC-2014,M-2014-36,Croatia vs Mexico,2014-06-23,group stage,T-46,Mexico,MEX,0,1,P-44763,Márquez,Rafael,4,T-46,Mexico,MEX,72',72,0,second half,False,False,72
+2939,G-2939,WC-2014,M-2014-36,Croatia vs Mexico,2014-06-23,group stage,T-46,Mexico,MEX,0,1,P-40312,Guardado,Andrés,18,T-46,Mexico,MEX,75',75,0,second half,False,False,75
+2940,G-2940,WC-2014,M-2014-36,Croatia vs Mexico,2014-06-23,group stage,T-46,Mexico,MEX,0,1,P-36515,Hernández,Javier,14,T-46,Mexico,MEX,82',82,0,second half,False,False,82
+2941,G-2941,WC-2014,M-2014-36,Croatia vs Mexico,2014-06-23,group stage,T-18,Croatia,HRV,1,0,P-93884,Perišić,Ivan,4,T-18,Croatia,HRV,87',87,0,second half,False,False,87
+2942,G-2942,WC-2014,M-2014-38,Italy vs Uruguay,2014-06-24,group stage,T-84,Uruguay,URY,0,1,P-78440,Godín,Diego,3,T-84,Uruguay,URY,81',81,0,second half,False,False,81
+2943,G-2943,WC-2014,M-2014-39,Japan vs Colombia,2014-06-24,group stage,T-16,Colombia,COL,0,1,P-83216,Cuadrado,Juan,11,T-16,Colombia,COL,17',17,0,first half,False,True,17
+2944,G-2944,WC-2014,M-2014-39,Japan vs Colombia,2014-06-24,group stage,T-44,Japan,JPN,1,0,P-84807,Okazaki,Shinji,9,T-44,Japan,JPN,45'+1',45,1,"first half, stoppage time",False,False,46
+2945,G-2945,WC-2014,M-2014-39,Japan vs Colombia,2014-06-24,group stage,T-16,Colombia,COL,0,1,P-01068,Martínez,Jackson,21,T-16,Colombia,COL,55',55,0,second half,False,False,55
+2946,G-2946,WC-2014,M-2014-39,Japan vs Colombia,2014-06-24,group stage,T-16,Colombia,COL,0,1,P-01068,Martínez,Jackson,21,T-16,Colombia,COL,82',82,0,second half,False,False,82
+2947,G-2947,WC-2014,M-2014-39,Japan vs Colombia,2014-06-24,group stage,T-16,Colombia,COL,0,1,P-89392,Rodríguez,James,10,T-16,Colombia,COL,90',90,0,second half,False,False,90
+2948,G-2948,WC-2014,M-2014-40,Greece vs Ivory Coast,2014-06-24,group stage,T-33,Greece,GRC,1,0,P-30845,Samaris,Andreas,22,T-33,Greece,GRC,42',42,0,first half,False,False,42
+2949,G-2949,WC-2014,M-2014-40,Greece vs Ivory Coast,2014-06-24,group stage,T-42,Ivory Coast,CIV,0,1,P-84532,Bony,Wilfried,12,T-42,Ivory Coast,CIV,74',74,0,second half,False,False,74
+2950,G-2950,WC-2014,M-2014-40,Greece vs Ivory Coast,2014-06-24,group stage,T-33,Greece,GRC,1,0,P-58348,Samaras,Georgios,7,T-33,Greece,GRC,90'+3',90,3,"second half, stoppage time",False,True,93
+2951,G-2951,WC-2014,M-2014-41,Bosnia and Herzegovina vs Iran,2014-06-25,group stage,T-08,Bosnia And Herzegovina,BIH,1,0,P-31839,Džeko,Edin,11,T-08,Bosnia And Herzegovina,BIH,23',23,0,first half,False,False,23
+2952,G-2952,WC-2014,M-2014-41,Bosnia and Herzegovina vs Iran,2014-06-25,group stage,T-08,Bosnia And Herzegovina,BIH,1,0,P-19478,Pjanić,Miralem,8,T-08,Bosnia And Herzegovina,BIH,59',59,0,second half,False,False,59
+2953,G-2953,WC-2014,M-2014-41,Bosnia and Herzegovina vs Iran,2014-06-25,group stage,T-38,IR Iran,IRN,0,1,P-85324,Ghoochannejhad,Reza,16,T-38,IR Iran,IRN,82',82,0,second half,False,False,82
+2954,G-2954,WC-2014,M-2014-41,Bosnia and Herzegovina vs Iran,2014-06-25,group stage,T-08,Bosnia And Herzegovina,BIH,1,0,P-35118,Vršajević,Avdija,2,T-08,Bosnia And Herzegovina,BIH,83',83,0,second half,False,False,83
+2955,G-2955,WC-2014,M-2014-42,Nigeria vs Argentina,2014-06-25,group stage,T-03,Argentina,ARG,0,1,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,3',3,0,first half,False,False,3
+2956,G-2956,WC-2014,M-2014-42,Nigeria vs Argentina,2014-06-25,group stage,T-50,Nigeria,NGA,1,0,P-19591,Musa,Ahmed,7,T-50,Nigeria,NGA,4',4,0,first half,False,False,4
+2957,G-2957,WC-2014,M-2014-42,Nigeria vs Argentina,2014-06-25,group stage,T-03,Argentina,ARG,0,1,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,45'+1',45,1,"first half, stoppage time",False,False,46
+2958,G-2958,WC-2014,M-2014-42,Nigeria vs Argentina,2014-06-25,group stage,T-50,Nigeria,NGA,1,0,P-19591,Musa,Ahmed,7,T-50,Nigeria,NGA,47',47,0,second half,False,False,47
+2959,G-2959,WC-2014,M-2014-42,Nigeria vs Argentina,2014-06-25,group stage,T-03,Argentina,ARG,0,1,P-18222,Rojo,Marcos,16,T-03,Argentina,ARG,50',50,0,second half,False,False,50
+2960,G-2960,WC-2014,M-2014-43,Honduras vs Switzerland,2014-06-25,group stage,T-75,Switzerland,CHE,0,1,P-39460,Shaqiri,Xherdan,23,T-75,Switzerland,CHE,6',6,0,first half,False,False,6
+2961,G-2961,WC-2014,M-2014-43,Honduras vs Switzerland,2014-06-25,group stage,T-75,Switzerland,CHE,0,1,P-39460,Shaqiri,Xherdan,23,T-75,Switzerland,CHE,31',31,0,first half,False,False,31
+2962,G-2962,WC-2014,M-2014-43,Honduras vs Switzerland,2014-06-25,group stage,T-75,Switzerland,CHE,0,1,P-39460,Shaqiri,Xherdan,23,T-75,Switzerland,CHE,71',71,0,second half,False,False,71
+2963,G-2963,WC-2014,M-2014-45,Portugal vs Ghana,2014-06-26,group stage,T-58,Portugal,PRT,1,0,P-06024,Boye,John,21,T-32,Ghana,GHA,31',31,0,first half,True,False,31
+2964,G-2964,WC-2014,M-2014-45,Portugal vs Ghana,2014-06-26,group stage,T-32,Ghana,GHA,0,1,P-38556,Gyan,Asamoah,3,T-32,Ghana,GHA,57',57,0,second half,False,False,57
+2965,G-2965,WC-2014,M-2014-45,Portugal vs Ghana,2014-06-26,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,7,T-58,Portugal,PRT,80',80,0,second half,False,False,80
+2966,G-2966,WC-2014,M-2014-46,United States vs Germany,2014-06-26,group stage,T-31,Germany,DEU,0,1,P-28154,Müller,Thomas,13,T-31,Germany,DEU,55',55,0,second half,False,False,55
+2967,G-2967,WC-2014,M-2014-47,Algeria vs Russia,2014-06-26,group stage,T-62,Russia,RUS,0,1,P-67113,Kokorin,Aleksandr,9,T-62,Russia,RUS,6',6,0,first half,False,False,6
+2968,G-2968,WC-2014,M-2014-47,Algeria vs Russia,2014-06-26,group stage,T-01,Algeria,DZA,1,0,P-59199,Slimani,Islam,13,T-01,Algeria,DZA,60',60,0,second half,False,False,60
+2969,G-2969,WC-2014,M-2014-48,South Korea vs Belgium,2014-06-26,group stage,T-06,Belgium,BEL,0,1,P-64049,Vertonghen,Jan,5,T-06,Belgium,BEL,78',78,0,second half,False,False,78
+2970,G-2970,WC-2014,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,T-09,Brazil,BRA,1,0,P-87449,Luiz,David,4,T-09,Brazil,BRA,18',18,0,first half,False,False,18
+2971,G-2971,WC-2014,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,T-13,Chile,CHL,0,1,P-30014,Sánchez,Alexis,7,T-13,Chile,CHL,32',32,0,first half,False,False,32
+2972,G-2972,WC-2014,M-2014-50,Colombia vs Uruguay,2014-06-28,round of 16,T-16,Colombia,COL,1,0,P-89392,Rodríguez,James,10,T-16,Colombia,COL,28',28,0,first half,False,False,28
+2973,G-2973,WC-2014,M-2014-50,Colombia vs Uruguay,2014-06-28,round of 16,T-16,Colombia,COL,1,0,P-89392,Rodríguez,James,10,T-16,Colombia,COL,50',50,0,second half,False,False,50
+2974,G-2974,WC-2014,M-2014-51,Netherlands vs Mexico,2014-06-29,round of 16,T-46,Mexico,MEX,0,1,P-77047,dos Santos,Giovani,10,T-46,Mexico,MEX,48',48,0,second half,False,False,48
+2975,G-2975,WC-2014,M-2014-51,Netherlands vs Mexico,2014-06-29,round of 16,T-48,Netherlands,NLD,1,0,P-51336,Sneijder,Wesley,10,T-48,Netherlands,NLD,88',88,0,second half,False,False,88
+2976,G-2976,WC-2014,M-2014-51,Netherlands vs Mexico,2014-06-29,round of 16,T-48,Netherlands,NLD,1,0,P-64344,Huntelaar,Klaas-Jan,19,T-48,Netherlands,NLD,90'+4',90,4,"second half, stoppage time",False,True,94
+2977,G-2977,WC-2014,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,T-17,Costa Rica,CRI,1,0,P-99590,Ruiz,Bryan,10,T-17,Costa Rica,CRI,52',52,0,second half,False,False,52
+2978,G-2978,WC-2014,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,T-33,Greece,GRC,0,1,P-11436,Papastathopoulos,Sokratis,19,T-33,Greece,GRC,90'+1',90,1,"second half, stoppage time",False,False,91
+2979,G-2979,WC-2014,M-2014-53,France vs Nigeria,2014-06-30,round of 16,T-30,France,FRA,1,0,P-17509,Pogba,Paul,19,T-30,France,FRA,79',79,0,second half,False,False,79
+2980,G-2980,WC-2014,M-2014-53,France vs Nigeria,2014-06-30,round of 16,T-30,France,FRA,1,0,P-64104,Yobo,Joseph,2,T-50,Nigeria,NGA,90'+2',90,2,"second half, stoppage time",True,False,92
+2981,G-2981,WC-2014,M-2014-54,Germany vs Algeria,2014-06-30,round of 16,T-31,Germany,DEU,1,0,P-46979,Schürrle,André,9,T-31,Germany,DEU,92',92,0,"extra time, first half",False,False,92
+2982,G-2982,WC-2014,M-2014-54,Germany vs Algeria,2014-06-30,round of 16,T-31,Germany,DEU,1,0,P-12818,Özil,Mesut,8,T-31,Germany,DEU,120',120,0,"extra time, second half",False,False,120
+2983,G-2983,WC-2014,M-2014-54,Germany vs Algeria,2014-06-30,round of 16,T-01,Algeria,DZA,0,1,P-59147,Djabou,Abdelmoumene,18,T-01,Algeria,DZA,120'+1',120,1,"extra time, second half, stoppage time",False,False,121
+2984,G-2984,WC-2014,M-2014-55,Argentina vs Switzerland,2014-07-01,round of 16,T-03,Argentina,ARG,1,0,P-42113,Di María,Ángel,7,T-03,Argentina,ARG,118',118,0,"extra time, second half",False,False,118
+2985,G-2985,WC-2014,M-2014-56,Belgium vs United States,2014-07-01,round of 16,T-06,Belgium,BEL,1,0,P-48955,De Bruyne,Kevin,7,T-06,Belgium,BEL,93',93,0,"extra time, first half",False,False,93
+2986,G-2986,WC-2014,M-2014-56,Belgium vs United States,2014-07-01,round of 16,T-06,Belgium,BEL,1,0,P-72637,Lukaku,Romelu,9,T-06,Belgium,BEL,105',105,0,"extra time, first half",False,False,105
+2987,G-2987,WC-2014,M-2014-56,Belgium vs United States,2014-07-01,round of 16,T-83,United States,USA,0,1,P-91438,Green,Julian,16,T-83,United States,USA,107',107,0,"extra time, second half",False,False,107
+2988,G-2988,WC-2014,M-2014-57,France vs Germany,2014-07-04,quarter-finals,T-31,Germany,DEU,0,1,P-81447,Hummels,Mats,5,T-31,Germany,DEU,13',13,0,first half,False,False,13
+2989,G-2989,WC-2014,M-2014-58,Brazil vs Colombia,2014-07-04,quarter-finals,T-09,Brazil,BRA,1,0,P-32798,Silva,Thiago,3,T-09,Brazil,BRA,7',7,0,first half,False,False,7
+2990,G-2990,WC-2014,M-2014-58,Brazil vs Colombia,2014-07-04,quarter-finals,T-09,Brazil,BRA,1,0,P-87449,Luiz,David,4,T-09,Brazil,BRA,69',69,0,second half,False,False,69
+2991,G-2991,WC-2014,M-2014-58,Brazil vs Colombia,2014-07-04,quarter-finals,T-16,Colombia,COL,0,1,P-89392,Rodríguez,James,10,T-16,Colombia,COL,80',80,0,second half,False,True,80
+2992,G-2992,WC-2014,M-2014-59,Argentina vs Belgium,2014-07-05,quarter-finals,T-03,Argentina,ARG,1,0,P-29398,Higuaín,Gonzalo,9,T-03,Argentina,ARG,8',8,0,first half,False,False,8
+2993,G-2993,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-31,Germany,DEU,0,1,P-28154,Müller,Thomas,13,T-31,Germany,DEU,11',11,0,first half,False,False,11
+2994,G-2994,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-31,Germany,DEU,0,1,P-27787,Klose,Miroslav,11,T-31,Germany,DEU,23',23,0,first half,False,False,23
+2995,G-2995,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-31,Germany,DEU,0,1,P-39356,Kroos,Toni,18,T-31,Germany,DEU,24',24,0,first half,False,False,24
+2996,G-2996,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-31,Germany,DEU,0,1,P-39356,Kroos,Toni,18,T-31,Germany,DEU,26',26,0,first half,False,False,26
+2997,G-2997,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-31,Germany,DEU,0,1,P-13029,Khedira,Sami,6,T-31,Germany,DEU,29',29,0,first half,False,False,29
+2998,G-2998,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-31,Germany,DEU,0,1,P-46979,Schürrle,André,9,T-31,Germany,DEU,69',69,0,second half,False,False,69
+2999,G-2999,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-31,Germany,DEU,0,1,P-46979,Schürrle,André,9,T-31,Germany,DEU,79',79,0,second half,False,False,79
+3000,G-3000,WC-2014,M-2014-61,Brazil vs Germany,2014-07-08,semi-finals,T-09,Brazil,BRA,1,0,P-37239,Oscar,not applicable,11,T-09,Brazil,BRA,90',90,0,second half,False,False,90
+3001,G-3001,WC-2014,M-2014-63,Brazil vs Netherlands,2014-07-12,third-place match,T-48,Netherlands,NLD,0,1,P-99934,van Persie,Robin,9,T-48,Netherlands,NLD,3',3,0,first half,False,True,3
+3002,G-3002,WC-2014,M-2014-63,Brazil vs Netherlands,2014-07-12,third-place match,T-48,Netherlands,NLD,0,1,P-39861,Blind,Daley,5,T-48,Netherlands,NLD,17',17,0,first half,False,False,17
+3003,G-3003,WC-2014,M-2014-63,Brazil vs Netherlands,2014-07-12,third-place match,T-48,Netherlands,NLD,0,1,P-85698,Wijnaldum,Georginio,20,T-48,Netherlands,NLD,90'+1',90,1,"second half, stoppage time",False,False,91
+3004,G-3004,WC-2014,M-2014-64,Germany vs Argentina,2014-07-13,final,T-31,Germany,DEU,1,0,P-63673,Götze,Mario,19,T-31,Germany,DEU,113',113,0,"extra time, second half",False,False,113
+3151,G-3151,WC-2018,M-2018-01,Russia vs Saudi Arabia,2018-06-14,group stage,T-62,Russia,RUS,1,0,P-20571,Gazinsky,Yury,8,T-62,Russia,RUS,12',12,0,first half,False,False,12
+3152,G-3152,WC-2018,M-2018-01,Russia vs Saudi Arabia,2018-06-14,group stage,T-62,Russia,RUS,1,0,P-43675,Cheryshev,Denis,6,T-62,Russia,RUS,43',43,0,first half,False,False,43
+3153,G-3153,WC-2018,M-2018-01,Russia vs Saudi Arabia,2018-06-14,group stage,T-62,Russia,RUS,1,0,P-37840,Dzyuba,Artem,22,T-62,Russia,RUS,71',71,0,second half,False,False,71
+3154,G-3154,WC-2018,M-2018-01,Russia vs Saudi Arabia,2018-06-14,group stage,T-62,Russia,RUS,1,0,P-43675,Cheryshev,Denis,6,T-62,Russia,RUS,90'+1',90,1,"second half, stoppage time",False,False,91
+3155,G-3155,WC-2018,M-2018-01,Russia vs Saudi Arabia,2018-06-14,group stage,T-62,Russia,RUS,1,0,P-22778,Golovin,Aleksandr,17,T-62,Russia,RUS,90'+4',90,4,"second half, stoppage time",False,False,94
+3156,G-3156,WC-2018,M-2018-02,Egypt vs Uruguay,2018-06-15,group stage,T-84,Uruguay,URY,0,1,P-65659,Giménez,José,2,T-84,Uruguay,URY,89',89,0,second half,False,False,89
+3157,G-3157,WC-2018,M-2018-03,Morocco vs Iran,2018-06-15,group stage,T-38,IR Iran,IRN,0,1,P-60872,Bouhaddouz,Aziz,20,T-47,Morocco,MAR,90'+5',90,5,"second half, stoppage time",True,False,95
+3158,G-3158,WC-2018,M-2018-04,Portugal vs Spain,2018-06-15,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,7,T-58,Portugal,PRT,4',4,0,first half,False,True,4
+3159,G-3159,WC-2018,M-2018-04,Portugal vs Spain,2018-06-15,group stage,T-73,Spain,ESP,0,1,P-02231,Costa,Diego,19,T-73,Spain,ESP,24',24,0,first half,False,False,24
+3160,G-3160,WC-2018,M-2018-04,Portugal vs Spain,2018-06-15,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,7,T-58,Portugal,PRT,44',44,0,first half,False,False,44
+3161,G-3161,WC-2018,M-2018-04,Portugal vs Spain,2018-06-15,group stage,T-73,Spain,ESP,0,1,P-02231,Costa,Diego,19,T-73,Spain,ESP,55',55,0,second half,False,False,55
+3162,G-3162,WC-2018,M-2018-04,Portugal vs Spain,2018-06-15,group stage,T-73,Spain,ESP,0,1,P-15848,Nacho,not applicable,4,T-73,Spain,ESP,58',58,0,second half,False,False,58
+3163,G-3163,WC-2018,M-2018-04,Portugal vs Spain,2018-06-15,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,7,T-58,Portugal,PRT,88',88,0,second half,False,False,88
+3164,G-3164,WC-2018,M-2018-05,France vs Australia,2018-06-16,group stage,T-30,France,FRA,1,0,P-90908,Griezmann,Antoine,7,T-30,France,FRA,58',58,0,second half,False,True,58
+3165,G-3165,WC-2018,M-2018-05,France vs Australia,2018-06-16,group stage,T-04,Australia,AUS,0,1,P-37275,Jedinak,Mile,15,T-04,Australia,AUS,62',62,0,second half,False,True,62
+3166,G-3166,WC-2018,M-2018-05,France vs Australia,2018-06-16,group stage,T-30,France,FRA,1,0,P-51118,Behich,Aziz,16,T-04,Australia,AUS,81',81,0,second half,True,False,81
+3167,G-3167,WC-2018,M-2018-06,Argentina vs Iceland,2018-06-16,group stage,T-03,Argentina,ARG,1,0,P-36870,Agüero,Sergio,19,T-03,Argentina,ARG,19',19,0,first half,False,False,19
+3168,G-3168,WC-2018,M-2018-06,Argentina vs Iceland,2018-06-16,group stage,T-37,Iceland,ISL,0,1,P-70085,Finnbogason,Alfreð,11,T-37,Iceland,ISL,23',23,0,first half,False,False,23
+3169,G-3169,WC-2018,M-2018-07,Peru vs Denmark,2018-06-16,group stage,T-22,Denmark,DNK,0,1,P-08442,Poulsen,Yussuf,20,T-22,Denmark,DNK,59',59,0,second half,False,False,59
+3170,G-3170,WC-2018,M-2018-08,Croatia vs Nigeria,2018-06-16,group stage,T-18,Croatia,HRV,1,0,P-62455,Etebo,Peter,8,T-50,Nigeria,NGA,32',32,0,first half,True,False,32
+3171,G-3171,WC-2018,M-2018-08,Croatia vs Nigeria,2018-06-16,group stage,T-18,Croatia,HRV,1,0,P-29491,Modrić,Luka,10,T-18,Croatia,HRV,71',71,0,second half,False,True,71
+3172,G-3172,WC-2018,M-2018-09,Costa Rica vs Serbia,2018-06-17,group stage,T-66,Serbia,SRB,0,1,P-33059,Kolarov,Aleksandar,11,T-66,Serbia,SRB,56',56,0,second half,False,False,56
+3173,G-3173,WC-2018,M-2018-10,Germany vs Mexico,2018-06-17,group stage,T-46,Mexico,MEX,0,1,P-24705,Lozano,Hirving,22,T-46,Mexico,MEX,35',35,0,first half,False,False,35
+3174,G-3174,WC-2018,M-2018-11,Brazil vs Switzerland,2018-06-17,group stage,T-09,Brazil,BRA,1,0,P-37171,Coutinho,Philippe,11,T-09,Brazil,BRA,20',20,0,first half,False,False,20
+3175,G-3175,WC-2018,M-2018-11,Brazil vs Switzerland,2018-06-17,group stage,T-75,Switzerland,CHE,0,1,P-71840,Zuber,Steven,14,T-75,Switzerland,CHE,50',50,0,second half,False,False,50
+3176,G-3176,WC-2018,M-2018-12,Sweden vs South Korea,2018-06-18,group stage,T-74,Sweden,SWE,1,0,P-34998,Granqvist,Andreas,4,T-74,Sweden,SWE,65',65,0,second half,False,True,65
+3177,G-3177,WC-2018,M-2018-13,Belgium vs Panama,2018-06-18,group stage,T-06,Belgium,BEL,1,0,P-84852,Mertens,Dries,14,T-06,Belgium,BEL,47',47,0,second half,False,False,47
+3178,G-3178,WC-2018,M-2018-13,Belgium vs Panama,2018-06-18,group stage,T-06,Belgium,BEL,1,0,P-72637,Lukaku,Romelu,9,T-06,Belgium,BEL,69',69,0,second half,False,False,69
+3179,G-3179,WC-2018,M-2018-13,Belgium vs Panama,2018-06-18,group stage,T-06,Belgium,BEL,1,0,P-72637,Lukaku,Romelu,9,T-06,Belgium,BEL,75',75,0,second half,False,False,75
+3180,G-3180,WC-2018,M-2018-14,Tunisia vs England,2018-06-18,group stage,T-28,England,ENG,0,1,P-58924,Kane,Harry,9,T-28,England,ENG,11',11,0,first half,False,False,11
+3181,G-3181,WC-2018,M-2018-14,Tunisia vs England,2018-06-18,group stage,T-79,Tunisia,TUN,1,0,P-90867,Sassi,Ferjani,13,T-79,Tunisia,TUN,35',35,0,first half,False,True,35
+3182,G-3182,WC-2018,M-2018-14,Tunisia vs England,2018-06-18,group stage,T-28,England,ENG,0,1,P-58924,Kane,Harry,9,T-28,England,ENG,90'+1',90,1,"second half, stoppage time",False,False,91
+3183,G-3183,WC-2018,M-2018-15,Colombia vs Japan,2018-06-19,group stage,T-44,Japan,JPN,0,1,P-36964,Kagawa,Shinji,10,T-44,Japan,JPN,6',6,0,first half,False,True,6
+3184,G-3184,WC-2018,M-2018-15,Colombia vs Japan,2018-06-19,group stage,T-16,Colombia,COL,1,0,P-14499,Quintero,Juan Fernando,20,T-16,Colombia,COL,39',39,0,first half,False,False,39
+3185,G-3185,WC-2018,M-2018-15,Colombia vs Japan,2018-06-19,group stage,T-44,Japan,JPN,0,1,P-23371,Osako,Yuya,15,T-44,Japan,JPN,73',73,0,second half,False,False,73
+3186,G-3186,WC-2018,M-2018-16,Poland vs Senegal,2018-06-19,group stage,T-65,Senegal,SEN,0,1,P-40820,Cionek,Thiago,4,T-57,Poland,POL,37',37,0,first half,True,False,37
+3187,G-3187,WC-2018,M-2018-16,Poland vs Senegal,2018-06-19,group stage,T-65,Senegal,SEN,0,1,P-23774,Niang,M'Baye,19,T-65,Senegal,SEN,60',60,0,second half,False,False,60
+3188,G-3188,WC-2018,M-2018-16,Poland vs Senegal,2018-06-19,group stage,T-57,Poland,POL,1,0,P-45449,Krychowiak,Grzegorz,10,T-57,Poland,POL,86',86,0,second half,False,False,86
+3189,G-3189,WC-2018,M-2018-17,Russia vs Egypt,2018-06-19,group stage,T-62,Russia,RUS,1,0,P-44093,Fathy,Ahmed,7,T-26,Egypt,EGY,47',47,0,second half,True,False,47
+3190,G-3190,WC-2018,M-2018-17,Russia vs Egypt,2018-06-19,group stage,T-62,Russia,RUS,1,0,P-43675,Cheryshev,Denis,6,T-62,Russia,RUS,59',59,0,second half,False,False,59
+3191,G-3191,WC-2018,M-2018-17,Russia vs Egypt,2018-06-19,group stage,T-62,Russia,RUS,1,0,P-37840,Dzyuba,Artem,22,T-62,Russia,RUS,62',62,0,second half,False,False,62
+3192,G-3192,WC-2018,M-2018-17,Russia vs Egypt,2018-06-19,group stage,T-26,Egypt,EGY,0,1,P-75890,Salah,Mohamed,10,T-26,Egypt,EGY,73',73,0,second half,False,True,73
+3193,G-3193,WC-2018,M-2018-18,Portugal vs Morocco,2018-06-20,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,7,T-58,Portugal,PRT,4',4,0,first half,False,False,4
+3194,G-3194,WC-2018,M-2018-19,Uruguay vs Saudi Arabia,2018-06-20,group stage,T-84,Uruguay,URY,1,0,P-30486,Suárez,Luis,9,T-84,Uruguay,URY,23',23,0,first half,False,False,23
+3195,G-3195,WC-2018,M-2018-20,Iran vs Spain,2018-06-20,group stage,T-73,Spain,ESP,0,1,P-02231,Costa,Diego,19,T-73,Spain,ESP,54',54,0,second half,False,False,54
+3196,G-3196,WC-2018,M-2018-21,Denmark vs Australia,2018-06-21,group stage,T-22,Denmark,DNK,1,0,P-50104,Eriksen,Christian,10,T-22,Denmark,DNK,7',7,0,first half,False,False,7
+3197,G-3197,WC-2018,M-2018-21,Denmark vs Australia,2018-06-21,group stage,T-04,Australia,AUS,0,1,P-37275,Jedinak,Mile,15,T-04,Australia,AUS,38',38,0,first half,False,True,38
+3198,G-3198,WC-2018,M-2018-22,France vs Peru,2018-06-21,group stage,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,34',34,0,first half,False,False,34
+3199,G-3199,WC-2018,M-2018-23,Argentina vs Croatia,2018-06-21,group stage,T-18,Croatia,HRV,0,1,P-44463,Rebić,Ante,18,T-18,Croatia,HRV,53',53,0,second half,False,False,53
+3200,G-3200,WC-2018,M-2018-23,Argentina vs Croatia,2018-06-21,group stage,T-18,Croatia,HRV,0,1,P-29491,Modrić,Luka,10,T-18,Croatia,HRV,80',80,0,second half,False,False,80
+3201,G-3201,WC-2018,M-2018-23,Argentina vs Croatia,2018-06-21,group stage,T-18,Croatia,HRV,0,1,P-65979,Rakitić,Ivan,7,T-18,Croatia,HRV,90'+1',90,1,"second half, stoppage time",False,False,91
+3202,G-3202,WC-2018,M-2018-24,Brazil vs Costa Rica,2018-06-22,group stage,T-09,Brazil,BRA,1,0,P-37171,Coutinho,Philippe,11,T-09,Brazil,BRA,90'+1',90,1,"second half, stoppage time",False,False,91
+3203,G-3203,WC-2018,M-2018-24,Brazil vs Costa Rica,2018-06-22,group stage,T-09,Brazil,BRA,1,0,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,90'+7',90,7,"second half, stoppage time",False,False,97
+3204,G-3204,WC-2018,M-2018-25,Nigeria vs Iceland,2018-06-22,group stage,T-50,Nigeria,NGA,1,0,P-19591,Musa,Ahmed,7,T-50,Nigeria,NGA,49',49,0,second half,False,False,49
+3205,G-3205,WC-2018,M-2018-25,Nigeria vs Iceland,2018-06-22,group stage,T-50,Nigeria,NGA,1,0,P-19591,Musa,Ahmed,7,T-50,Nigeria,NGA,75',75,0,second half,False,False,75
+3206,G-3206,WC-2018,M-2018-26,Serbia vs Switzerland,2018-06-22,group stage,T-66,Serbia,SRB,1,0,P-85696,Mitrović,Aleksandar,9,T-66,Serbia,SRB,5',5,0,first half,False,False,5
+3207,G-3207,WC-2018,M-2018-26,Serbia vs Switzerland,2018-06-22,group stage,T-75,Switzerland,CHE,0,1,P-77224,Xhaka,Granit,10,T-75,Switzerland,CHE,52',52,0,second half,False,False,52
+3208,G-3208,WC-2018,M-2018-26,Serbia vs Switzerland,2018-06-22,group stage,T-75,Switzerland,CHE,0,1,P-39460,Shaqiri,Xherdan,23,T-75,Switzerland,CHE,90',90,0,second half,False,False,90
+3209,G-3209,WC-2018,M-2018-27,Belgium vs Tunisia,2018-06-23,group stage,T-06,Belgium,BEL,1,0,P-72011,Hazard,Eden,10,T-06,Belgium,BEL,6',6,0,first half,False,True,6
+3210,G-3210,WC-2018,M-2018-27,Belgium vs Tunisia,2018-06-23,group stage,T-06,Belgium,BEL,1,0,P-72637,Lukaku,Romelu,9,T-06,Belgium,BEL,16',16,0,first half,False,False,16
+3211,G-3211,WC-2018,M-2018-27,Belgium vs Tunisia,2018-06-23,group stage,T-79,Tunisia,TUN,0,1,P-11879,Bronn,Dylan,11,T-79,Tunisia,TUN,18',18,0,first half,False,False,18
+3212,G-3212,WC-2018,M-2018-27,Belgium vs Tunisia,2018-06-23,group stage,T-06,Belgium,BEL,1,0,P-72637,Lukaku,Romelu,9,T-06,Belgium,BEL,45'+3',45,3,"first half, stoppage time",False,False,48
+3213,G-3213,WC-2018,M-2018-27,Belgium vs Tunisia,2018-06-23,group stage,T-06,Belgium,BEL,1,0,P-72011,Hazard,Eden,10,T-06,Belgium,BEL,51',51,0,second half,False,False,51
+3214,G-3214,WC-2018,M-2018-27,Belgium vs Tunisia,2018-06-23,group stage,T-06,Belgium,BEL,1,0,P-13975,Batshuayi,Michy,21,T-06,Belgium,BEL,90',90,0,second half,False,False,90
+3215,G-3215,WC-2018,M-2018-27,Belgium vs Tunisia,2018-06-23,group stage,T-79,Tunisia,TUN,0,1,P-42223,Khazri,Wahbi,10,T-79,Tunisia,TUN,90'+3',90,3,"second half, stoppage time",False,False,93
+3216,G-3216,WC-2018,M-2018-28,South Korea vs Mexico,2018-06-23,group stage,T-46,Mexico,MEX,0,1,P-68042,Vela,Carlos,11,T-46,Mexico,MEX,26',26,0,first half,False,True,26
+3217,G-3217,WC-2018,M-2018-28,South Korea vs Mexico,2018-06-23,group stage,T-46,Mexico,MEX,0,1,P-36515,Hernández,Javier,14,T-46,Mexico,MEX,66',66,0,second half,False,False,66
+3218,G-3218,WC-2018,M-2018-28,South Korea vs Mexico,2018-06-23,group stage,T-71,Korea Republic,KOR,1,0,P-77335,Son,Heung-min,7,T-71,Korea Republic,KOR,90'+3',90,3,"second half, stoppage time",False,False,93
+3219,G-3219,WC-2018,M-2018-29,Germany vs Sweden,2018-06-23,group stage,T-74,Sweden,SWE,0,1,P-10221,Toivonen,Ola,20,T-74,Sweden,SWE,32',32,0,first half,False,False,32
+3220,G-3220,WC-2018,M-2018-29,Germany vs Sweden,2018-06-23,group stage,T-31,Germany,DEU,1,0,P-94447,Reus,Marco,11,T-31,Germany,DEU,48',48,0,second half,False,False,48
+3221,G-3221,WC-2018,M-2018-29,Germany vs Sweden,2018-06-23,group stage,T-31,Germany,DEU,1,0,P-39356,Kroos,Toni,8,T-31,Germany,DEU,90'+5',90,5,"second half, stoppage time",False,False,95
+3222,G-3222,WC-2018,M-2018-30,England vs Panama,2018-06-24,group stage,T-28,England,ENG,1,0,P-92628,Stones,John,5,T-28,England,ENG,8',8,0,first half,False,False,8
+3223,G-3223,WC-2018,M-2018-30,England vs Panama,2018-06-24,group stage,T-28,England,ENG,1,0,P-58924,Kane,Harry,9,T-28,England,ENG,22',22,0,first half,False,True,22
+3224,G-3224,WC-2018,M-2018-30,England vs Panama,2018-06-24,group stage,T-28,England,ENG,1,0,P-63620,Lingard,Jesse,7,T-28,England,ENG,36',36,0,first half,False,False,36
+3225,G-3225,WC-2018,M-2018-30,England vs Panama,2018-06-24,group stage,T-28,England,ENG,1,0,P-92628,Stones,John,5,T-28,England,ENG,40',40,0,first half,False,False,40
+3226,G-3226,WC-2018,M-2018-30,England vs Panama,2018-06-24,group stage,T-28,England,ENG,1,0,P-58924,Kane,Harry,9,T-28,England,ENG,45'+1',45,1,"first half, stoppage time",False,True,46
+3227,G-3227,WC-2018,M-2018-30,England vs Panama,2018-06-24,group stage,T-28,England,ENG,1,0,P-58924,Kane,Harry,9,T-28,England,ENG,62',62,0,second half,False,False,62
+3228,G-3228,WC-2018,M-2018-30,England vs Panama,2018-06-24,group stage,T-54,Panama,PAN,0,1,P-76368,Baloy,Felipe,23,T-54,Panama,PAN,78',78,0,second half,False,False,78
+3229,G-3229,WC-2018,M-2018-31,Japan vs Senegal,2018-06-24,group stage,T-65,Senegal,SEN,0,1,P-79299,Mané,Sadio,10,T-65,Senegal,SEN,11',11,0,first half,False,False,11
+3230,G-3230,WC-2018,M-2018-31,Japan vs Senegal,2018-06-24,group stage,T-44,Japan,JPN,1,0,P-89984,Inui,Takashi,14,T-44,Japan,JPN,34',34,0,first half,False,False,34
+3231,G-3231,WC-2018,M-2018-31,Japan vs Senegal,2018-06-24,group stage,T-65,Senegal,SEN,0,1,P-57411,Wagué,Moussa,22,T-65,Senegal,SEN,71',71,0,second half,False,False,71
+3232,G-3232,WC-2018,M-2018-31,Japan vs Senegal,2018-06-24,group stage,T-44,Japan,JPN,1,0,P-33175,Honda,Keisuke,4,T-44,Japan,JPN,78',78,0,second half,False,False,78
+3233,G-3233,WC-2018,M-2018-32,Poland vs Colombia,2018-06-24,group stage,T-16,Colombia,COL,0,1,P-43196,Mina,Yerry,13,T-16,Colombia,COL,40',40,0,first half,False,False,40
+3234,G-3234,WC-2018,M-2018-32,Poland vs Colombia,2018-06-24,group stage,T-16,Colombia,COL,0,1,P-74655,Falcao,Radamel,9,T-16,Colombia,COL,70',70,0,second half,False,False,70
+3235,G-3235,WC-2018,M-2018-32,Poland vs Colombia,2018-06-24,group stage,T-16,Colombia,COL,0,1,P-83216,Cuadrado,Juan,11,T-16,Colombia,COL,75',75,0,second half,False,False,75
+3236,G-3236,WC-2018,M-2018-33,Saudi Arabia vs Egypt,2018-06-25,group stage,T-26,Egypt,EGY,0,1,P-75890,Salah,Mohamed,10,T-26,Egypt,EGY,22',22,0,first half,False,False,22
+3237,G-3237,WC-2018,M-2018-33,Saudi Arabia vs Egypt,2018-06-25,group stage,T-63,Saudi Arabia,SAU,1,0,P-93688,Al-Faraj,Salman,7,T-63,Saudi Arabia,SAU,45'+6',45,6,"first half, stoppage time",False,True,51
+3238,G-3238,WC-2018,M-2018-33,Saudi Arabia vs Egypt,2018-06-25,group stage,T-63,Saudi Arabia,SAU,1,0,P-70583,Al-Dawsari,Salem,18,T-63,Saudi Arabia,SAU,90'+5',90,5,"second half, stoppage time",False,False,95
+3239,G-3239,WC-2018,M-2018-34,Uruguay vs Russia,2018-06-25,group stage,T-84,Uruguay,URY,1,0,P-30486,Suárez,Luis,9,T-84,Uruguay,URY,10',10,0,first half,False,False,10
+3240,G-3240,WC-2018,M-2018-34,Uruguay vs Russia,2018-06-25,group stage,T-84,Uruguay,URY,1,0,P-43675,Cheryshev,Denis,6,T-62,Russia,RUS,23',23,0,first half,True,False,23
+3241,G-3241,WC-2018,M-2018-34,Uruguay vs Russia,2018-06-25,group stage,T-84,Uruguay,URY,1,0,P-59138,Cavani,Edinson,21,T-84,Uruguay,URY,90',90,0,second half,False,False,90
+3242,G-3242,WC-2018,M-2018-35,Spain vs Morocco,2018-06-25,group stage,T-47,Morocco,MAR,0,1,P-15199,Boutaïb,Khalid,13,T-47,Morocco,MAR,14',14,0,first half,False,False,14
+3243,G-3243,WC-2018,M-2018-35,Spain vs Morocco,2018-06-25,group stage,T-73,Spain,ESP,1,0,P-52418,Isco,not applicable,22,T-73,Spain,ESP,19',19,0,first half,False,False,19
+3244,G-3244,WC-2018,M-2018-35,Spain vs Morocco,2018-06-25,group stage,T-47,Morocco,MAR,0,1,P-42517,En-Nesyri,Youssef,19,T-47,Morocco,MAR,81',81,0,second half,False,False,81
+3245,G-3245,WC-2018,M-2018-35,Spain vs Morocco,2018-06-25,group stage,T-73,Spain,ESP,1,0,P-60554,Aspas,Iago,17,T-73,Spain,ESP,90'+1',90,1,"second half, stoppage time",False,False,91
+3246,G-3246,WC-2018,M-2018-36,Iran vs Portugal,2018-06-25,group stage,T-58,Portugal,PRT,0,1,P-95670,Quaresma,Ricardo,20,T-58,Portugal,PRT,45',45,0,first half,False,False,45
+3247,G-3247,WC-2018,M-2018-36,Iran vs Portugal,2018-06-25,group stage,T-38,IR Iran,IRN,1,0,P-53957,Ansarifard,Karim,10,T-38,IR Iran,IRN,90'+3',90,3,"second half, stoppage time",False,True,93
+3248,G-3248,WC-2018,M-2018-37,Australia vs Peru,2018-06-26,group stage,T-56,Peru,PER,0,1,P-39610,Carrillo,André,18,T-56,Peru,PER,18',18,0,first half,False,False,18
+3249,G-3249,WC-2018,M-2018-37,Australia vs Peru,2018-06-26,group stage,T-56,Peru,PER,0,1,P-29117,Guerrero,Paolo,9,T-56,Peru,PER,50',50,0,second half,False,False,50
+3250,G-3250,WC-2018,M-2018-39,Iceland vs Croatia,2018-06-26,group stage,T-18,Croatia,HRV,0,1,P-77789,Badelj,Milan,19,T-18,Croatia,HRV,53',53,0,second half,False,False,53
+3251,G-3251,WC-2018,M-2018-39,Iceland vs Croatia,2018-06-26,group stage,T-37,Iceland,ISL,1,0,P-83367,Sigurðsson,Gylfi,10,T-37,Iceland,ISL,76',76,0,second half,False,True,76
+3252,G-3252,WC-2018,M-2018-39,Iceland vs Croatia,2018-06-26,group stage,T-18,Croatia,HRV,0,1,P-93884,Perišić,Ivan,4,T-18,Croatia,HRV,90',90,0,second half,False,False,90
+3253,G-3253,WC-2018,M-2018-40,Nigeria vs Argentina,2018-06-26,group stage,T-03,Argentina,ARG,0,1,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,14',14,0,first half,False,False,14
+3254,G-3254,WC-2018,M-2018-40,Nigeria vs Argentina,2018-06-26,group stage,T-50,Nigeria,NGA,1,0,P-26900,Moses,Victor,11,T-50,Nigeria,NGA,51',51,0,second half,False,True,51
+3255,G-3255,WC-2018,M-2018-40,Nigeria vs Argentina,2018-06-26,group stage,T-03,Argentina,ARG,0,1,P-18222,Rojo,Marcos,16,T-03,Argentina,ARG,86',86,0,second half,False,False,86
+3256,G-3256,WC-2018,M-2018-41,South Korea vs Germany,2018-06-27,group stage,T-71,Korea Republic,KOR,1,0,P-07259,Kim,Young-gwon,19,T-71,Korea Republic,KOR,90'+2',90,2,"second half, stoppage time",False,False,92
+3257,G-3257,WC-2018,M-2018-41,South Korea vs Germany,2018-06-27,group stage,T-71,Korea Republic,KOR,1,0,P-77335,Son,Heung-min,7,T-71,Korea Republic,KOR,90'+6',90,6,"second half, stoppage time",False,False,96
+3258,G-3258,WC-2018,M-2018-42,Mexico vs Sweden,2018-06-27,group stage,T-74,Sweden,SWE,0,1,P-30993,Augustinsson,Ludwig,6,T-74,Sweden,SWE,50',50,0,second half,False,False,50
+3259,G-3259,WC-2018,M-2018-42,Mexico vs Sweden,2018-06-27,group stage,T-74,Sweden,SWE,0,1,P-34998,Granqvist,Andreas,4,T-74,Sweden,SWE,62',62,0,second half,False,True,62
+3260,G-3260,WC-2018,M-2018-42,Mexico vs Sweden,2018-06-27,group stage,T-74,Sweden,SWE,0,1,P-26546,Álvarez,Edson,21,T-46,Mexico,MEX,74',74,0,second half,True,False,74
+3261,G-3261,WC-2018,M-2018-43,Serbia vs Brazil,2018-06-27,group stage,T-09,Brazil,BRA,0,1,P-54013,Paulinho,not applicable,15,T-09,Brazil,BRA,36',36,0,first half,False,False,36
+3262,G-3262,WC-2018,M-2018-43,Serbia vs Brazil,2018-06-27,group stage,T-09,Brazil,BRA,0,1,P-32798,Silva,Thiago,2,T-09,Brazil,BRA,68',68,0,second half,False,False,68
+3263,G-3263,WC-2018,M-2018-44,Switzerland vs Costa Rica,2018-06-27,group stage,T-75,Switzerland,CHE,1,0,P-35818,Džemaili,Blerim,15,T-75,Switzerland,CHE,31',31,0,first half,False,False,31
+3264,G-3264,WC-2018,M-2018-44,Switzerland vs Costa Rica,2018-06-27,group stage,T-17,Costa Rica,CRI,0,1,P-37984,Waston,Kendall,19,T-17,Costa Rica,CRI,56',56,0,second half,False,False,56
+3265,G-3265,WC-2018,M-2018-44,Switzerland vs Costa Rica,2018-06-27,group stage,T-75,Switzerland,CHE,1,0,P-07453,Drmić,Josip,19,T-75,Switzerland,CHE,88',88,0,second half,False,False,88
+3266,G-3266,WC-2018,M-2018-44,Switzerland vs Costa Rica,2018-06-27,group stage,T-17,Costa Rica,CRI,0,1,P-63312,Sommer,Yann,1,T-75,Switzerland,CHE,90'+3',90,3,"second half, stoppage time",True,False,93
+3267,G-3267,WC-2018,M-2018-45,Japan vs Poland,2018-06-28,group stage,T-57,Poland,POL,0,1,P-10172,Bednarek,Jan,5,T-57,Poland,POL,59',59,0,second half,False,False,59
+3268,G-3268,WC-2018,M-2018-46,Senegal vs Colombia,2018-06-28,group stage,T-16,Colombia,COL,0,1,P-43196,Mina,Yerry,13,T-16,Colombia,COL,74',74,0,second half,False,False,74
+3269,G-3269,WC-2018,M-2018-47,England vs Belgium,2018-06-28,group stage,T-06,Belgium,BEL,0,1,P-15896,Januzaj,Adnan,18,T-06,Belgium,BEL,51',51,0,second half,False,False,51
+3270,G-3270,WC-2018,M-2018-48,Panama vs Tunisia,2018-06-28,group stage,T-54,Panama,PAN,1,0,P-81706,Meriah,Yassine,4,T-79,Tunisia,TUN,33',33,0,first half,True,False,33
+3271,G-3271,WC-2018,M-2018-48,Panama vs Tunisia,2018-06-28,group stage,T-79,Tunisia,TUN,0,1,P-94563,Ben Youssef,Fakhreddine,8,T-79,Tunisia,TUN,51',51,0,second half,False,False,51
+3272,G-3272,WC-2018,M-2018-48,Panama vs Tunisia,2018-06-28,group stage,T-79,Tunisia,TUN,0,1,P-42223,Khazri,Wahbi,10,T-79,Tunisia,TUN,66',66,0,second half,False,False,66
+3273,G-3273,WC-2018,M-2018-49,France vs Argentina,2018-06-30,round of 16,T-30,France,FRA,1,0,P-90908,Griezmann,Antoine,7,T-30,France,FRA,13',13,0,first half,False,True,13
+3274,G-3274,WC-2018,M-2018-49,France vs Argentina,2018-06-30,round of 16,T-03,Argentina,ARG,0,1,P-42113,Di María,Ángel,11,T-03,Argentina,ARG,41',41,0,first half,False,False,41
+3275,G-3275,WC-2018,M-2018-49,France vs Argentina,2018-06-30,round of 16,T-03,Argentina,ARG,0,1,P-32508,Mercado,Gabriel,2,T-03,Argentina,ARG,48',48,0,second half,False,False,48
+3276,G-3276,WC-2018,M-2018-49,France vs Argentina,2018-06-30,round of 16,T-30,France,FRA,1,0,P-60652,Pavard,Benjamin,2,T-30,France,FRA,57',57,0,second half,False,False,57
+3277,G-3277,WC-2018,M-2018-49,France vs Argentina,2018-06-30,round of 16,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,64',64,0,second half,False,False,64
+3278,G-3278,WC-2018,M-2018-49,France vs Argentina,2018-06-30,round of 16,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,68',68,0,second half,False,False,68
+3279,G-3279,WC-2018,M-2018-49,France vs Argentina,2018-06-30,round of 16,T-03,Argentina,ARG,0,1,P-36870,Agüero,Sergio,19,T-03,Argentina,ARG,90'+3',90,3,"second half, stoppage time",False,False,93
+3280,G-3280,WC-2018,M-2018-50,Uruguay vs Portugal,2018-06-30,round of 16,T-84,Uruguay,URY,1,0,P-59138,Cavani,Edinson,21,T-84,Uruguay,URY,7',7,0,first half,False,False,7
+3281,G-3281,WC-2018,M-2018-50,Uruguay vs Portugal,2018-06-30,round of 16,T-58,Portugal,PRT,0,1,P-81972,Pepe,not applicable,3,T-58,Portugal,PRT,55',55,0,second half,False,False,55
+3282,G-3282,WC-2018,M-2018-50,Uruguay vs Portugal,2018-06-30,round of 16,T-84,Uruguay,URY,1,0,P-59138,Cavani,Edinson,21,T-84,Uruguay,URY,62',62,0,second half,False,False,62
+3283,G-3283,WC-2018,M-2018-51,Spain vs Russia,2018-07-01,round of 16,T-73,Spain,ESP,1,0,P-79763,Ignashevich,Sergei,4,T-62,Russia,RUS,12',12,0,first half,True,False,12
+3284,G-3284,WC-2018,M-2018-51,Spain vs Russia,2018-07-01,round of 16,T-62,Russia,RUS,0,1,P-37840,Dzyuba,Artem,22,T-62,Russia,RUS,41',41,0,first half,False,True,41
+3285,G-3285,WC-2018,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,T-22,Denmark,DNK,0,1,P-61976,Jørgensen,Mathias,13,T-22,Denmark,DNK,1',1,0,first half,False,False,1
+3286,G-3286,WC-2018,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,T-18,Croatia,HRV,1,0,P-25745,Mandžukić,Mario,17,T-18,Croatia,HRV,4',4,0,first half,False,False,4
+3287,G-3287,WC-2018,M-2018-53,Brazil vs Mexico,2018-07-02,round of 16,T-09,Brazil,BRA,1,0,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,51',51,0,second half,False,False,51
+3288,G-3288,WC-2018,M-2018-53,Brazil vs Mexico,2018-07-02,round of 16,T-09,Brazil,BRA,1,0,P-37877,Firmino,Roberto,20,T-09,Brazil,BRA,88',88,0,second half,False,False,88
+3289,G-3289,WC-2018,M-2018-54,Belgium vs Japan,2018-07-02,round of 16,T-44,Japan,JPN,0,1,P-54138,Haraguchi,Genki,8,T-44,Japan,JPN,48',48,0,second half,False,False,48
+3290,G-3290,WC-2018,M-2018-54,Belgium vs Japan,2018-07-02,round of 16,T-44,Japan,JPN,0,1,P-89984,Inui,Takashi,14,T-44,Japan,JPN,52',52,0,second half,False,False,52
+3291,G-3291,WC-2018,M-2018-54,Belgium vs Japan,2018-07-02,round of 16,T-06,Belgium,BEL,1,0,P-64049,Vertonghen,Jan,5,T-06,Belgium,BEL,69',69,0,second half,False,False,69
+3292,G-3292,WC-2018,M-2018-54,Belgium vs Japan,2018-07-02,round of 16,T-06,Belgium,BEL,1,0,P-63363,Fellaini,Marouane,8,T-06,Belgium,BEL,74',74,0,second half,False,False,74
+3293,G-3293,WC-2018,M-2018-54,Belgium vs Japan,2018-07-02,round of 16,T-06,Belgium,BEL,1,0,P-69919,Chadli,Nacer,22,T-06,Belgium,BEL,90'+4',90,4,"second half, stoppage time",False,False,94
+3294,G-3294,WC-2018,M-2018-55,Sweden vs Switzerland,2018-07-03,round of 16,T-74,Sweden,SWE,1,0,P-04686,Forsberg,Emil,10,T-74,Sweden,SWE,66',66,0,second half,False,False,66
+3295,G-3295,WC-2018,M-2018-56,Colombia vs England,2018-07-03,round of 16,T-28,England,ENG,0,1,P-58924,Kane,Harry,9,T-28,England,ENG,57',57,0,second half,False,True,57
+3296,G-3296,WC-2018,M-2018-56,Colombia vs England,2018-07-03,round of 16,T-16,Colombia,COL,1,0,P-43196,Mina,Yerry,13,T-16,Colombia,COL,90'+3',90,3,"second half, stoppage time",False,False,93
+3297,G-3297,WC-2018,M-2018-57,Uruguay vs France,2018-07-06,quarter-finals,T-30,France,FRA,0,1,P-42326,Varane,Raphaël,4,T-30,France,FRA,40',40,0,first half,False,False,40
+3298,G-3298,WC-2018,M-2018-57,Uruguay vs France,2018-07-06,quarter-finals,T-30,France,FRA,0,1,P-90908,Griezmann,Antoine,7,T-30,France,FRA,61',61,0,second half,False,False,61
+3299,G-3299,WC-2018,M-2018-58,Brazil vs Belgium,2018-07-06,quarter-finals,T-06,Belgium,BEL,0,1,P-41758,Fernandinho,not applicable,17,T-09,Brazil,BRA,13',13,0,first half,True,False,13
+3300,G-3300,WC-2018,M-2018-58,Brazil vs Belgium,2018-07-06,quarter-finals,T-06,Belgium,BEL,0,1,P-48955,De Bruyne,Kevin,7,T-06,Belgium,BEL,31',31,0,first half,False,False,31
+3301,G-3301,WC-2018,M-2018-58,Brazil vs Belgium,2018-07-06,quarter-finals,T-09,Brazil,BRA,1,0,P-49997,Augusto,Renato,8,T-09,Brazil,BRA,76',76,0,second half,False,False,76
+3302,G-3302,WC-2018,M-2018-59,Sweden vs England,2018-07-07,quarter-finals,T-28,England,ENG,0,1,P-02465,Maguire,Harry,6,T-28,England,ENG,30',30,0,first half,False,False,30
+3303,G-3303,WC-2018,M-2018-59,Sweden vs England,2018-07-07,quarter-finals,T-28,England,ENG,0,1,P-83363,Alli,Dele,20,T-28,England,ENG,59',59,0,second half,False,False,59
+3304,G-3304,WC-2018,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,T-62,Russia,RUS,1,0,P-43675,Cheryshev,Denis,6,T-62,Russia,RUS,31',31,0,first half,False,False,31
+3305,G-3305,WC-2018,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,T-18,Croatia,HRV,0,1,P-65182,Kramarić,Andrej,9,T-18,Croatia,HRV,39',39,0,first half,False,False,39
+3306,G-3306,WC-2018,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,T-18,Croatia,HRV,0,1,P-91294,Vida,Domagoj,21,T-18,Croatia,HRV,101',101,0,"extra time, first half",False,False,101
+3307,G-3307,WC-2018,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,T-62,Russia,RUS,1,0,P-17872,Fernandes,Mário,2,T-62,Russia,RUS,115',115,0,"extra time, second half",False,False,115
+3308,G-3308,WC-2018,M-2018-61,France vs Belgium,2018-07-10,semi-finals,T-30,France,FRA,1,0,P-67297,Umtiti,Samuel,5,T-30,France,FRA,51',51,0,second half,False,False,51
+3309,G-3309,WC-2018,M-2018-62,Croatia vs England,2018-07-11,semi-finals,T-28,England,ENG,0,1,P-25937,Trippier,Kieran,12,T-28,England,ENG,5',5,0,first half,False,False,5
+3310,G-3310,WC-2018,M-2018-62,Croatia vs England,2018-07-11,semi-finals,T-18,Croatia,HRV,1,0,P-93884,Perišić,Ivan,4,T-18,Croatia,HRV,68',68,0,second half,False,False,68
+3311,G-3311,WC-2018,M-2018-62,Croatia vs England,2018-07-11,semi-finals,T-18,Croatia,HRV,1,0,P-25745,Mandžukić,Mario,17,T-18,Croatia,HRV,109',109,0,"extra time, second half",False,False,109
+3312,G-3312,WC-2018,M-2018-63,Belgium vs England,2018-07-14,third-place match,T-06,Belgium,BEL,1,0,P-22930,Meunier,Thomas,15,T-06,Belgium,BEL,4',4,0,first half,False,False,4
+3313,G-3313,WC-2018,M-2018-63,Belgium vs England,2018-07-14,third-place match,T-06,Belgium,BEL,1,0,P-72011,Hazard,Eden,10,T-06,Belgium,BEL,82',82,0,second half,False,False,82
+3314,G-3314,WC-2018,M-2018-64,France vs Croatia,2018-07-15,final,T-30,France,FRA,1,0,P-25745,Mandžukić,Mario,17,T-18,Croatia,HRV,18',18,0,first half,True,False,18
+3315,G-3315,WC-2018,M-2018-64,France vs Croatia,2018-07-15,final,T-18,Croatia,HRV,0,1,P-93884,Perišić,Ivan,4,T-18,Croatia,HRV,28',28,0,first half,False,False,28
+3316,G-3316,WC-2018,M-2018-64,France vs Croatia,2018-07-15,final,T-30,France,FRA,1,0,P-90908,Griezmann,Antoine,7,T-30,France,FRA,38',38,0,first half,False,True,38
+3317,G-3317,WC-2018,M-2018-64,France vs Croatia,2018-07-15,final,T-30,France,FRA,1,0,P-17509,Pogba,Paul,6,T-30,France,FRA,59',59,0,second half,False,False,59
+3318,G-3318,WC-2018,M-2018-64,France vs Croatia,2018-07-15,final,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,65',65,0,second half,False,False,65
+3319,G-3319,WC-2018,M-2018-64,France vs Croatia,2018-07-15,final,T-18,Croatia,HRV,0,1,P-25745,Mandžukić,Mario,17,T-18,Croatia,HRV,69',69,0,second half,False,False,69
+3466,G-3466,WC-2022,M-2022-01,Qatar vs Ecuador,2022-11-20,group stage,T-25,Ecuador,ECU,0,1,P-75912,Valencia,Enner,13,T-25,Ecuador,ECU,16',16,0,first half,False,True,16
+3467,G-3467,WC-2022,M-2022-01,Qatar vs Ecuador,2022-11-20,group stage,T-25,Ecuador,ECU,0,1,P-75912,Valencia,Enner,13,T-25,Ecuador,ECU,31',31,0,first half,False,False,31
+3468,G-3468,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-28,England,ENG,1,0,P-15674,Bellingham,Jude,22,T-28,England,ENG,35',35,0,first half,False,False,35
+3469,G-3469,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-28,England,ENG,1,0,P-76842,Saka,Bukayo,17,T-28,England,ENG,43',43,0,first half,False,False,43
+3470,G-3470,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-28,England,ENG,1,0,P-21553,Sterling,Raheem,10,T-28,England,ENG,45'+1',45,1,"first half, stoppage time",False,False,46
+3471,G-3471,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-28,England,ENG,1,0,P-76842,Saka,Bukayo,17,T-28,England,ENG,62',62,0,second half,False,False,62
+3472,G-3472,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-38,IR Iran,IRN,0,1,P-85860,Taremi,Mehdi,9,T-38,IR Iran,IRN,65',65,0,second half,False,False,65
+3473,G-3473,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-28,England,ENG,1,0,P-59837,Rashford,Marcus,11,T-28,England,ENG,71',71,0,second half,False,False,71
+3474,G-3474,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-28,England,ENG,1,0,P-21153,Grealish,Jack,7,T-28,England,ENG,90',90,0,second half,False,False,90
+3475,G-3475,WC-2022,M-2022-02,England vs Iran,2022-11-21,group stage,T-38,IR Iran,IRN,0,1,P-85860,Taremi,Mehdi,9,T-38,IR Iran,IRN,90'+13',90,13,"second half, stoppage time",False,True,103
+3476,G-3476,WC-2022,M-2022-03,Senegal vs Netherlands,2022-11-21,group stage,T-48,Netherlands,NLD,0,1,P-28911,Gakpo,Cody,8,T-48,Netherlands,NLD,84',84,0,second half,False,False,84
+3477,G-3477,WC-2022,M-2022-03,Senegal vs Netherlands,2022-11-21,group stage,T-48,Netherlands,NLD,0,1,P-42078,Klaassen,Davy,14,T-48,Netherlands,NLD,90'+9',90,9,"second half, stoppage time",False,False,99
+3478,G-3478,WC-2022,M-2022-04,United States vs Wales,2022-11-21,group stage,T-83,United States,USA,1,0,P-30252,Weah,Timothy,21,T-83,United States,USA,36',36,0,first half,False,False,36
+3479,G-3479,WC-2022,M-2022-04,United States vs Wales,2022-11-21,group stage,T-85,Wales,WAL,0,1,P-63927,Bale,Gareth,11,T-85,Wales,WAL,82',82,0,second half,False,True,82
+3480,G-3480,WC-2022,M-2022-05,Argentina vs Saudi Arabia,2022-11-22,group stage,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,10',10,0,first half,False,True,10
+3481,G-3481,WC-2022,M-2022-05,Argentina vs Saudi Arabia,2022-11-22,group stage,T-63,Saudi Arabia,SAU,0,1,P-37308,Al-Shehri,Saleh,11,T-63,Saudi Arabia,SAU,48',48,0,second half,False,False,48
+3482,G-3482,WC-2022,M-2022-05,Argentina vs Saudi Arabia,2022-11-22,group stage,T-63,Saudi Arabia,SAU,0,1,P-70583,Al-Dawsari,Salem,10,T-63,Saudi Arabia,SAU,53',53,0,second half,False,False,53
+3483,G-3483,WC-2022,M-2022-08,France vs Australia,2022-11-22,group stage,T-04,Australia,AUS,0,1,P-82010,Goodwin,Craig,23,T-04,Australia,AUS,9',9,0,first half,False,False,9
+3484,G-3484,WC-2022,M-2022-08,France vs Australia,2022-11-22,group stage,T-30,France,FRA,1,0,P-57401,Rabiot,Adrien,14,T-30,France,FRA,27',27,0,first half,False,False,27
+3485,G-3485,WC-2022,M-2022-08,France vs Australia,2022-11-22,group stage,T-30,France,FRA,1,0,P-89750,Giroud,Olivier,9,T-30,France,FRA,32',32,0,first half,False,False,32
+3486,G-3486,WC-2022,M-2022-08,France vs Australia,2022-11-22,group stage,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,68',68,0,second half,False,False,68
+3487,G-3487,WC-2022,M-2022-08,France vs Australia,2022-11-22,group stage,T-30,France,FRA,1,0,P-89750,Giroud,Olivier,9,T-30,France,FRA,71',71,0,second half,False,False,71
+3488,G-3488,WC-2022,M-2022-10,Germany vs Japan,2022-11-23,group stage,T-31,Germany,DEU,1,0,P-08896,Gündoğan,İlkay,21,T-31,Germany,DEU,33',33,0,first half,False,True,33
+3489,G-3489,WC-2022,M-2022-10,Germany vs Japan,2022-11-23,group stage,T-44,Japan,JPN,0,1,P-58907,Dōan,Ritsu,8,T-44,Japan,JPN,75',75,0,second half,False,False,75
+3490,G-3490,WC-2022,M-2022-10,Germany vs Japan,2022-11-23,group stage,T-44,Japan,JPN,0,1,P-46913,Asano,Takuma,18,T-44,Japan,JPN,83',83,0,second half,False,False,83
+3491,G-3491,WC-2022,M-2022-11,Spain vs Costa Rica,2022-11-23,group stage,T-73,Spain,ESP,1,0,P-40007,Olmo,Dani,21,T-73,Spain,ESP,11',11,0,first half,False,False,11
+3492,G-3492,WC-2022,M-2022-11,Spain vs Costa Rica,2022-11-23,group stage,T-73,Spain,ESP,1,0,P-09400,Asensio,Marco,10,T-73,Spain,ESP,21',21,0,first half,False,False,21
+3493,G-3493,WC-2022,M-2022-11,Spain vs Costa Rica,2022-11-23,group stage,T-73,Spain,ESP,1,0,P-31301,Torres,Ferran,11,T-73,Spain,ESP,31',31,0,first half,False,True,31
+3494,G-3494,WC-2022,M-2022-11,Spain vs Costa Rica,2022-11-23,group stage,T-73,Spain,ESP,1,0,P-31301,Torres,Ferran,11,T-73,Spain,ESP,54',54,0,second half,False,False,54
+3495,G-3495,WC-2022,M-2022-11,Spain vs Costa Rica,2022-11-23,group stage,T-73,Spain,ESP,1,0,P-88433,Gavi,not applicable,9,T-73,Spain,ESP,74',74,0,second half,False,False,74
+3496,G-3496,WC-2022,M-2022-11,Spain vs Costa Rica,2022-11-23,group stage,T-73,Spain,ESP,1,0,P-30405,Soler,Carlos,19,T-73,Spain,ESP,90',90,0,second half,False,False,90
+3497,G-3497,WC-2022,M-2022-11,Spain vs Costa Rica,2022-11-23,group stage,T-73,Spain,ESP,1,0,P-29274,Morata,Álvaro,7,T-73,Spain,ESP,90'+2',90,2,"second half, stoppage time",False,False,92
+3498,G-3498,WC-2022,M-2022-12,Belgium vs Canada,2022-11-23,group stage,T-06,Belgium,BEL,1,0,P-13975,Batshuayi,Michy,23,T-06,Belgium,BEL,44',44,0,first half,False,False,44
+3499,G-3499,WC-2022,M-2022-13,Switzerland vs Cameroon,2022-11-24,group stage,T-75,Switzerland,CHE,1,0,P-19075,Embolo,Breel,7,T-75,Switzerland,CHE,48',48,0,second half,False,False,48
+3500,G-3500,WC-2022,M-2022-15,Portugal vs Ghana,2022-11-24,group stage,T-58,Portugal,PRT,1,0,P-70442,Ronaldo,Cristiano,7,T-58,Portugal,PRT,65',65,0,second half,False,True,65
+3501,G-3501,WC-2022,M-2022-15,Portugal vs Ghana,2022-11-24,group stage,T-32,Ghana,GHA,0,1,P-01945,Ayew,André,10,T-32,Ghana,GHA,73',73,0,second half,False,False,73
+3502,G-3502,WC-2022,M-2022-15,Portugal vs Ghana,2022-11-24,group stage,T-58,Portugal,PRT,1,0,P-17931,Félix,João,11,T-58,Portugal,PRT,78',78,0,second half,False,False,78
+3503,G-3503,WC-2022,M-2022-15,Portugal vs Ghana,2022-11-24,group stage,T-58,Portugal,PRT,1,0,P-27349,Leão,Rafael,15,T-58,Portugal,PRT,80',80,0,second half,False,False,80
+3504,G-3504,WC-2022,M-2022-15,Portugal vs Ghana,2022-11-24,group stage,T-32,Ghana,GHA,0,1,P-72363,Bukari,Osman,11,T-32,Ghana,GHA,89',89,0,second half,False,False,89
+3505,G-3505,WC-2022,M-2022-16,Brazil vs Serbia,2022-11-24,group stage,T-09,Brazil,BRA,1,0,P-68016,Richarlison,not applicable,9,T-09,Brazil,BRA,62',62,0,second half,False,False,62
+3506,G-3506,WC-2022,M-2022-16,Brazil vs Serbia,2022-11-24,group stage,T-09,Brazil,BRA,1,0,P-68016,Richarlison,not applicable,9,T-09,Brazil,BRA,73',73,0,second half,False,False,73
+3507,G-3507,WC-2022,M-2022-17,Wales vs Iran,2022-11-25,group stage,T-38,IR Iran,IRN,0,1,P-98747,Cheshmi,Rouzbeh,15,T-38,IR Iran,IRN,90'+8',90,8,"second half, stoppage time",False,False,98
+3508,G-3508,WC-2022,M-2022-17,Wales vs Iran,2022-11-25,group stage,T-38,IR Iran,IRN,0,1,P-47137,Rezaeian,Ramin,23,T-38,IR Iran,IRN,90'+11',90,11,"second half, stoppage time",False,False,101
+3509,G-3509,WC-2022,M-2022-18,Qatar vs Senegal,2022-11-25,group stage,T-65,Senegal,SEN,0,1,P-33622,Dia,Boulaye,9,T-65,Senegal,SEN,41',41,0,first half,False,False,41
+3510,G-3510,WC-2022,M-2022-18,Qatar vs Senegal,2022-11-25,group stage,T-65,Senegal,SEN,0,1,P-27280,Diédhiou,Famara,19,T-65,Senegal,SEN,48',48,0,second half,False,False,48
+3511,G-3511,WC-2022,M-2022-18,Qatar vs Senegal,2022-11-25,group stage,T-59,Qatar,QAT,1,0,P-17048,Muntari,Mohammed,9,T-59,Qatar,QAT,78',78,0,second half,False,False,78
+3512,G-3512,WC-2022,M-2022-18,Qatar vs Senegal,2022-11-25,group stage,T-65,Senegal,SEN,0,1,P-88928,Dieng,Bamba,20,T-65,Senegal,SEN,84',84,0,second half,False,False,84
+3513,G-3513,WC-2022,M-2022-19,Netherlands vs Ecuador,2022-11-25,group stage,T-48,Netherlands,NLD,1,0,P-28911,Gakpo,Cody,8,T-48,Netherlands,NLD,6',6,0,first half,False,False,6
+3514,G-3514,WC-2022,M-2022-19,Netherlands vs Ecuador,2022-11-25,group stage,T-25,Ecuador,ECU,0,1,P-75912,Valencia,Enner,13,T-25,Ecuador,ECU,49',49,0,second half,False,False,49
+3515,G-3515,WC-2022,M-2022-21,Tunisia vs Australia,2022-11-26,group stage,T-04,Australia,AUS,0,1,P-91029,Duke,Mitchell,15,T-04,Australia,AUS,23',23,0,first half,False,False,23
+3516,G-3516,WC-2022,M-2022-22,Poland vs Saudi Arabia,2022-11-26,group stage,T-57,Poland,POL,1,0,P-32165,Zieliński,Piotr,20,T-57,Poland,POL,39',39,0,first half,False,False,39
+3517,G-3517,WC-2022,M-2022-22,Poland vs Saudi Arabia,2022-11-26,group stage,T-57,Poland,POL,1,0,P-00549,Lewandowski,Robert,9,T-57,Poland,POL,82',82,0,second half,False,False,82
+3518,G-3518,WC-2022,M-2022-23,France vs Denmark,2022-11-26,group stage,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,61',61,0,second half,False,False,61
+3519,G-3519,WC-2022,M-2022-23,France vs Denmark,2022-11-26,group stage,T-22,Denmark,DNK,0,1,P-18923,Christensen,Andreas,6,T-22,Denmark,DNK,68',68,0,second half,False,False,68
+3520,G-3520,WC-2022,M-2022-23,France vs Denmark,2022-11-26,group stage,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,86',86,0,second half,False,False,86
+3521,G-3521,WC-2022,M-2022-24,Argentina vs Mexico,2022-11-26,group stage,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,64',64,0,second half,False,False,64
+3522,G-3522,WC-2022,M-2022-24,Argentina vs Mexico,2022-11-26,group stage,T-03,Argentina,ARG,1,0,P-10739,Fernández,Enzo,24,T-03,Argentina,ARG,87',87,0,second half,False,False,87
+3523,G-3523,WC-2022,M-2022-25,Japan vs Costa Rica,2022-11-27,group stage,T-17,Costa Rica,CRI,0,1,P-80986,Fuller,Keysher,4,T-17,Costa Rica,CRI,81',81,0,second half,False,False,81
+3524,G-3524,WC-2022,M-2022-26,Belgium vs Morocco,2022-11-27,group stage,T-47,Morocco,MAR,0,1,P-26068,Saïss,Romain,6,T-47,Morocco,MAR,73',73,0,second half,False,False,73
+3525,G-3525,WC-2022,M-2022-26,Belgium vs Morocco,2022-11-27,group stage,T-47,Morocco,MAR,0,1,P-48295,Aboukhlal,Zakaria,14,T-47,Morocco,MAR,90'+2',90,2,"second half, stoppage time",False,False,92
+3526,G-3526,WC-2022,M-2022-27,Croatia vs Canada,2022-11-27,group stage,T-12,Canada,CAN,0,1,P-46358,Davies,Alphonso,19,T-12,Canada,CAN,2',2,0,first half,False,False,2
+3527,G-3527,WC-2022,M-2022-27,Croatia vs Canada,2022-11-27,group stage,T-18,Croatia,HRV,1,0,P-65182,Kramarić,Andrej,9,T-18,Croatia,HRV,36',36,0,first half,False,False,36
+3528,G-3528,WC-2022,M-2022-27,Croatia vs Canada,2022-11-27,group stage,T-18,Croatia,HRV,1,0,P-31643,Livaja,Marko,14,T-18,Croatia,HRV,44',44,0,first half,False,False,44
+3529,G-3529,WC-2022,M-2022-27,Croatia vs Canada,2022-11-27,group stage,T-18,Croatia,HRV,1,0,P-65182,Kramarić,Andrej,9,T-18,Croatia,HRV,70',70,0,second half,False,False,70
+3530,G-3530,WC-2022,M-2022-27,Croatia vs Canada,2022-11-27,group stage,T-18,Croatia,HRV,1,0,P-64353,Majer,Lovro,7,T-18,Croatia,HRV,90'+4',90,4,"second half, stoppage time",False,False,94
+3531,G-3531,WC-2022,M-2022-28,Spain vs Germany,2022-11-27,group stage,T-73,Spain,ESP,1,0,P-29274,Morata,Álvaro,7,T-73,Spain,ESP,62',62,0,second half,False,False,62
+3532,G-3532,WC-2022,M-2022-28,Spain vs Germany,2022-11-27,group stage,T-31,Germany,DEU,0,1,P-46246,Füllkrug,Niclas,9,T-31,Germany,DEU,83',83,0,second half,False,False,83
+3533,G-3533,WC-2022,M-2022-29,Cameroon vs Serbia,2022-11-28,group stage,T-11,Cameroon,CMR,1,0,P-59303,Castelletto,Jean-Charles,21,T-11,Cameroon,CMR,29',29,0,first half,False,False,29
+3534,G-3534,WC-2022,M-2022-29,Cameroon vs Serbia,2022-11-28,group stage,T-66,Serbia,SRB,0,1,P-98435,Pavlović,Strahinja,2,T-66,Serbia,SRB,45'+1',45,1,"first half, stoppage time",False,False,46
+3535,G-3535,WC-2022,M-2022-29,Cameroon vs Serbia,2022-11-28,group stage,T-66,Serbia,SRB,0,1,P-27744,Milinković-Savić,Sergej,20,T-66,Serbia,SRB,45'+3',45,3,"first half, stoppage time",False,False,48
+3536,G-3536,WC-2022,M-2022-29,Cameroon vs Serbia,2022-11-28,group stage,T-66,Serbia,SRB,0,1,P-85696,Mitrović,Aleksandar,9,T-66,Serbia,SRB,53',53,0,second half,False,False,53
+3537,G-3537,WC-2022,M-2022-29,Cameroon vs Serbia,2022-11-28,group stage,T-11,Cameroon,CMR,1,0,P-53452,Aboubakar,Vincent,10,T-11,Cameroon,CMR,63',63,0,second half,False,False,63
+3538,G-3538,WC-2022,M-2022-29,Cameroon vs Serbia,2022-11-28,group stage,T-11,Cameroon,CMR,1,0,P-06117,Choupo-Moting,Eric Maxim,13,T-11,Cameroon,CMR,66',66,0,second half,False,False,66
+3539,G-3539,WC-2022,M-2022-30,South Korea vs Ghana,2022-11-28,group stage,T-32,Ghana,GHA,0,1,P-50142,Salisu,Mohammed,4,T-32,Ghana,GHA,24',24,0,first half,False,False,24
+3540,G-3540,WC-2022,M-2022-30,South Korea vs Ghana,2022-11-28,group stage,T-32,Ghana,GHA,0,1,P-23821,Kudus,Mohammed,20,T-32,Ghana,GHA,34',34,0,first half,False,False,34
+3541,G-3541,WC-2022,M-2022-30,South Korea vs Ghana,2022-11-28,group stage,T-71,Korea Republic,KOR,1,0,P-87169,Gue-sung,Cho,9,T-71,Korea Republic,KOR,58',58,0,second half,False,False,58
+3542,G-3542,WC-2022,M-2022-30,South Korea vs Ghana,2022-11-28,group stage,T-71,Korea Republic,KOR,1,0,P-87169,Gue-sung,Cho,9,T-71,Korea Republic,KOR,61',61,0,second half,False,False,61
+3543,G-3543,WC-2022,M-2022-30,South Korea vs Ghana,2022-11-28,group stage,T-32,Ghana,GHA,0,1,P-23821,Kudus,Mohammed,20,T-32,Ghana,GHA,68',68,0,second half,False,False,68
+3544,G-3544,WC-2022,M-2022-31,Brazil vs Switzerland,2022-11-28,group stage,T-09,Brazil,BRA,1,0,P-02305,Casemiro,not applicable,5,T-09,Brazil,BRA,83',83,0,second half,False,False,83
+3545,G-3545,WC-2022,M-2022-32,Portugal vs Uruguay,2022-11-28,group stage,T-58,Portugal,PRT,1,0,P-39584,Fernandes,Bruno,8,T-58,Portugal,PRT,54',54,0,second half,False,False,54
+3546,G-3546,WC-2022,M-2022-32,Portugal vs Uruguay,2022-11-28,group stage,T-58,Portugal,PRT,1,0,P-39584,Fernandes,Bruno,8,T-58,Portugal,PRT,90'+3',90,3,"second half, stoppage time",False,True,93
+3547,G-3547,WC-2022,M-2022-33,Ecuador vs Senegal,2022-11-29,group stage,T-65,Senegal,SEN,0,1,P-37935,Sarr,Ismaïla,18,T-65,Senegal,SEN,44',44,0,first half,False,True,44
+3548,G-3548,WC-2022,M-2022-33,Ecuador vs Senegal,2022-11-29,group stage,T-25,Ecuador,ECU,1,0,P-82216,Caicedo,Moisés,23,T-25,Ecuador,ECU,67',67,0,second half,False,False,67
+3549,G-3549,WC-2022,M-2022-33,Ecuador vs Senegal,2022-11-29,group stage,T-65,Senegal,SEN,0,1,P-47321,Koulibaly,Kalidou,3,T-65,Senegal,SEN,70',70,0,second half,False,False,70
+3550,G-3550,WC-2022,M-2022-34,Netherlands vs Qatar,2022-11-29,group stage,T-48,Netherlands,NLD,1,0,P-28911,Gakpo,Cody,8,T-48,Netherlands,NLD,26',26,0,first half,False,False,26
+3551,G-3551,WC-2022,M-2022-34,Netherlands vs Qatar,2022-11-29,group stage,T-48,Netherlands,NLD,1,0,P-17688,de Jong,Frenkie,21,T-48,Netherlands,NLD,49',49,0,second half,False,False,49
+3552,G-3552,WC-2022,M-2022-35,Iran vs United States,2022-11-29,group stage,T-83,United States,USA,0,1,P-11737,Pulisic,Christian,10,T-83,United States,USA,38',38,0,first half,False,False,38
+3553,G-3553,WC-2022,M-2022-36,Wales vs England,2022-11-29,group stage,T-28,England,ENG,0,1,P-59837,Rashford,Marcus,11,T-28,England,ENG,50',50,0,second half,False,False,50
+3554,G-3554,WC-2022,M-2022-36,Wales vs England,2022-11-29,group stage,T-28,England,ENG,0,1,P-10501,Foden,Phil,20,T-28,England,ENG,51',51,0,second half,False,False,51
+3555,G-3555,WC-2022,M-2022-36,Wales vs England,2022-11-29,group stage,T-28,England,ENG,0,1,P-59837,Rashford,Marcus,11,T-28,England,ENG,68',68,0,second half,False,False,68
+3556,G-3556,WC-2022,M-2022-37,Australia vs Denmark,2022-11-30,group stage,T-04,Australia,AUS,1,0,P-35837,Leckie,Mathew,7,T-04,Australia,AUS,60',60,0,second half,False,False,60
+3557,G-3557,WC-2022,M-2022-38,Tunisia vs France,2022-11-30,group stage,T-79,Tunisia,TUN,1,0,P-42223,Khazri,Wahbi,10,T-79,Tunisia,TUN,58',58,0,second half,False,False,58
+3558,G-3558,WC-2022,M-2022-39,Poland vs Argentina,2022-11-30,group stage,T-03,Argentina,ARG,0,1,P-71343,Mac Allister,Alexis,20,T-03,Argentina,ARG,46',46,0,second half,False,False,46
+3559,G-3559,WC-2022,M-2022-39,Poland vs Argentina,2022-11-30,group stage,T-03,Argentina,ARG,0,1,P-19776,Álvarez,Julián,9,T-03,Argentina,ARG,67',67,0,second half,False,False,67
+3560,G-3560,WC-2022,M-2022-40,Saudi Arabia vs Mexico,2022-11-30,group stage,T-46,Mexico,MEX,0,1,P-49482,Martín,Henry,20,T-46,Mexico,MEX,47',47,0,second half,False,False,47
+3561,G-3561,WC-2022,M-2022-40,Saudi Arabia vs Mexico,2022-11-30,group stage,T-46,Mexico,MEX,0,1,P-49806,Chávez,Luis,24,T-46,Mexico,MEX,52',52,0,second half,False,False,52
+3562,G-3562,WC-2022,M-2022-40,Saudi Arabia vs Mexico,2022-11-30,group stage,T-63,Saudi Arabia,SAU,1,0,P-70583,Al-Dawsari,Salem,10,T-63,Saudi Arabia,SAU,90'+5',90,5,"second half, stoppage time",False,False,95
+3563,G-3563,WC-2022,M-2022-41,Canada vs Morocco,2022-12-01,group stage,T-47,Morocco,MAR,0,1,P-70715,Ziyech,Hakim,7,T-47,Morocco,MAR,4',4,0,first half,False,False,4
+3564,G-3564,WC-2022,M-2022-41,Canada vs Morocco,2022-12-01,group stage,T-47,Morocco,MAR,0,1,P-42517,En-Nesyri,Youssef,19,T-47,Morocco,MAR,23',23,0,first half,False,False,23
+3565,G-3565,WC-2022,M-2022-41,Canada vs Morocco,2022-12-01,group stage,T-12,Canada,CAN,1,0,P-47490,Aguerd,Nayef,5,T-47,Morocco,MAR,40',40,0,first half,True,False,40
+3566,G-3566,WC-2022,M-2022-43,Costa Rica vs Germany,2022-12-01,group stage,T-31,Germany,DEU,0,1,P-75989,Gnabry,Serge,10,T-31,Germany,DEU,10',10,0,first half,False,False,10
+3567,G-3567,WC-2022,M-2022-43,Costa Rica vs Germany,2022-12-01,group stage,T-17,Costa Rica,CRI,1,0,P-24978,Tejeda,Yeltsin,17,T-17,Costa Rica,CRI,58',58,0,second half,False,False,58
+3568,G-3568,WC-2022,M-2022-43,Costa Rica vs Germany,2022-12-01,group stage,T-17,Costa Rica,CRI,1,0,P-65777,Vargas,Juan Pablo,3,T-17,Costa Rica,CRI,70',70,0,second half,False,False,70
+3569,G-3569,WC-2022,M-2022-43,Costa Rica vs Germany,2022-12-01,group stage,T-31,Germany,DEU,0,1,P-77743,Havertz,Kai,7,T-31,Germany,DEU,73',73,0,second half,False,False,73
+3570,G-3570,WC-2022,M-2022-43,Costa Rica vs Germany,2022-12-01,group stage,T-31,Germany,DEU,0,1,P-77743,Havertz,Kai,7,T-31,Germany,DEU,85',85,0,second half,False,False,85
+3571,G-3571,WC-2022,M-2022-43,Costa Rica vs Germany,2022-12-01,group stage,T-31,Germany,DEU,0,1,P-46246,Füllkrug,Niclas,9,T-31,Germany,DEU,89',89,0,second half,False,False,89
+3572,G-3572,WC-2022,M-2022-44,Japan vs Spain,2022-12-01,group stage,T-73,Spain,ESP,0,1,P-29274,Morata,Álvaro,7,T-73,Spain,ESP,11',11,0,first half,False,False,11
+3573,G-3573,WC-2022,M-2022-44,Japan vs Spain,2022-12-01,group stage,T-44,Japan,JPN,1,0,P-58907,Dōan,Ritsu,8,T-44,Japan,JPN,48',48,0,second half,False,False,48
+3574,G-3574,WC-2022,M-2022-44,Japan vs Spain,2022-12-01,group stage,T-44,Japan,JPN,1,0,P-82447,Tanaka,Ao,17,T-44,Japan,JPN,51',51,0,second half,False,False,51
+3575,G-3575,WC-2022,M-2022-45,Ghana vs Uruguay,2022-12-02,group stage,T-84,Uruguay,URY,0,1,P-62594,De Arrascaeta,Giorgian,10,T-84,Uruguay,URY,26',26,0,first half,False,False,26
+3576,G-3576,WC-2022,M-2022-45,Ghana vs Uruguay,2022-12-02,group stage,T-84,Uruguay,URY,0,1,P-62594,De Arrascaeta,Giorgian,10,T-84,Uruguay,URY,32',32,0,first half,False,False,32
+3577,G-3577,WC-2022,M-2022-46,South Korea vs Portugal,2022-12-02,group stage,T-58,Portugal,PRT,0,1,P-05304,Horta,Ricardo,21,T-58,Portugal,PRT,5',5,0,first half,False,False,5
+3578,G-3578,WC-2022,M-2022-46,South Korea vs Portugal,2022-12-02,group stage,T-71,Korea Republic,KOR,1,0,P-07259,Kim,Young-gwon,19,T-71,Korea Republic,KOR,27',27,0,first half,False,False,27
+3579,G-3579,WC-2022,M-2022-46,South Korea vs Portugal,2022-12-02,group stage,T-71,Korea Republic,KOR,1,0,P-58692,Hwang,Hee-chan,11,T-71,Korea Republic,KOR,90'+1',90,1,"second half, stoppage time",False,False,91
+3580,G-3580,WC-2022,M-2022-47,Cameroon vs Brazil,2022-12-02,group stage,T-11,Cameroon,CMR,1,0,P-53452,Aboubakar,Vincent,10,T-11,Cameroon,CMR,90'+2',90,2,"second half, stoppage time",False,False,92
+3581,G-3581,WC-2022,M-2022-48,Serbia vs Switzerland,2022-12-02,group stage,T-75,Switzerland,CHE,0,1,P-39460,Shaqiri,Xherdan,23,T-75,Switzerland,CHE,20',20,0,first half,False,False,20
+3582,G-3582,WC-2022,M-2022-48,Serbia vs Switzerland,2022-12-02,group stage,T-66,Serbia,SRB,1,0,P-85696,Mitrović,Aleksandar,9,T-66,Serbia,SRB,26',26,0,first half,False,False,26
+3583,G-3583,WC-2022,M-2022-48,Serbia vs Switzerland,2022-12-02,group stage,T-66,Serbia,SRB,1,0,P-63293,Vlahović,Dušan,18,T-66,Serbia,SRB,35',35,0,first half,False,False,35
+3584,G-3584,WC-2022,M-2022-48,Serbia vs Switzerland,2022-12-02,group stage,T-75,Switzerland,CHE,0,1,P-19075,Embolo,Breel,7,T-75,Switzerland,CHE,44',44,0,first half,False,False,44
+3585,G-3585,WC-2022,M-2022-48,Serbia vs Switzerland,2022-12-02,group stage,T-75,Switzerland,CHE,0,1,P-68060,Freuler,Remo,8,T-75,Switzerland,CHE,48',48,0,second half,False,False,48
+3586,G-3586,WC-2022,M-2022-49,Netherlands vs United States,2022-12-03,round of 16,T-48,Netherlands,NLD,1,0,P-27540,Depay,Memphis,10,T-48,Netherlands,NLD,10',10,0,first half,False,False,10
+3587,G-3587,WC-2022,M-2022-49,Netherlands vs United States,2022-12-03,round of 16,T-48,Netherlands,NLD,1,0,P-39861,Blind,Daley,17,T-48,Netherlands,NLD,45'+1',45,1,"first half, stoppage time",False,False,46
+3588,G-3588,WC-2022,M-2022-49,Netherlands vs United States,2022-12-03,round of 16,T-83,United States,USA,0,1,P-68131,Wright,Haji,19,T-83,United States,USA,76',76,0,second half,False,False,76
+3589,G-3589,WC-2022,M-2022-49,Netherlands vs United States,2022-12-03,round of 16,T-48,Netherlands,NLD,1,0,P-97615,Dumfries,Denzel,22,T-48,Netherlands,NLD,81',81,0,second half,False,False,81
+3590,G-3590,WC-2022,M-2022-50,Argentina vs Australia,2022-12-03,round of 16,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,35',35,0,first half,False,False,35
+3591,G-3591,WC-2022,M-2022-50,Argentina vs Australia,2022-12-03,round of 16,T-03,Argentina,ARG,1,0,P-19776,Álvarez,Julián,9,T-03,Argentina,ARG,57',57,0,second half,False,False,57
+3592,G-3592,WC-2022,M-2022-50,Argentina vs Australia,2022-12-03,round of 16,T-04,Australia,AUS,0,1,P-10739,Fernández,Enzo,24,T-03,Argentina,ARG,77',77,0,second half,True,False,77
+3593,G-3593,WC-2022,M-2022-51,France vs Poland,2022-12-04,round of 16,T-30,France,FRA,1,0,P-89750,Giroud,Olivier,9,T-30,France,FRA,44',44,0,first half,False,False,44
+3594,G-3594,WC-2022,M-2022-51,France vs Poland,2022-12-04,round of 16,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,74',74,0,second half,False,False,74
+3595,G-3595,WC-2022,M-2022-51,France vs Poland,2022-12-04,round of 16,T-30,France,FRA,1,0,P-64077,Mbappé,Kylian,10,T-30,France,FRA,90'+1',90,1,"second half, stoppage time",False,False,91
+3596,G-3596,WC-2022,M-2022-51,France vs Poland,2022-12-04,round of 16,T-57,Poland,POL,0,1,P-00549,Lewandowski,Robert,9,T-57,Poland,POL,90'+9',90,9,"second half, stoppage time",False,True,99
+3597,G-3597,WC-2022,M-2022-52,England vs Senegal,2022-12-04,round of 16,T-28,England,ENG,1,0,P-08169,Henderson,Jordan,8,T-28,England,ENG,38',38,0,first half,False,False,38
+3598,G-3598,WC-2022,M-2022-52,England vs Senegal,2022-12-04,round of 16,T-28,England,ENG,1,0,P-58924,Kane,Harry,9,T-28,England,ENG,45'+3',45,3,"first half, stoppage time",False,False,48
+3599,G-3599,WC-2022,M-2022-52,England vs Senegal,2022-12-04,round of 16,T-28,England,ENG,1,0,P-76842,Saka,Bukayo,17,T-28,England,ENG,57',57,0,second half,False,False,57
+3600,G-3600,WC-2022,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,T-44,Japan,JPN,1,0,P-30206,Maeda,Daizen,25,T-44,Japan,JPN,43',43,0,first half,False,False,43
+3601,G-3601,WC-2022,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,T-18,Croatia,HRV,0,1,P-93884,Perišić,Ivan,4,T-18,Croatia,HRV,55',55,0,second half,False,False,55
+3602,G-3602,WC-2022,M-2022-54,Brazil vs South Korea,2022-12-05,round of 16,T-09,Brazil,BRA,1,0,P-92812,Júnior,Vinícius,20,T-09,Brazil,BRA,7',7,0,first half,False,False,7
+3603,G-3603,WC-2022,M-2022-54,Brazil vs South Korea,2022-12-05,round of 16,T-09,Brazil,BRA,1,0,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,13',13,0,first half,False,True,13
+3604,G-3604,WC-2022,M-2022-54,Brazil vs South Korea,2022-12-05,round of 16,T-09,Brazil,BRA,1,0,P-68016,Richarlison,not applicable,9,T-09,Brazil,BRA,29',29,0,first half,False,False,29
+3605,G-3605,WC-2022,M-2022-54,Brazil vs South Korea,2022-12-05,round of 16,T-09,Brazil,BRA,1,0,P-05164,Paquetá,Lucas,7,T-09,Brazil,BRA,36',36,0,first half,False,False,36
+3606,G-3606,WC-2022,M-2022-54,Brazil vs South Korea,2022-12-05,round of 16,T-71,Korea Republic,KOR,0,1,P-32599,Seung-ho,Paik,8,T-71,Korea Republic,KOR,76',76,0,second half,False,False,76
+3607,G-3607,WC-2022,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,T-58,Portugal,PRT,1,0,P-41647,Ramos,Gonçalo,26,T-58,Portugal,PRT,17',17,0,first half,False,False,17
+3608,G-3608,WC-2022,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,T-58,Portugal,PRT,1,0,P-81972,Pepe,not applicable,3,T-58,Portugal,PRT,33',33,0,first half,False,False,33
+3609,G-3609,WC-2022,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,T-58,Portugal,PRT,1,0,P-41647,Ramos,Gonçalo,26,T-58,Portugal,PRT,51',51,0,second half,False,False,51
+3610,G-3610,WC-2022,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,T-58,Portugal,PRT,1,0,P-67578,Guerreiro,Raphaël,5,T-58,Portugal,PRT,55',55,0,second half,False,False,55
+3611,G-3611,WC-2022,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,T-75,Switzerland,CHE,0,1,P-23925,Akanji,Manuel,5,T-75,Switzerland,CHE,58',58,0,second half,False,False,58
+3612,G-3612,WC-2022,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,T-58,Portugal,PRT,1,0,P-41647,Ramos,Gonçalo,26,T-58,Portugal,PRT,67',67,0,second half,False,False,67
+3613,G-3613,WC-2022,M-2022-56,Portugal vs Switzerland,2022-12-06,round of 16,T-58,Portugal,PRT,1,0,P-27349,Leão,Rafael,15,T-58,Portugal,PRT,90'+2',90,2,"second half, stoppage time",False,False,92
+3614,G-3614,WC-2022,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,T-09,Brazil,BRA,0,1,P-87008,Neymar,not applicable,10,T-09,Brazil,BRA,105'+1',105,1,"extra time, first half, stoppage time",False,False,106
+3615,G-3615,WC-2022,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,T-18,Croatia,HRV,1,0,P-46461,Petković,Bruno,16,T-18,Croatia,HRV,117',117,0,"extra time, second half",False,False,117
+3616,G-3616,WC-2022,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,T-03,Argentina,ARG,0,1,P-84430,Molina,Nahuel,26,T-03,Argentina,ARG,35',35,0,first half,False,False,35
+3617,G-3617,WC-2022,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,T-03,Argentina,ARG,0,1,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,73',73,0,second half,False,True,73
+3618,G-3618,WC-2022,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,T-48,Netherlands,NLD,1,0,P-95036,Weghorst,Wout,19,T-48,Netherlands,NLD,83',83,0,second half,False,False,83
+3619,G-3619,WC-2022,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,T-48,Netherlands,NLD,1,0,P-95036,Weghorst,Wout,19,T-48,Netherlands,NLD,90'+11',90,11,"second half, stoppage time",False,False,101
+3620,G-3620,WC-2022,M-2022-59,Morocco vs Portugal,2022-12-10,quarter-finals,T-47,Morocco,MAR,1,0,P-42517,En-Nesyri,Youssef,19,T-47,Morocco,MAR,42',42,0,first half,False,False,42
+3621,G-3621,WC-2022,M-2022-60,England vs France,2022-12-10,quarter-finals,T-30,France,FRA,0,1,P-54517,Tchouaméni,Aurélien,8,T-30,France,FRA,17',17,0,first half,False,False,17
+3622,G-3622,WC-2022,M-2022-60,England vs France,2022-12-10,quarter-finals,T-28,England,ENG,1,0,P-58924,Kane,Harry,9,T-28,England,ENG,54',54,0,second half,False,True,54
+3623,G-3623,WC-2022,M-2022-60,England vs France,2022-12-10,quarter-finals,T-30,France,FRA,0,1,P-89750,Giroud,Olivier,9,T-30,France,FRA,78',78,0,second half,False,False,78
+3624,G-3624,WC-2022,M-2022-61,Argentina vs Croatia,2022-12-13,semi-finals,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,34',34,0,first half,False,True,34
+3625,G-3625,WC-2022,M-2022-61,Argentina vs Croatia,2022-12-13,semi-finals,T-03,Argentina,ARG,1,0,P-19776,Álvarez,Julián,9,T-03,Argentina,ARG,39',39,0,first half,False,False,39
+3626,G-3626,WC-2022,M-2022-61,Argentina vs Croatia,2022-12-13,semi-finals,T-03,Argentina,ARG,1,0,P-19776,Álvarez,Julián,9,T-03,Argentina,ARG,69',69,0,second half,False,False,69
+3627,G-3627,WC-2022,M-2022-62,France vs Morocco,2022-12-14,semi-finals,T-30,France,FRA,1,0,P-09867,Hernandez,Théo,22,T-30,France,FRA,5',5,0,first half,False,False,5
+3628,G-3628,WC-2022,M-2022-62,France vs Morocco,2022-12-14,semi-finals,T-30,France,FRA,1,0,P-92987,Kolo Muani,Randal,12,T-30,France,FRA,79',79,0,second half,False,False,79
+3629,G-3629,WC-2022,M-2022-63,Croatia vs Morocco,2022-12-17,third-place match,T-18,Croatia,HRV,1,0,P-58420,Gvardiol,Joško,20,T-18,Croatia,HRV,7',7,0,first half,False,False,7
+3630,G-3630,WC-2022,M-2022-63,Croatia vs Morocco,2022-12-17,third-place match,T-47,Morocco,MAR,0,1,P-52013,Dari,Achraf,20,T-47,Morocco,MAR,9',9,0,first half,False,False,9
+3631,G-3631,WC-2022,M-2022-63,Croatia vs Morocco,2022-12-17,third-place match,T-18,Croatia,HRV,1,0,P-26942,Oršić,Mislav,18,T-18,Croatia,HRV,42',42,0,first half,False,False,42
+3632,G-3632,WC-2022,M-2022-64,Argentina vs France,2022-12-18,final,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,23',23,0,first half,False,True,23
+3633,G-3633,WC-2022,M-2022-64,Argentina vs France,2022-12-18,final,T-03,Argentina,ARG,1,0,P-42113,Di María,Ángel,11,T-03,Argentina,ARG,36',36,0,first half,False,False,36
+3634,G-3634,WC-2022,M-2022-64,Argentina vs France,2022-12-18,final,T-30,France,FRA,0,1,P-64077,Mbappé,Kylian,10,T-30,France,FRA,80',80,0,second half,False,True,80
+3635,G-3635,WC-2022,M-2022-64,Argentina vs France,2022-12-18,final,T-30,France,FRA,0,1,P-64077,Mbappé,Kylian,10,T-30,France,FRA,81',81,0,second half,False,False,81
+3636,G-3636,WC-2022,M-2022-64,Argentina vs France,2022-12-18,final,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,T-03,Argentina,ARG,108',108,0,"extra time, second half",False,False,108
+3637,G-3637,WC-2022,M-2022-64,Argentina vs France,2022-12-18,final,T-30,France,FRA,0,1,P-64077,Mbappé,Kylian,10,T-30,France,FRA,118',118,0,"extra time, second half",False,True,118
