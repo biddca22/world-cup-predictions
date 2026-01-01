@@ -7,75 +7,111 @@ rank,country_full,country_abrv,rank_date
 49,Slovakia,SVK,2002-05-15
 48,Australia,AUS,2002-05-15
 46,Côte d'Ivoire,CIV,2002-05-15
+45,Chile,CHL,2002-05-15
 44,Ukraine,UKR,2002-05-15
 43,Egypt,EGY,2002-05-15
 42,Senegal,SEN,2002-05-15
 40,Korea Republic,KOR,2002-05-15
 39,Morocco,MAR,2002-05-15
 38,Poland,POL,2002-05-15
+37,South Africa,ZAF,2002-05-15
 36,Ecuador,ECU,2002-05-15
+35,Trinidad and Tobago,TTO,2002-05-15
+34,Saudi Arabia,SAU,2002-05-15
 32,Japan,JPN,2002-05-15
 31,Tunisia,TUN,2002-05-15
 30,IR Iran,IRN,2002-05-15
+29,Costa Rica,CRI,2002-05-15
 28,Russia,RUS,2002-05-15
 27,Nigeria,NGA,2002-05-15
 25,Slovenia,SVN,2002-05-15
+24,Uruguay,URY,2002-05-15
 23,Belgium,BEL,2002-05-15
 22,Turkey,TUR,2002-05-15
+21,Croatia,HRV,2002-05-15
 50,China PR,CHN,2002-05-15
 52,Ghana,GHA,2002-05-15
+53,Greece,GRC,2002-05-15
+79,Algeria,DZA,2002-05-15
 75,Canada,CAN,2002-05-15
 73,Qatar,QAT,2002-05-15
 72,Bosnia and Herzegovina,BIH,2002-05-15
+69,Togo,TGO,2002-05-15
+20,Denmark,DNK,2002-05-15
+64,Switzerland,CHE,2002-05-15
+58,Angola,AGO,2002-05-15
 56,Iceland,ISL,2002-05-15
 19,Sweden,SWE,2002-05-15
+26,Honduras,HND,2002-05-15
 17,Cameroon,CMR,2002-05-15
 1,France,FRA,2002-05-15
 2,Brazil,BRA,2002-05-15
 3,Argentina,ARG,2002-05-15
 4,Colombia,COL,2002-05-15
+5,Portugal,PRT,2002-05-15
 6,Italy,ITA,2002-05-15
 8,Spain,ESP,2002-05-15
+9,Netherlands,NLD,2002-05-15
 7,Mexico,MEX,2002-05-15
+11,Germany,DEU,2002-05-15
 12,England,ENG,2002-05-15
 13,USA,USA,2002-05-15
 15,Republic of Ireland,IRL,2002-05-15
 16,Czech Republic,CZE,2002-05-15
+18,Paraguay,PRY,2002-05-15
 48,Ghana,GHA,2006-05-17
+47,Trinidad and Tobago,TTO,2006-05-17
 45,Ukraine,UKR,2006-05-17
+53,South Africa,ZAF,2006-05-17
 56,Belgium,BEL,2006-05-17
+57,Angola,AGO,2006-05-17
 44,Serbia and Montenegro,SCG,2006-05-17
 29,Poland,POL,2006-05-17
+42,Honduras,HND,2006-05-17
 18,Japan,JPN,2006-05-17
 17,Egypt,EGY,2006-05-17
 16,Sweden,SWE,2006-05-17
 15,Cameroon,CMR,2006-05-17
 14,Turkey,TUR,2006-05-17
 13,Italy,ITA,2006-05-17
+11,Denmark,DNK,2006-05-17
 11,Nigeria,NGA,2006-05-17
+19,Germany,DEU,2006-05-17
 10,England,ENG,2006-05-17
 8,France,FRA,2006-05-17
+7,Portugal,PRT,2006-05-17
 5,Spain,ESP,2006-05-17
 5,USA,USA,2006-05-17
 4,Mexico,MEX,2006-05-17
+3,Netherlands,NLD,2006-05-17
 2,Czech Republic,CZE,2006-05-17
 1,Brazil,BRA,2006-05-17
 9,Argentina,ARG,2006-05-17
+20,Greece,GRC,2006-05-17
 21,Tunisia,TUN,2006-05-17
+22,Uruguay,URY,2006-05-17
 41,Slovakia,SVK,2006-05-17
 39,Ecuador,ECU,2006-05-17
 37,Russia,RUS,2006-05-17
 36,Morocco,MAR,2006-05-17
+35,Switzerland,CHE,2006-05-17
+34,Saudi Arabia,SAU,2006-05-17
+33,Paraguay,PRY,2006-05-17
 32,Côte d'Ivoire,CIV,2006-05-17
 31,Republic of Ireland,IRL,2006-05-17
 29,Korea Republic,KOR,2006-05-17
+61,Togo,TGO,2006-05-17
 28,Senegal,SEN,2006-05-17
 27,Colombia,COL,2006-05-17
+26,Costa Rica,CRI,2006-05-17
+23,Croatia,HRV,2006-05-17
 23,IR Iran,IRN,2006-05-17
 42,Australia,AUS,2006-05-17
+64,Chile,CHL,2006-05-17
 63,Bosnia and Herzegovina,BIH,2006-05-17
 99,Iceland,ISL,2006-05-17
 88,Korea DPR,PRK,2006-05-17
+87,Algeria,DZA,2006-05-17
 66,Peru,PER,2006-05-17
 68,China PR,CHN,2006-05-17
 71,Slovenia,SVN,2006-05-17
@@ -87,26 +123,39 @@ rank,country_full,country_abrv,rank_date
 27,Côte d'Ivoire,CIV,2010-05-26
 34,Slovakia,SVK,2010-05-26
 29,Turkey,TUR,2010-05-26
+30,Algeria,DZA,2010-05-26
+31,Paraguay,PRY,2010-05-26
 32,Ghana,GHA,2010-05-26
 33,Czech Republic,CZE,2010-05-26
 35,Colombia,COL,2010-05-26
 41,Republic of Ireland,IRL,2010-05-26
 37,Sweden,SWE,2010-05-26
+38,Honduras,HND,2010-05-26
+40,Costa Rica,CRI,2010-05-26
 44,Ecuador,ECU,2010-05-26
 25,Slovenia,SVN,2010-05-26
 45,Japan,JPN,2010-05-26
+36,Denmark,DNK,2010-05-26
+24,Switzerland,CHE,2010-05-26
 7,Argentina,ARG,2010-05-26
 21,Nigeria,NGA,2010-05-26
 1,Brazil,BRA,2010-05-26
 2,Spain,ESP,2010-05-26
+3,Portugal,PRT,2010-05-26
+4,Netherlands,NLD,2010-05-26
 5,Italy,ITA,2010-05-26
+6,Germany,DEU,2010-05-26
 8,England,ENG,2010-05-26
 9,France,FRA,2010-05-26
+10,Croatia,HRV,2010-05-26
 11,Russia,RUS,2010-05-26
 12,Egypt,EGY,2010-05-26
+13,Greece,GRC,2010-05-26
 14,USA,USA,2010-05-26
 15,Serbia,SRB,2010-05-26
+16,Uruguay,URY,2010-05-26
 17,Mexico,MEX,2010-05-26
+18,Chile,CHL,2010-05-26
 19,Cameroon,CMR,2010-05-26
 20,Australia,AUS,2010-05-26
 47,Korea Republic,KOR,2010-05-26
@@ -115,8 +164,11 @@ rank,country_full,country_abrv,rank_date
 96,Qatar,QAT,2010-05-26
 74,Panama,PAN,2010-05-26
 75,Senegal,SEN,2010-05-26
+76,Togo,TGO,2010-05-26
 77,Wales,WAL,2010-05-26
 78,New Zealand,NZL,2010-05-26
+83,South Africa,ZAF,2010-05-26
+88,Angola,AGO,2010-05-26
 90,Iceland,ISL,2010-05-26
 51,Bosnia and Herzegovina,BIH,2010-05-26
 53,Peru,PER,2010-05-26
@@ -125,34 +177,52 @@ rank,country_full,country_abrv,rank_date
 59,Belgium,BEL,2010-05-26
 61,IR Iran,IRN,2010-05-26
 63,Canada,CAN,2010-05-26
+66,Saudi Arabia,SAU,2010-05-26
 70,Morocco,MAR,2010-05-26
 84,China PR,CHN,2010-05-26
+95,Trinidad and Tobago,TTO,2010-05-26
 77,Morocco,MAR,2014-06-05
 74,Senegal,SEN,2014-06-05
+71,Trinidad and Tobago,TTO,2014-06-05
 70,Republic of Ireland,IRL,2014-06-05
 69,Poland,POL,2014-06-05
+65,South Africa,ZAF,2014-06-05
 62,Australia,AUS,2014-06-05
 57,Korea Republic,KOR,2014-06-05
 56,Cameroon,CMR,2014-06-05
+90,Saudi Arabia,SAU,2014-06-05
 103,China PR,CHN,2014-06-05
 1,Spain,ESP,2014-06-05
 97,New Zealand,NZL,2014-06-05
+88,Togo,TGO,2014-06-05
+93,Angola,AGO,2014-06-05
+28,Costa Rica,CRI,2014-06-05
 52,Iceland,ISL,2014-06-05
 25,Slovenia,SVN,2014-06-05
 23,Côte d'Ivoire,CIV,2014-06-05
+23,Denmark,DNK,2014-06-05
+22,Algeria,DZA,2014-06-05
 21,Bosnia and Herzegovina,BIH,2014-06-05
 20,Mexico,MEX,2014-06-05
 19,Russia,RUS,2014-06-05
+18,Croatia,HRV,2014-06-05
 17,France,FRA,2014-06-05
 16,Ukraine,UKR,2014-06-05
 26,Ecuador,ECU,2014-06-05
+15,Netherlands,NLD,2014-06-05
 13,USA,USA,2014-06-05
+12,Greece,GRC,2014-06-05
 11,Belgium,BEL,2014-06-05
 10,England,ENG,2014-06-05
 9,Italy,ITA,2014-06-05
 8,Colombia,COL,2014-06-05
+7,Uruguay,URY,2014-06-05
+6,Switzerland,CHE,2014-06-05
 5,Argentina,ARG,2014-06-05
+4,Portugal,PRT,2014-06-05
+14,Chile,CHL,2014-06-05
 30,Serbia,SRB,2014-06-05
+50,Paraguay,PRY,2014-06-05
 49,Slovakia,SVK,2014-06-05
 48,Tunisia,TUN,2014-06-05
 46,Japan,JPN,2014-06-05
@@ -164,16 +234,22 @@ rank,country_full,country_abrv,rank_date
 36,Egypt,EGY,2014-06-05
 35,Turkey,TUR,2014-06-05
 34,Czech Republic,CZE,2014-06-05
+33,Honduras,HND,2014-06-05
 32,Sweden,SWE,2014-06-05
 31,Panama,PAN,2014-06-05
 100,Qatar,QAT,2014-06-05
 3,Brazil,BRA,2014-06-05
 110,Canada,CAN,2014-06-05
 146,Korea DPR,PRK,2014-06-05
+2,Germany,DEU,2014-06-05
+137,Angola,AGO,2018-06-07
 108,Korea DPR,PRK,2018-06-07
 120,New Zealand,NZL,2018-06-07
+125,Togo,TGO,2018-06-07
 2,Brazil,BRA,2018-06-07
+1,Germany,DEU,2018-06-07
 31,Republic of Ireland,IRL,2018-06-07
+32,Paraguay,PRY,2018-06-07
 34,Serbia,SRB,2018-06-07
 35,Ukraine,UKR,2018-06-07
 36,Australia,AUS,2018-06-07
@@ -181,6 +257,7 @@ rank,country_full,country_abrv,rank_date
 38,Turkey,TUR,2018-06-07
 28,Slovakia,SVK,2018-06-07
 41,Morocco,MAR,2018-06-07
+44,Greece,GRC,2018-06-07
 45,Egypt,EGY,2018-06-07
 46,Czech Republic,CZE,2018-06-07
 47,Ghana,GHA,2018-06-07
@@ -190,43 +267,62 @@ rank,country_full,country_abrv,rank_date
 27,Senegal,SEN,2018-06-07
 25,USA,USA,2018-06-07
 3,Belgium,BEL,2018-06-07
+4,Portugal,PRT,2018-06-07
 5,Argentina,ARG,2018-06-07
+6,Switzerland,CHE,2018-06-07
 7,France,FRA,2018-06-07
 8,Poland,POL,2018-06-07
+9,Chile,CHL,2018-06-07
 10,Spain,ESP,2018-06-07
 11,Peru,PER,2018-06-07
+12,Denmark,DNK,2018-06-07
 12,England,ENG,2018-06-07
 15,Mexico,MEX,2018-06-07
 16,Colombia,COL,2018-06-07
+17,Netherlands,NLD,2018-06-07
 18,Wales,WAL,2018-06-07
 19,Italy,ITA,2018-06-07
+20,Croatia,HRV,2018-06-07
 21,Tunisia,TUN,2018-06-07
 22,Iceland,ISL,2018-06-07
+23,Costa Rica,CRI,2018-06-07
 24,Sweden,SWE,2018-06-07
+14,Uruguay,URY,2018-06-07
 79,Canada,CAN,2018-06-07
+91,Trinidad and Tobago,TTO,2018-06-07
 98,Qatar,QAT,2018-06-07
 55,Panama,PAN,2018-06-07
 56,Slovenia,SVN,2018-06-07
 57,Korea Republic,KOR,2018-06-07
 60,Ecuador,ECU,2018-06-07
 61,Japan,JPN,2018-06-07
+62,Honduras,HND,2018-06-07
+66,Algeria,DZA,2018-06-07
+67,Saudi Arabia,SAU,2018-06-07
 68,Côte d'Ivoire,CIV,2018-06-07
 70,Russia,RUS,2018-06-07
+74,South Africa,ZAF,2018-06-07
 75,China PR,CHN,2018-06-07
 3,Argentina,ARG,2022-10-06
 1,Brazil,BRA,2022-10-06
 2,Belgium,BEL,2022-10-06
 4,France,FRA,2022-10-06
+10,Denmark,DNK,2022-10-06
 6,Italy,ITA,2022-10-06
+80,Honduras,HND,2022-10-06
 79,China PR,CHN,2022-10-06
+67,South Africa,ZAF,2022-10-06
 63,Slovenia,SVN,2022-10-06
 105,New Zealand,NZL,2022-10-06
+104,Trinidad and Tobago,TTO,2022-10-06
 62,Iceland,ISL,2022-10-06
 61,Ghana,GHA,2022-10-06
 60,Panama,PAN,2022-10-06
 33,Russia,RUS,2022-10-06
 32,Nigeria,NGA,2022-10-06
+31,Costa Rica,CRI,2022-10-06
 30,Tunisia,TUN,2022-10-06
+29,Chile,CHL,2022-10-06
 28,Korea Republic,KOR,2022-10-06
 27,Ukraine,UKR,2022-10-06
 26,Poland,POL,2022-10-06
@@ -240,12 +336,18 @@ rank,country_full,country_abrv,rank_date
 18,Senegal,SEN,2022-10-06
 5,England,ENG,2022-10-06
 16,USA,USA,2022-10-06
+15,Switzerland,CHE,2022-10-06
+14,Uruguay,URY,2022-10-06
 13,Mexico,MEX,2022-10-06
 35,Czechia,CZE,2022-10-06
+37,Algeria,DZA,2022-10-06
 58,Bosnia and Herzegovina,BIH,2022-10-06
 55,Slovakia,SVK,2022-10-06
+52,Greece,GRC,2022-10-06
+51,Saudi Arabia,SAU,2022-10-06
 50,Qatar,QAT,2022-10-06
 49,Republic of Ireland,IRL,2022-10-06
+47,Paraguay,PRY,2022-10-06
 45,Türkiye,TUR,2022-10-06
 44,Ecuador,ECU,2022-10-06
 43,Cameroon,CMR,2022-10-06
@@ -253,6 +355,12 @@ rank,country_full,country_abrv,rank_date
 39,Egypt,EGY,2022-10-06
 38,Australia,AUS,2022-10-06
 48,Côte d'Ivoire,CIV,2022-10-06
+12,Croatia,HRV,2022-10-06
+127,Togo,TGO,2022-10-06
+119,Angola,AGO,2022-10-06
 112,Korea DPR,PRK,2022-10-06
+11,Germany,DEU,2022-10-06
 17,Colombia,COL,2022-10-06
 7,Spain,ESP,2022-10-06
+8,Netherlands,NLD,2022-10-06
+9,Portugal,PRT,2022-10-06
